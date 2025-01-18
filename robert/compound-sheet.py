@@ -274,3 +274,8 @@ output = pandas.DataFrame.from_dict(compound_dict).T
 output["compound_name"] = output.index
 output = output[["compound_name", "kegg", "number of involved reactions", "appears in part 1", "appears in part 2", "appears in part 3", "appears in part 4", "appears in part 5", "appears in part 6", "appears in part 7"]]
 output.to_csv("out.csv", index=False)
+
+output2 = output.copy()
+output2.loc[:,"i"] = range(1,len(output2)+1)
+output2 = output2[["i","compound_name", "number of involved reactions", "appears in part 1", "appears in part 2", "appears in part 3", "appears in part 4", "appears in part 5", "appears in part 6", "appears in part 7"]]
+output2.to_csv("out2.csv", index=False)
