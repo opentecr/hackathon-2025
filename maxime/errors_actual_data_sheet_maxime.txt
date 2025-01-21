@@ -1,0 +1,243 @@
+New: glycolate(aq) + NAD(aq) = glyoxylate(aq) + NADH(aq)
+Old: glycolate + NAD = ...
+---
+New: 2,4-dihydroxybutanoate(aq) + NAD(aq) = 2-oxo-4-hydroxybutanoate(aq) + NADH(aq)
+Old: 2,4-dihydroxybutanoate(aq) + NAD(aq) = ...
+---
+New: (3R)-3-hydroxybutanoyl-[acyl-carrier protein](aq) + NADP(aq) = 3-oxobutanoyl-[acyl-carrier protein](aq) + NADPH(aq)
+Old: (3R)-3-hydroxybutanoyl-[acyl-carrier protein](aq) + NADP(aq) -3-oxobutanoyl-[ acyl-carrier protein](aq) + NADPH(aq)
+---
+New: glycine(aq) + NAD(aq) + H2O(l) = glyoxylate(aq) + NADH(aq) + ammonia(aq)
+Old: glycine(ag) + NAD(aq) + H2O(l) = glyoxylate(aq) + NADH(aq) + ammonia(aq)
+---
+New: 2-hydroxymethylserine(aq) + tetrahydrofolate(aq) = 5,10-methylenetetrahydrofolate(aq) + D-serine(aq) + H2O(l)
+Old: 2-hydroxymethylserine(aq) + tetrahydrofolate(aq) = 5,10-methylenetetrahydrofolate(aq) + D-serine(aq) + H2O(1)
+---
+New: n-decanoic acid glycerol qiester(sln) + H2O(sln) = n-decanoic acid(sln) + n-decanoic acid glycerol monoester(sln)
+Old: n-decanoic acid glycerol qiester(sln) + H20(sln) = n-decanoic acid(sln) +n -decanoic acid glycerol monoester(sln)
+---
+New: n-decanoic acid glycerol monoester(sln) + H2O(sln) = n-decanoic acid(sln) + glycerol(sln)
+Old: n-decanoic acid glycerol monoester(sln) + H20(sln) = n-decanoic acid(sln) +glycerol(sln) 
+---
+New: n-decanoic acid glycerol triester(sln) + H2O(sln) = n-decanoic acid(sln) + n-decanoic acid glycerol diester(sln)
+Old: n-decanoic acid glycerol triester(sln) + H20(sln) = n-decanoic acid(sln) +n-decanoic acid glycerol diester(sln)
+---
+New: n-octanoic acid glycerol diester(sln) + H2O(sln) = n-octanoic add(sln) + n-octanoic acid glycerol monoester(sln)n-octanoic acid glycerol monoester(sln)
+Old: n-octanoic acid glycerol diester(sln) + H 20(sln) = n-octanoic add(sln) +n-octanoic acid glycerol monoester(sln)n-octanoic acid glycerol monoester(sln)
+---
+New: n-octanoic acid glycerol monoester(sln) + H2O(sln) = n-octanoic acid(sln) + glycerol(sln)
+Old: n-octanoic acid ilycerol monoester(sln) + ij,O(sln) = n-octanoic acid(sln) +glycerol(sln)
+---
+New: γ-glutamohydroxamic acid(aq) + H20(l) = L-glutamate(aq) + hydroxylamine(aq)
+Old: Y-glutamohydroxamic acid(aq) + H20(I) = L-glutamate(aq) + hydroxylamine(aq) 
+---
+New: ampicillin(aq) + H2O(l) = ampicillinoic acid(aq)
+Old: ampicillin + H2o = ampicillinoic acid
+---
+New: phenoxymethylpenicillin(aq) + H2O(l) = phenoxymethylpenicillinoic acid(aq)
+Old: phenoxymethylpenicillin
+---
+New: 6-thioglucose 6-phosphate(aq) = 6-thioglucose I-phosphate(aq)
+Old: 6-thioglucose 6-phosphate(aq) =6-thioglucose I-phosphate(aq)
+---
+New: (S)-dihydroorotate(aq) + oxonic acid(aq) = orotate(aq) + dihydroxonic acid(aq)
+Old: (S)-dihydroorotate(aq)+ oxonic acid(aq) = orotate(aq) + dihydroxonic acid(aq)
+---
+New: D-glyceraldehyde 3-phosphate(aq) + indole(aq) = indol-3-yl-glycerol-3-phosphate(aq)
+Old: D-glyceraldehyde 3-phosphate~aq!1indole~aq!51-~indol-3- yl!glycerol 3-phosphate~aq!
+---
+New: 2-benzyl-1-cyclohexanone(sln) + 2-propanol(sln) = (±)-cis-2-benzyl-1-cyclohexanol(sln) + acetone(sln)
+Old: 2-benzyl-1-cyclohexanone(sln)+ 2-propanol(sln) = (±)-cis-2-benzyl-1-cyclohexanol(sln) + acetone(sln)
+---
+New: 2-benzyl-1-cyclohexanone(sln) + 2-propanol(sln) = (±)-trans-2-benzyl-1-cyclohexanol(sln) + acetone(sln)
+Old: 2-benzyl-1-cyclohexanone(sln)+ 2-propanol(sln) = (±)-trans-2-benzyl-1-cyclohexanol(sln) + acetone(sln)
+---
+New: 2-butanone(sln) + 2-propanol(sln) = (±)-2-butanol(sln) + acetone(sln)
+Old: 2-butanone(sln)+ 2-propanol(sln) = (±)-2-butanol(sln) + acetone(sln)
+---
+New: cyclobutanone(sln) + 2-propanol(sln) = cyclobutanol(sln) + acetone(sln)
+Old: cyclobutanone(sln)+ 2-propanol(sln) = cyclobutanol(sln) + acetone(sln)
+---
+New: cycloheptanone(sln) + 2-propanol(sln) = cycloheptanol(sln) + acetone(sln)
+Old: cycloheptanone(sln)+ 2-propanol(sln) = cycloheptanol(sln) + acetone(sln)
+---
+New: cyclohexanone(sln) + 2-propanol(sln) = cyclohexanol(sln) + acetone(sln)
+Old: cyclohexanone(sln)+ 2-propanol(sln) = cyclohexanol(sln) + acetone(sln)
+---
+New: cyclooctanone(sln) + 2-propanol(sln) = cyclooctanol(sln) + acetone(sln)
+Old: cyclooctanone(sln)+ 2-propanol(sln) = cyclooctanol(sln) + acetone(sln)
+---
+New: cyclopentanone(sln) + 2-propanol(sln) = cyclopentanol(sln) + acetone(sln)
+Old: cyclopentanone(sln)+ 2-propanol(sln) = cyclopentanol(sln) + acetone(sln)
+---
+New: 2-heptanone(sln) + 2-propanol(sln) = (S)-2-heptanol(sln) + acetone(sln)
+Old: 2-heptanone(sln)+ 2-propanol(sln) = (S)-2-heptanol(sln) + acetone(sln)
+---
+New: 2-hexanone(sln) + 2-propanol(sln) = (±)-2-hexanol(sln) + acetone(sln)
+Old: 2-hexanone(sln)+ 2-propanol(sln) = (±)-2-hexanol(sln) + acetone(sln)
+---
+New: 2-methyl-1-cyclohexanone(sln) + 2-propanol(sln) = (±)-cis-2-methyl-1-cyclohexanol(sln) + acetone(sln)
+Old: 2-methyl-1-cyclohexanone(sln)+ 2-propanol(sln) = (±)-cis-2-methyl-1-cyclohexanol(sln) + acetone(sln)
+---
+New: 2-methyl-1-cyclohexanone(sln) + 2-propanol(sln) = (±)-trans-2-methyl-1-cyclohexanol(sln) + acetone(sln)
+Old: 2-methyl-1-cyclohexanone(sln)+ 2-propanol(sln) = (±)-trans-2-methyl-1-cyclohexanol(sln) + acetone(sln)
+---
+New: 2-octanone(sln) + 2-propanol(sln) = (S)-(+)-2-octanol(sln) + acetone(sln)
+Old: 2-octanone(sln)+ 2-propanol(sln) = (S)-(+)-2-octanol(sln) + acetone(sln)
+---
+New: 2-pentanone(sln) + 2-propanol(sln) = (±)-2-pentanol(sln) + acetone(sln)
+Old: 2-pentanone(sln)+ 2-propanol(sln) = (±)-2-pentanol(sln) + acetone(sln)
+---
+New: 2-phenyl-1-cyclohexanone(sln) + 2-propanol(sln) = (±)-cis-2-phenyl-1-cyclohexanol(sln) + acetone(sln)
+Old: 2-phenyl-1-cyclohexanone(sln)+ 2-propanol(sln) = (±)-cis-2-phenyl-1-cyclohexanol(sln) + acetone(sln)
+---
+New: 2-phenyl-1-cyclohexanone(sln) + 2-propanol(sln) = (±)-trans-2-phenyl-1-cyclohexanol(sln) + acetone(sln)
+Old: 2-phenyl-1-cyclohexanone(sln)+ 2-propanol(sln) = (±)-trans-2-phenyl-1-cyclohexanol(sln) + acetone(sln)
+---
+New: 1-phenyl-1-ethanone(sln) + 2-propanol(sln) = (±)-cis-2-phenyl-1-ethanol(sln) + acetone(sln)
+Old: 1-phenyl-1-ethanone(sln)+ 2-propanol(sln) = (±)-cis-2-phenyl-1-ethanol(sln) + acetone(sln)
+---
+New: 1-phenyl-1-heptanone(sln) + 2-propanol(sln) = (±)-cis-2-phenyl-1-heptanol(sln) + acetone(sln)
+Old: 1-phenyl-1-heptanone(sln)+ 2-propanol(sln) = (±)-cis-2-phenyl-1-heptanol(sln) + acetone(sln)
+---
+New: 1-phenyl-1-hexanone(sln) + 2-propanol(sln) = (±)-cis-2-phenyl-1-hexanol(sln) + acetone(sln)
+Old: 1-phenyl-1-hexanone(sln)+ 2-propanol(sln) = (±)-cis-2-phenyl-1-hexanol(sln) + acetone(sln)
+---
+New: 1-phenyl-1-pentanone(sln) + 2-propanol(sln) = (±)-cis-2-phenyl-1-pentanol(sln) + acetone(sln)
+Old: 1-phenyl-1-pentanone(sln)+ 2-propanol(sln) = (±)-cis-2-phenyl-1-pentanol(sln) + acetone(sln)
+---
+New: 1-phenyl-1-propanone(sln) + 2-propanol(sln) = (±)-cis-2-phenyl-1-propanol(sln) + acetone(sln)
+Old: 1-phenyl-1-propanone(sln)+ 2-propanol(sln) = (±)-cis-2-phenyl-1-propanol(sln) + acetone(sln)
+---
+New: L-tert-leucine(aq) + 2-oxoglutarate(aq) = 3,3-dimethyl-2-oxobutanoate(aq) + L-glutamate(aq)
+Old: L-tert-leucine(aq) + 2-oxoglutarate(aq)  = 3, 3-dimethyl-2-oxobutanoate(aq) +L-glutamatea
+---
+New: ATP(aq) + serpeptide(aq) = ADP(aq) + phosphorylated serpeptide(aq)
+Old: ATP(aq) + serpeptide(aq) =ADP(aq)  + phosphorylated serpeptide(aq) 
+---
+New: ATP(aq) + syntide 2(aq) = ADP(aq) + phosphosyntide(aq)
+Old: ATP(aq) + syntide 2(aq) =ADP(aq) + phosphosyntide(aq) 
+---
+New: 3-hydroxyanthranilic acid(aq) + ATP(aq) = 3-hydroxyanthranilic acid adenylate(aq) + pyrophosphate(aq)
+Old: 3-hydroxyanthranilic acid(aq) +ATP(aq)  = 3-hydroxyanthranilic acid adenylate(aq)  + pyrophosphate(aq) 
+---
+New: 3-hydroxybenzoic acid(aq) + ATP(aq) = 3-hydroxybenzoic acid adenylate(aq) + pyrophosphate(aq)
+Old: 3-hydroxybenzoic acid(aq) +ATP(aq) = 3-hydroxybenzoic acid adenylate(aq) + pyrophosphate(aq) 
+---
+New: 4-hydroxybenzoic acid(aq) + ATP(aq) = 4-hydroxybenzoic acid adenylate(aq) + pyrophosphate(aq)
+Old: 4-hydroxybenzoic acid(aq) +ATP(aq) = 4-hydroxybenzoic acid adenylate(aq) + pyrophosphate(aq) 
+---
+New: 3-hydroxy-4-methylbenzoic acid(aq) + ATP(aq) = 3-hydroxy-4-methylbenzoic acid adenylate(aq) + pyrophosphate(aq)
+Old: 3-hydroxy-4-methylbenzoic acid(aq) _x0005_ATP(aq)  =3-hydroxy-4-methylbenzoic acid adenylate(aq) + pyrophosphate(aq) 
+---
+New: 3-methylbenzoic acid(aq) + ATP(aq) = 3-methylbenzoic acid adenylate(aq) + pyrophosphate(aq)
+Old: 3-methylbenzoic acid(aq) +ATP(aq) = 3-methylbenzoic acid adenylate(aq) + pyrophosphate(aq) 
+---
+New: 4-methylbenzoic acid(aq) + ATP(aq) = 4-methylbenzoic acid adenylate(aq) + pyrophosphate(aq)
+Old: 4-methylbenzoic acid(aq) +ATP(aq) = 4-methylbenzoic acid adenylate(aq) + pyrophosphate(aq) 
+---
+New: deoxynucleoside triphosphate(aq) + polyd-A-Tn(aq) = pyrophosphate(aq) + polyd-A-Tn+1(aq)
+Old: deoxynucleoside triphosphate(aq) _x0005_polyd-A-Tn(aq)  = pyrophosphate(aq) + polyd-A-Tn+1(aq) 
+---
+New: benzyl alcohol(sln) + butyl acetate(sln) = benzyl acetate(sln) + 1-butanol(sln)
+Old: benzyl alcohol(sln)+ butyl acetate(sln) = benzyl acetate(sln)+ 1-butanol(sln)
+---
+New: butyl decanoate(sln) + H2O(sln) = 1-butanol(sln) + 1-decanoic acid(sln)
+Old: butyl decanoate(sln)+H2O(sln)= 1-butanol(sln) + 1-decanoic acid(sln)
+---
+New: 1,2-dioctanoyl glycerol(sln) + 2 H2O(sln) = glycerol(sln) + 2 n-octanoic acid(sln)
+Old: 1,2-dioctanoyl glycerol(sln) +2 H2O(sln) = glycerol(sln)  + 2 n-octanoic acid(sln) 
+---
+New: 1,2-dioctanoyl glycerol(sln) + H2O(sln) = 1-mono-octanoyl glycerol(sln) + n-octanoic acid(sln)
+Old: 1,2-dioctanoyl glycerol(sln) +H2O(sln) = 1-mono-octanoyl glycerol(sln) +n-octanoic acid(sln) 
+---
+New: 1,2-dioctanoyl glycerol(sln) + H2O(sln) = 2-mono-octanoyl glycerol(sln) + n-octanoic acid(sln)
+Old: 1,2-dioctanoyl glycerol(sln) +H2O(sln) = 2-mono-octanoyl glycerol(sln) +n-octanoic acid(sln) 
+---
+New: 1,3-dioctanoyl glycerol(sln) + 2 H2O(sln) = glycerol(sln) + 2 n-octanoic acid(sln)
+Old: 1,3-dioctanoyl glycerol(sln) +2 H2O(sln) = glycerol(sln)  + 2 n-octanoic acid(sln) 
+---
+New: 1,3-dioctanoyl glycerol(sln) + H2O(sln) = 1-mono-octanoyl glycerol(sln) + n-octanoic acid(sln)
+Old: 1,3-dioctanoyl glycerol(sln) +H2O(sln) = 1-mono-octanoyl glycerol(sln) +n-octanoic acid(sln) 
+---
+New: dodecyl dodecanoate(sln) + H2O(sln) = 1-dodecanol(sln) + 1-dodecanoic acid(sln)
+Old: dodecyl dodecanoate(sln) +H2O(sln) = 1-dodecanol(sln)  + 1-dodecanoic acid(sln) 
+---
+New: D-glucose(sln) + 1-dodecanoic acid(sln) = 1-dodecanoyl D-glucose ester(sln) + H2O(sln)
+Old: D-glucose(sln) + 1-dodecanoic acid(sln)  = 1-dodecanoyl D-glucose ester(sln) +H2O(sln) 
+---
+New: (-)-menthol(sln) + 1-dodecanoic acid(sln) = (-)-menthyl dodecanoate(sln) + H2O(sln)
+Old: (-)-menthol(sln) + 1-dodecanoic acid(sln)  = (-)-menthyl dodecanoate(sln) +H2O(sln) 
+---
+New: 1-mono-octanoyl glycerol(sln) + H2O(sln) = glycerol(sln) + n-octanoic acid(sln)
+Old: 1-mono-octanoyl glycerol(sln) +H2O(sln) = glycerol(sln)  +n-octanoic acid(sln) 
+---
+New: 2-mono-octanoyl glycerol(sln) + H2O(sln) = glycerol(sln) + n-octanoic acid(sln)
+Old: 2-mono-octanoyl glycerol(sln) +H2O(sln) = glycerol(sln)  +n-octanoic acid(sln) 
+---
+New: oleic acid(sln) + 1-butanol(sln) = 1-butyl oleate(sln) + H2O(sln)
+Old: oleic acid(sln) + 1-butanol(sln) = 1-butyl oleate(sln)  +H2O(sln) 
+---
+New: (R)-(+)-1-phenyl-1-butanol(sln) + butyl acetate(sln) = (R)-(+)-1-phenyl 1-butyl acetate(sln) + 1-butanol(sln)
+Old: (R)-(+)-1-phenyl-1-butanol(sln) + butyl acetate(sln)  = (R)-(+)-1-phenyl 1-butyl acetate(sln) + 1-butanol(sln) 
+---
+New: (R)-(+)-1-phenyl ethanol(sln) + butyl acetate(sln) = (R)-(+)-1-phenyl ethyl acetate(sln) + 1-butanol(sln)
+Old: (R)-(+)-1-phenyl ethanol(sln) + butyl acetate(sln)  = (R)-(+)-1-phenyl ethyl acetate(sln) + 1-butanol(sln) 
+---
+New: (R)-(+)-1-phenyl-1-propanol(sln) + butyl acetate(sln) = (R)-(+)-1-phenyl-1-propyl acetate(sln) + 1-butanol(sln)
+Old: (R)-(+)-1-phenyl-1-propanol(sln) + butyl acetate(sln)  = (R)-(+)-1-phenyl-1-propyl acetate(sln) + 1-butanol(sln) 
+---
+New: 1,2,3-trioctanoyl glycerol(sln) + H2O(sln) = 1,2-dioctanoyl glycerol(sln) + n-octanoic acid(sln)
+Old: 1,2,3-trioctanoyl glycerol(sln) +H2O(sln)  = 1,2-dioctanoyl glycerol(sln) +n-octanoic acid(sln) 
+---
+New: 1,2,3-trioctanoyl glycerol(sln) + H2O(sln) = glycerol(sln) + 3 n-octanoic acid(sln)
+Old: 1,2,3-trioctanoyl glycerol(sln) +H2O(sln)  = glycerol(sln) + 3 n-octanoic acid(sln) 
+---
+New: 1,2,3-trioctanoyl glycerol(sln) + H2O(sln) = 1-monooctanoyl glycerol(sln) + 2 n-octanoic acid(sln)
+Old: 1,2,3-trioctanoyl glycerol(sln) +H2O(sln)  = 1-monooctanoyl glycerol(sln) + 2 n-octanoic acid(sln) 
+---
+New: cis-2-hydroxycyclopentanemethanol cyclic phosphate(aq) + H2O(l) = cis-2-hydroxycyclopentanemethanol-phosphate(aq)
+Old: cis-2-hydroxycyclopentanemethanol cyclic phosphate(aq)  +H2O(l) =cis-2-hydroxycyclopentanemethanol-phosphate(aq) 
+---
+New: trans-2-hydroxycyclopentanemethanol cyclic phosphate(aq) + H2O(l) = trans-2-hydroxycyclopentanemethanol-phosphate(aq)
+Old: trans-2-hydroxycyclopentanemethanol cyclic phosphate(aq) +H2O(l) =trans-2-hydroxycyclopentanemethanol -phosphate(aq) 
+---
+New: 1R,2S-trans-2-hydroxytetrahydrofuranmethanol cyclic phosphate(aq) + H2O(l) = 1R,2S-trans-2-hydroxytetrahydrofuranmethanol-phosphate(aq)
+Old: 1R, 2S-trans-2-hydroxytetrahydrofuranmethanol cyclic phosphate(aq) +H2O(l) =1R, 2S-trans-2-hydroxytetrahydrofuranmethanol -phosphate(aq) 
+---
+New: 5-methoxytrimethylene phosphate(aq) + H2O(l) = 2-methoxy-3-hydroxypropyl phosphate(aq)
+Old: 5-methoxytrimethylene phosphate(aq) +H2O(l)  = 2-methoxy-3-hydroxypropyl phosphate(aq) 
+---
+New: 5-methyltrimethylene phosphate(aq) + H2O(l) = 2-methyl-3-hydroxypropyl phosphate(aq)
+Old: 5-methyltrimethylene phosphate(aq) +H2O(l)  = 2-methyl-3-hydroxypropyl phosphate(aq) 
+---
+New: adenosine 3':5'-(cyclic)phosphate(aq) + H2O(l) = AMP(aq)
+Old: adenosine 3':5'-(cyclic)phosphate(aq) +H2O(l)  =AMP(aq) 
+---
+New: 4-nitrophenyl acetate(aq) + H2O(l) = 4-nitrophenol(aq) + acetate(aq)
+Old: 4-nitrophenyl acetate(aq) +H2O(l) = 4-nitrophenol(aq)  +acetate(aq) 
+---
+New: succinylAla-Ala-Pro-Leu-4-nitrophenylanalide(aq) + H2O(l) = succinylAla-Ala-Pro-Leu(aq) + 4-nitrophenyl analide(aq)
+Old: succinylAla-Ala-Pro-Leu-4-nitrophenylanalide(aq)  +H2O(l) = succinylAla-Ala-Pro-Leu(aq) +4-nitrophenyl analide(aq) 
+---
+New: succinylAla-Ala-Pro-Phe-4-nitrophenylanalide(aq) + H2O(l) = succinylAla-Ala-Pro-Phe(aq) + 4-nitrophenylanalide(aq)
+Old: succinylAla-Ala-Pro-Phe-4-nitrophenylanalide(aq)  +H2O(l) = succinylAla-Ala-Pro-Phe(aq)  +4-nitrophenylanalide(aq) 
+---
+New: cefamandole(aq) + H2O(l) = 7-amino-3-1-methyl-IIItetrazol-5-yl-thiomethyl-cephalosporanic acid(aq) + D-mandelic acid(aq)
+Old: cefamandole(aq) +H2O(l) = 7-amino-3-1-methyl-IIItetrazol-5-yl-thiomethyl-cephalosporanic acid(aq)  +D-mandelic acid(aq) 
+---
+New: 2-acetamidohept-6-enoic acid(aq) + H2O(l) = acetate(aq) + 2-aminohept-6-enoic acid(aq)
+Old: 2-acetamidohept-6-enoic acid(aq) +H2O(l) =acetate(aq)  + 2-aminohept-6-enoic acid(aq) 
+---
+New: N-acetyl-L-alanine(aq) + H2O(l) = acetate(aq) + L-alanine(aq)
+Old: N-acetyl-L-alanine(aq) +H2O(l) =acetate(aq)  +L-alanine(aq) 
+---
+New: N-acetyl-L-cysteine(aq) + H2O(l) = acetate(aq) + L-cysteine(aq)
+Old: N-acetyl-L-cysteine(aq) +H2O(l) =acetate(aq)  +L-cysteine(aq) 
+---
+New: N-acetyl-L-norleucine(aq) + H2O(l) = acetate(aq) + L-norleucine(aq)
+Old: N-acetyl-L-norleucine(aq) +H2O(l) =acetate(aq)  +L-norleucine(aq) 
+---
+New: N-acetyl-L-valine(aq) + H2O(l) = acetate(aq) + L-valine(aq)
+Old: N-acetyl-L-valine(aq) +H2O(l) =acetate(aq) +L-valine(aq) 
+---
