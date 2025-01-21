@@ -1,115 +1,115 @@
 name,kegg,synonyms,inchikey,smiles,chebis,pubchems,rdkit_img,kegg_img
-benzyl alcohol(aq),kegg:C00556,[],InChIKey=WVDDGKGOMKODPV-UHFFFAOYSA-N,OCc1ccccc1,chebi:17987,pubchem:3836,images/rdkit/benzyl alcohol(aq).gif,https://rest.kegg.jp/get/:/image
-NAD(aq),kegg:C00003,"['NAD(aq)', 'NAD', 'NAD(ox)(aq)', 'NAD(ox)', 'NAD+(aq)']",InChIKey=BAWFJGJZGIEFAR-NNYOXOHSSA-O,NC(=O)c1ccc[n+](c1)[C@@H]2O[C@H](CO[P](O)(=O)O[P](O)(=O)OC[C@H]3O[C@H]([C@H](O)[C@@H]3O)n4cnc5c(N)ncnc45)[C@@H](O)[C@H]2O,chebi:15846,pubchem:3305,images/rdkit/NAD(aq).gif,https://rest.kegg.jp/get/:/image
-benzaldehyde(aq),kegg:C00261,[],InChIKey=HUMNYLRZRPPJDN-UHFFFAOYSA-N,O=Cc1ccccc1,chebi:17169,pubchem:3559,images/rdkit/benzaldehyde(aq).gif,https://rest.kegg.jp/get/:/image
-NADH(aq),kegg:C00004,"['NADH(aq)', 'NAD(red)(aq)', 'NAD(red)']",InChIKey=BOPGDPNILDQYTO-UHFFFAOYSA-N,NC(=O)C1=CN(C=CC1)C2OC(CO[P](O)(=O)O[P](O)(=O)OCC3OC(C(O)C3O)n4cnc5c(N)ncnc45)C(O)C2O,chebi:16908,pubchem:3306,images/rdkit/NADH(aq).gif,https://rest.kegg.jp/get/:/image
-1-butanol(aq),kegg:C06142,[],InChIKey=LRHPLDYGYMQRHN-UHFFFAOYSA-N,CCCCO,chebi:28885,pubchem:8398,images/rdkit/1-butanol(aq).gif,https://rest.kegg.jp/get/:/image
-butanal(aq),kegg:C01412,[],InChIKey=ZTQSAGDEMFDKMZ-UHFFFAOYSA-N,CCCC=O,chebi:15743,pubchem:4600,images/rdkit/butanal(aq).gif,https://rest.kegg.jp/get/:/image
-cyclohexanol(aq),kegg:C00854,[],InChIKey=HPXRVTGHNJAIIH-UHFFFAOYSA-N,OC1CCCCC1,chebi:18099,pubchem:4111,images/rdkit/cyclohexanol(aq).gif,https://rest.kegg.jp/get/:/image
-cyclohexanone(aq),kegg:C00414,[],InChIKey=JHIVVAPYMSGYDF-UHFFFAOYSA-N,O=C1CCCCC1,chebi:17854,pubchem:3704,images/rdkit/cyclohexanone(aq).gif,https://rest.kegg.jp/get/:/image
-ethanol(aq),kegg:C00469,[],InChIKey=LFQSCWFLJHTTHZ-UHFFFAOYSA-N,CCO,chebi:16236,pubchem:3752,images/rdkit/ethanol(aq).gif,https://rest.kegg.jp/get/:/image
-acetaldehyde(aq),kegg:C00084,[],InChIKey=IKHGUXGNUITLKF-UHFFFAOYSA-N,CC=O,chebi:15343,pubchem:3384,images/rdkit/acetaldehyde(aq).gif,https://rest.kegg.jp/get/:/image
+benzyl alcohol(aq),kegg:C00556,[],InChIKey=WVDDGKGOMKODPV-UHFFFAOYSA-N,OCc1ccccc1,chebi:17987,pubchem:3836,images/rdkit/benzyl alcohol(aq).gif,https://rest.kegg.jp/get/C00556/image
+NAD(aq),kegg:C00003,"['NAD(aq)', 'NAD', 'NAD(ox)(aq)', 'NAD(ox)', 'NAD+(aq)']",InChIKey=BAWFJGJZGIEFAR-NNYOXOHSSA-O,NC(=O)c1ccc[n+](c1)[C@@H]2O[C@H](CO[P](O)(=O)O[P](O)(=O)OC[C@H]3O[C@H]([C@H](O)[C@@H]3O)n4cnc5c(N)ncnc45)[C@@H](O)[C@H]2O,chebi:15846,pubchem:3305,images/rdkit/NAD(aq).gif,https://rest.kegg.jp/get/C00003/image
+benzaldehyde(aq),kegg:C00261,[],InChIKey=HUMNYLRZRPPJDN-UHFFFAOYSA-N,O=Cc1ccccc1,chebi:17169,pubchem:3559,images/rdkit/benzaldehyde(aq).gif,https://rest.kegg.jp/get/C00261/image
+NADH(aq),kegg:C00004,"['NADH(aq)', 'NAD(red)(aq)', 'NAD(red)']",InChIKey=BOPGDPNILDQYTO-UHFFFAOYSA-N,NC(=O)C1=CN(C=CC1)C2OC(CO[P](O)(=O)O[P](O)(=O)OCC3OC(C(O)C3O)n4cnc5c(N)ncnc45)C(O)C2O,chebi:16908,pubchem:3306,images/rdkit/NADH(aq).gif,https://rest.kegg.jp/get/C00004/image
+1-butanol(aq),kegg:C06142,[],InChIKey=LRHPLDYGYMQRHN-UHFFFAOYSA-N,CCCCO,chebi:28885,pubchem:8398,images/rdkit/1-butanol(aq).gif,https://rest.kegg.jp/get/C06142/image
+butanal(aq),kegg:C01412,[],InChIKey=ZTQSAGDEMFDKMZ-UHFFFAOYSA-N,CCCC=O,chebi:15743,pubchem:4600,images/rdkit/butanal(aq).gif,https://rest.kegg.jp/get/C01412/image
+cyclohexanol(aq),kegg:C00854,[],InChIKey=HPXRVTGHNJAIIH-UHFFFAOYSA-N,OC1CCCCC1,chebi:18099,pubchem:4111,images/rdkit/cyclohexanol(aq).gif,https://rest.kegg.jp/get/C00854/image
+cyclohexanone(aq),kegg:C00414,[],InChIKey=JHIVVAPYMSGYDF-UHFFFAOYSA-N,O=C1CCCCC1,chebi:17854,pubchem:3704,images/rdkit/cyclohexanone(aq).gif,https://rest.kegg.jp/get/C00414/image
+ethanol(aq),kegg:C00469,[],InChIKey=LFQSCWFLJHTTHZ-UHFFFAOYSA-N,CCO,chebi:16236,pubchem:3752,images/rdkit/ethanol(aq).gif,https://rest.kegg.jp/get/C00469/image
+acetaldehyde(aq),kegg:C00084,[],InChIKey=IKHGUXGNUITLKF-UHFFFAOYSA-N,CC=O,chebi:15343,pubchem:3384,images/rdkit/acetaldehyde(aq).gif,https://rest.kegg.jp/get/C00084/image
 AP-NAD(aq),COCO:COCOM00012,[],,,,,,
 AP-NADH(aq),COCO:COCOM00013,[],,,,,,
 desamino NAD(aq),,[],,,,,,
 desamino NADH(aq),,[],,,,,,
 1-hexanol,,[],,,,,,
-NAD,kegg:C00003,"['NAD(aq)', 'NAD', 'NAD(ox)(aq)', 'NAD(ox)', 'NAD+(aq)']",,,chebi:15846,pubchem:3305,,https://rest.kegg.jp/get/:/image
+NAD,kegg:C00003,"['NAD(aq)', 'NAD', 'NAD(ox)(aq)', 'NAD(ox)', 'NAD+(aq)']",,,chebi:15846,pubchem:3305,,https://rest.kegg.jp/get/C00003/image
 hexanal,,[],,,,,,
 NADH,,[],,,,,,
-cis-3-hexene-1-ol(aq),kegg:C08492,[],,,chebi:28857,pubchem:10685,images/rdkit/cis-3-hexene-1-ol(aq).gif,https://rest.kegg.jp/get/:/image
-cis-3-hexenal(aq),kegg:C16310,[],,,chebi:23292,pubchem:47205618,images/rdkit/cis-3-hexenal(aq).gif,https://rest.kegg.jp/get/:/image
+cis-3-hexene-1-ol(aq),kegg:C08492,[],,,chebi:28857,pubchem:10685,images/rdkit/cis-3-hexene-1-ol(aq).gif,https://rest.kegg.jp/get/C08492/image
+cis-3-hexenal(aq),kegg:C16310,[],,,chebi:23292,pubchem:47205618,images/rdkit/cis-3-hexenal(aq).gif,https://rest.kegg.jp/get/C16310/image
 trans-2-hexen-1-ol,,[],,,,,images/rdkit/trans-2-hexen-1-ol.gif,
 trans-2-hexenal,,[],,,,,images/rdkit/trans-2-hexenal.gif,
 1-nonanol,,[],,,,,images/rdkit/1-nonanol.gif,
 nonanal,,[],,,,,images/rdkit/nonanal.gif,
-1-octanol(aq),kegg:C00756,[],,,chebi:16188,pubchem:4018,images/rdkit/1-octanol(aq).gif,https://rest.kegg.jp/get/:/image
-octanal(aq),kegg:C01545,[],,,chebi:17935,pubchem:4704,images/rdkit/octanal(aq).gif,https://rest.kegg.jp/get/:/image
-1-propanol(aq),kegg:C05979,[],,,chebi:28831,pubchem:8258,images/rdkit/1-propanol(aq).gif,https://rest.kegg.jp/get/:/image
-propanal(aq),kegg:C00479,[],,,chebi:17153,pubchem:3762,images/rdkit/propanal(aq).gif,https://rest.kegg.jp/get/:/image
-2-propanol(aq),kegg:C01845,[],,,chebi:17824,pubchem:4963,images/rdkit/2-propanol(aq).gif,https://rest.kegg.jp/get/:/image
-acetone(aq),kegg:C00207,[],,,chebi:15347,pubchem:3507,images/rdkit/acetone(aq).gif,https://rest.kegg.jp/get/:/image
-vitamin A alcohol(aq),kegg:C00473,"['vitamin A alcohol(aq)', 'retinol(aq)']",,,chebi:17336,pubchem:3756,images/rdkit/vitamin A alcohol(aq).gif,https://rest.kegg.jp/get/:/image
-vitamin A aldehyde(aq),kegg:C00376,"['vitamin A aldehyde(aq)', 'all-trans-retinal(aq)']",,,chebi:17898,pubchem:3666,images/rdkit/vitamin A aldehyde(aq).gif,https://rest.kegg.jp/get/:/image
-L-homoserine(aq),kegg:C00263,[],,,chebi:15699,pubchem:3561,images/rdkit/L-homoserine(aq).gif,https://rest.kegg.jp/get/:/image
-L-aspartate 4-semialdehyde(aq),kegg:C00441,"['L-aspartate 4-semialdehyde(aq)', 'L-aspartate-4-semialdehyde(aq)']",,,chebi:13086,pubchem:3730,images/rdkit/L-aspartate 4-semialdehyde(aq).gif,https://rest.kegg.jp/get/:/image
-NADP(aq),kegg:C00006,"['NADP(aq)', 'NADP(ox)(aq)', 'NADP(ox)']",,,chebi:18009,pubchem:3308,images/rdkit/NADP(aq).gif,https://rest.kegg.jp/get/:/image
-NADPH(aq),kegg:C00005,"['NADPH(aq)', 'NADP(red)(aq)']",,,chebi:16474,pubchem:3307,images/rdkit/NADPH(aq).gif,https://rest.kegg.jp/get/:/image
-"(R,R)-2,3-butanediol(aq)",kegg:C03044,[],,,chebi:16982,pubchem:5947,"images/rdkit/(R,R)-2,3-butanediol(aq).gif",https://rest.kegg.jp/get/:/image
-(R)-acetoin(aq),kegg:C00810,[],,,chebi:15686,pubchem:4068,images/rdkit/(R)-acetoin(aq).gif,https://rest.kegg.jp/get/:/image
-glycerol(aq),kegg:C00116,[],,,chebi:17754,pubchem:3416,images/rdkit/glycerol(aq).gif,https://rest.kegg.jp/get/:/image
-dihydroxyacetone(aq),kegg:C00184,[],,,chebi:16016,pubchem:3484,images/rdkit/dihydroxyacetone(aq).gif,https://rest.kegg.jp/get/:/image
-sn-glycerol 3-phosphate(aq),kegg:C00093,"['sn-glycerol 3-phosphate(aq)', 'sn-glycerol 3-phosphate']",,,chebi:15978,pubchem:3393,images/rdkit/sn-glycerol 3-phosphate(aq).gif,https://rest.kegg.jp/get/:/image
-dihydroxyacetone phosphate(aq),kegg:C00111,"['dihydroxyacetone phosphate(aq)', 'glycerone phosphate(aq)']",,,chebi:16108,pubchem:3411,images/rdkit/dihydroxyacetone phosphate(aq).gif,https://rest.kegg.jp/get/:/image
-sn-glycerol 3-phosphate,kegg:C00093,"['sn-glycerol 3-phosphate(aq)', 'sn-glycerol 3-phosphate']",,,chebi:15978,pubchem:3393,images/rdkit/sn-glycerol 3-phosphate.gif,https://rest.kegg.jp/get/:/image
+1-octanol(aq),kegg:C00756,[],,,chebi:16188,pubchem:4018,images/rdkit/1-octanol(aq).gif,https://rest.kegg.jp/get/C00756/image
+octanal(aq),kegg:C01545,[],,,chebi:17935,pubchem:4704,images/rdkit/octanal(aq).gif,https://rest.kegg.jp/get/C01545/image
+1-propanol(aq),kegg:C05979,[],,,chebi:28831,pubchem:8258,images/rdkit/1-propanol(aq).gif,https://rest.kegg.jp/get/C05979/image
+propanal(aq),kegg:C00479,[],,,chebi:17153,pubchem:3762,images/rdkit/propanal(aq).gif,https://rest.kegg.jp/get/C00479/image
+2-propanol(aq),kegg:C01845,[],,,chebi:17824,pubchem:4963,images/rdkit/2-propanol(aq).gif,https://rest.kegg.jp/get/C01845/image
+acetone(aq),kegg:C00207,[],,,chebi:15347,pubchem:3507,images/rdkit/acetone(aq).gif,https://rest.kegg.jp/get/C00207/image
+vitamin A alcohol(aq),kegg:C00473,"['vitamin A alcohol(aq)', 'retinol(aq)']",,,chebi:17336,pubchem:3756,images/rdkit/vitamin A alcohol(aq).gif,https://rest.kegg.jp/get/C00473/image
+vitamin A aldehyde(aq),kegg:C00376,"['vitamin A aldehyde(aq)', 'all-trans-retinal(aq)']",,,chebi:17898,pubchem:3666,images/rdkit/vitamin A aldehyde(aq).gif,https://rest.kegg.jp/get/C00376/image
+L-homoserine(aq),kegg:C00263,[],,,chebi:15699,pubchem:3561,images/rdkit/L-homoserine(aq).gif,https://rest.kegg.jp/get/C00263/image
+L-aspartate 4-semialdehyde(aq),kegg:C00441,"['L-aspartate 4-semialdehyde(aq)', 'L-aspartate-4-semialdehyde(aq)']",,,chebi:13086,pubchem:3730,images/rdkit/L-aspartate 4-semialdehyde(aq).gif,https://rest.kegg.jp/get/C00441/image
+NADP(aq),kegg:C00006,"['NADP(aq)', 'NADP(ox)(aq)', 'NADP(ox)']",,,chebi:18009,pubchem:3308,images/rdkit/NADP(aq).gif,https://rest.kegg.jp/get/C00006/image
+NADPH(aq),kegg:C00005,"['NADPH(aq)', 'NADP(red)(aq)']",,,chebi:16474,pubchem:3307,images/rdkit/NADPH(aq).gif,https://rest.kegg.jp/get/C00005/image
+"(R,R)-2,3-butanediol(aq)",kegg:C03044,[],,,chebi:16982,pubchem:5947,"images/rdkit/(R,R)-2,3-butanediol(aq).gif",https://rest.kegg.jp/get/C03044/image
+(R)-acetoin(aq),kegg:C00810,[],,,chebi:15686,pubchem:4068,images/rdkit/(R)-acetoin(aq).gif,https://rest.kegg.jp/get/C00810/image
+glycerol(aq),kegg:C00116,[],,,chebi:17754,pubchem:3416,images/rdkit/glycerol(aq).gif,https://rest.kegg.jp/get/C00116/image
+dihydroxyacetone(aq),kegg:C00184,[],,,chebi:16016,pubchem:3484,images/rdkit/dihydroxyacetone(aq).gif,https://rest.kegg.jp/get/C00184/image
+sn-glycerol 3-phosphate(aq),kegg:C00093,"['sn-glycerol 3-phosphate(aq)', 'sn-glycerol 3-phosphate']",,,chebi:15978,pubchem:3393,images/rdkit/sn-glycerol 3-phosphate(aq).gif,https://rest.kegg.jp/get/C00093/image
+dihydroxyacetone phosphate(aq),kegg:C00111,"['dihydroxyacetone phosphate(aq)', 'glycerone phosphate(aq)']",,,chebi:16108,pubchem:3411,images/rdkit/dihydroxyacetone phosphate(aq).gif,https://rest.kegg.jp/get/C00111/image
+sn-glycerol 3-phosphate,kegg:C00093,"['sn-glycerol 3-phosphate(aq)', 'sn-glycerol 3-phosphate']",,,chebi:15978,pubchem:3393,images/rdkit/sn-glycerol 3-phosphate.gif,https://rest.kegg.jp/get/C00093/image
 allitol(aq),,[],,,,,images/rdkit/allitol(aq).gif,
-D-psicose(aq),kegg:C06468,[],,,chebi:187912,pubchem:8700,images/rdkit/D-psicose(aq).gif,https://rest.kegg.jp/get/:/image
+D-psicose(aq),kegg:C06468,[],,,chebi:187912,pubchem:8700,images/rdkit/D-psicose(aq).gif,https://rest.kegg.jp/get/C06468/image
 D-glycero-D-glucoheptitol(aq),,[],,,,,images/rdkit/D-glycero-D-glucoheptitol(aq).gif,
 D-sedoheptulose(aq),,[],,,,,images/rdkit/D-sedoheptulose(aq).gif,
-L-iditol(aq),kegg:C01507,[],,,chebi:18202,pubchem:4675,images/rdkit/L-iditol(aq).gif,https://rest.kegg.jp/get/:/image
-L-sorbose(aq),kegg:C00247,[],,,chebi:48649,pubchem:3546,images/rdkit/L-sorbose(aq).gif,https://rest.kegg.jp/get/:/image
-ribitol(aq),kegg:C00474,[],,,chebi:15963,pubchem:3757,images/rdkit/ribitol(aq).gif,https://rest.kegg.jp/get/:/image
-D-ribulose(aq),kegg:C00309,[],,,chebi:17173,pubchem:3603,images/rdkit/D-ribulose(aq).gif,https://rest.kegg.jp/get/:/image
-D-sorbitol(aq),kegg:C00794,[],,,chebi:17924,pubchem:4052,images/rdkit/D-sorbitol(aq).gif,https://rest.kegg.jp/get/:/image
-D-fructose(aq),kegg:C00095,[],,,chebi:15824,pubchem:3395,images/rdkit/D-fructose(aq).gif,https://rest.kegg.jp/get/:/image
+L-iditol(aq),kegg:C01507,[],,,chebi:18202,pubchem:4675,images/rdkit/L-iditol(aq).gif,https://rest.kegg.jp/get/C01507/image
+L-sorbose(aq),kegg:C00247,[],,,chebi:48649,pubchem:3546,images/rdkit/L-sorbose(aq).gif,https://rest.kegg.jp/get/C00247/image
+ribitol(aq),kegg:C00474,[],,,chebi:15963,pubchem:3757,images/rdkit/ribitol(aq).gif,https://rest.kegg.jp/get/C00474/image
+D-ribulose(aq),kegg:C00309,[],,,chebi:17173,pubchem:3603,images/rdkit/D-ribulose(aq).gif,https://rest.kegg.jp/get/C00309/image
+D-sorbitol(aq),kegg:C00794,[],,,chebi:17924,pubchem:4052,images/rdkit/D-sorbitol(aq).gif,https://rest.kegg.jp/get/C00794/image
+D-fructose(aq),kegg:C00095,[],,,chebi:15824,pubchem:3395,images/rdkit/D-fructose(aq).gif,https://rest.kegg.jp/get/C00095/image
 L-threitol(aq),,[],,,,,images/rdkit/L-threitol(aq).gif,
-L-erythrulose(aq),kegg:C02045,[],,,chebi:23958,pubchem:5134,images/rdkit/L-erythrulose(aq).gif,https://rest.kegg.jp/get/:/image
-xylitol(aq),kegg:C00379,[],,,chebi:17151,pubchem:3669,images/rdkit/xylitol(aq).gif,https://rest.kegg.jp/get/:/image
-D-xylulose(aq),kegg:C00310,[],,,chebi:17140,pubchem:3604,images/rdkit/D-xylulose(aq).gif,https://rest.kegg.jp/get/:/image
-L-xylulose(aq),kegg:C00312,[],,,chebi:17399,pubchem:3606,images/rdkit/L-xylulose(aq).gif,https://rest.kegg.jp/get/:/image
-galactitol(aq),kegg:C01697,[],,,chebi:16813,pubchem:4837,images/rdkit/galactitol(aq).gif,https://rest.kegg.jp/get/:/image
-D-tagatose(aq),kegg:C00795,[],,,chebi:4249,pubchem:4053,images/rdkit/D-tagatose(aq).gif,https://rest.kegg.jp/get/:/image
-D-mannitol(aq),kegg:C00392,[],,,chebi:16899,pubchem:3682,images/rdkit/D-mannitol(aq).gif,https://rest.kegg.jp/get/:/image
-D-mannitol 1-phosphate(aq),kegg:C00644,"['D-mannitol 1-phosphate(aq)', 'D-mannitol-1-phosphate(aq)']",,,chebi:16298,pubchem:3917,images/rdkit/D-mannitol 1-phosphate(aq).gif,https://rest.kegg.jp/get/:/image
-D-fructose 6-phosphate(aq),kegg:C00085,"['D-fructose 6-phosphate(aq)', 'D-Fructose 6-phosphate']",,,chebi:15946,pubchem:3385,images/rdkit/D-fructose 6-phosphate(aq).gif,https://rest.kegg.jp/get/:/image
+L-erythrulose(aq),kegg:C02045,[],,,chebi:23958,pubchem:5134,images/rdkit/L-erythrulose(aq).gif,https://rest.kegg.jp/get/C02045/image
+xylitol(aq),kegg:C00379,[],,,chebi:17151,pubchem:3669,images/rdkit/xylitol(aq).gif,https://rest.kegg.jp/get/C00379/image
+D-xylulose(aq),kegg:C00310,[],,,chebi:17140,pubchem:3604,images/rdkit/D-xylulose(aq).gif,https://rest.kegg.jp/get/C00310/image
+L-xylulose(aq),kegg:C00312,[],,,chebi:17399,pubchem:3606,images/rdkit/L-xylulose(aq).gif,https://rest.kegg.jp/get/C00312/image
+galactitol(aq),kegg:C01697,[],,,chebi:16813,pubchem:4837,images/rdkit/galactitol(aq).gif,https://rest.kegg.jp/get/C01697/image
+D-tagatose(aq),kegg:C00795,[],,,chebi:4249,pubchem:4053,images/rdkit/D-tagatose(aq).gif,https://rest.kegg.jp/get/C00795/image
+D-mannitol(aq),kegg:C00392,[],,,chebi:16899,pubchem:3682,images/rdkit/D-mannitol(aq).gif,https://rest.kegg.jp/get/C00392/image
+D-mannitol 1-phosphate(aq),kegg:C00644,"['D-mannitol 1-phosphate(aq)', 'D-mannitol-1-phosphate(aq)']",,,chebi:16298,pubchem:3917,images/rdkit/D-mannitol 1-phosphate(aq).gif,https://rest.kegg.jp/get/C00644/image
+D-fructose 6-phosphate(aq),kegg:C00085,"['D-fructose 6-phosphate(aq)', 'D-Fructose 6-phosphate']",,,chebi:15946,pubchem:3385,images/rdkit/D-fructose 6-phosphate(aq).gif,https://rest.kegg.jp/get/C00085/image
 myo-inositol,,[],,,,,images/rdkit/myo-inositol.gif,
 2-oxo-myo-inositol,,[],,,,,,
-D-xylose(aq),kegg:C00181,[],,,chebi:53455,pubchem:3481,images/rdkit/D-xylose(aq).gif,https://rest.kegg.jp/get/:/image
-quinate(aq),kegg:C00296,[],,,chebi:29751,pubchem:3590,images/rdkit/quinate(aq).gif,https://rest.kegg.jp/get/:/image
-5-dehydroquinate(aq),kegg:C00944,"['5-dehydroquinate(aq)', '3-dehydroquinate(aq)']",,,chebi:32364,pubchem:4196,images/rdkit/5-dehydroquinate(aq).gif,https://rest.kegg.jp/get/:/image
-shikimate(aq),kegg:C00493,[],,,chebi:16119,pubchem:3776,images/rdkit/shikimate(aq).gif,https://rest.kegg.jp/get/:/image
-3-dehydroshikimate(aq),kegg:C02637,[],,,chebi:16630,pubchem:5617,images/rdkit/3-dehydroshikimate(aq).gif,https://rest.kegg.jp/get/:/image
-(R)-glycerate(aq),kegg:C00258,[],,,chebi:16659,pubchem:3557,images/rdkit/(R)-glycerate(aq).gif,https://rest.kegg.jp/get/:/image
-hydroxypyruvate(aq),kegg:C00168,[],,,chebi:17180,pubchem:3468,images/rdkit/hydroxypyruvate(aq).gif,https://rest.kegg.jp/get/:/image
-glycolate(aq),kegg:C00160,[],,,chebi:29805,pubchem:3460,images/rdkit/glycolate(aq).gif,https://rest.kegg.jp/get/:/image
-glyoxylate(aq),kegg:C00048,[],,,chebi:16891,pubchem:3350,images/rdkit/glyoxylate(aq).gif,https://rest.kegg.jp/get/:/image
-2-hydroxybutanoate(aq),kegg:C05984,"['2-hydroxybutanoate(aq)', 'D-2-hydroxy-n-butanoate(aq)']",,,chebi:1148,pubchem:8262,,https://rest.kegg.jp/get/:/image
-2-oxobutanoate(aq),kegg:C00109,[],,,chebi:16763,pubchem:3409,,https://rest.kegg.jp/get/:/image
+D-xylose(aq),kegg:C00181,[],,,chebi:53455,pubchem:3481,images/rdkit/D-xylose(aq).gif,https://rest.kegg.jp/get/C00181/image
+quinate(aq),kegg:C00296,[],,,chebi:29751,pubchem:3590,images/rdkit/quinate(aq).gif,https://rest.kegg.jp/get/C00296/image
+5-dehydroquinate(aq),kegg:C00944,"['5-dehydroquinate(aq)', '3-dehydroquinate(aq)']",,,chebi:32364,pubchem:4196,images/rdkit/5-dehydroquinate(aq).gif,https://rest.kegg.jp/get/C00944/image
+shikimate(aq),kegg:C00493,[],,,chebi:16119,pubchem:3776,images/rdkit/shikimate(aq).gif,https://rest.kegg.jp/get/C00493/image
+3-dehydroshikimate(aq),kegg:C02637,[],,,chebi:16630,pubchem:5617,images/rdkit/3-dehydroshikimate(aq).gif,https://rest.kegg.jp/get/C02637/image
+(R)-glycerate(aq),kegg:C00258,[],,,chebi:16659,pubchem:3557,images/rdkit/(R)-glycerate(aq).gif,https://rest.kegg.jp/get/C00258/image
+hydroxypyruvate(aq),kegg:C00168,[],,,chebi:17180,pubchem:3468,images/rdkit/hydroxypyruvate(aq).gif,https://rest.kegg.jp/get/C00168/image
+glycolate(aq),kegg:C00160,[],,,chebi:29805,pubchem:3460,images/rdkit/glycolate(aq).gif,https://rest.kegg.jp/get/C00160/image
+glyoxylate(aq),kegg:C00048,[],,,chebi:16891,pubchem:3350,images/rdkit/glyoxylate(aq).gif,https://rest.kegg.jp/get/C00048/image
+2-hydroxybutanoate(aq),kegg:C05984,"['2-hydroxybutanoate(aq)', 'D-2-hydroxy-n-butanoate(aq)']",,,chebi:1148,pubchem:8262,,https://rest.kegg.jp/get/C05984/image
+2-oxobutanoate(aq),kegg:C00109,[],,,chebi:16763,pubchem:3409,,https://rest.kegg.jp/get/C00109/image
 "2,4-dihydroxybutanoate(aq)",,[],,,,,,
 2-oxo-4-hydroxybutanoate(aq),,[],,,,,,
-(S)-lactate(aq),kegg:C00186,[],,,chebi:16651,pubchem:3486,,https://rest.kegg.jp/get/:/image
-pyruvate(aq),kegg:C00022,"['pyruvate(aq)', 'pyruvate', 'pyruvate-(aq)']",,,chebi:15361,pubchem:3324,,https://rest.kegg.jp/get/:/image
-(R)-lactate(aq),kegg:C00256,[],,,chebi:16004,pubchem:3555,,https://rest.kegg.jp/get/:/image
-(R)-3-hydroxybutanoate(aq),kegg:C01089,[],,,chebi:10983,pubchem:4324,,https://rest.kegg.jp/get/:/image
-3-oxobutanoate(aq),kegg:C00164,"['3-oxobutanoate(aq)', 'acetoacetate(aq)']",,,chebi:13705,pubchem:3464,,https://rest.kegg.jp/get/:/image
-3-hydroxy-2-methylpropanoate(aq),kegg:C01188,[],,,chebi:11805,pubchem:4414,,https://rest.kegg.jp/get/:/image
-2-methyl-3-oxopropanoate(aq),kegg:C00349,[],,,chebi:16256,pubchem:3642,,https://rest.kegg.jp/get/:/image
-(S)-3-hydroxybutanoyl-CoA(aq),kegg:C01144,"['(S)-3-hydroxybutanoyl-CoA(aq)', '(3S)-3-hydroxybutanoyl-CoA(aq)', 'DL-3-hydroxybutanoyl-CoA(aq)', '(3S)-hydroxybutanoyl-coenzyme A(aq)']",,,chebi:15453,pubchem:4375,,https://rest.kegg.jp/get/:/image
-3-oxobutanoyl-CoA(aq),kegg:C00332,"['3-oxobutanoyl-CoA(aq)', 'acetoacetyl-CoA(aq)']",,,chebi:15345,pubchem:3626,,https://rest.kegg.jp/get/:/image
-(S)-3-hydroxyhexanoyl-CoA(aq),kegg:C05268,"['(S)-3-hydroxyhexanoyl-CoA(aq)', '(3S)-3-hydroxyhexanoyl-CoA(aq)']",,,chebi:28276,pubchem:7655,,https://rest.kegg.jp/get/:/image
-3-oxohexanoyl-CoA(aq),kegg:C05269,[],,,chebi:27648,pubchem:7656,,https://rest.kegg.jp/get/:/image
-(S)-malate(aq),kegg:C00149,[],,,chebi:15589,pubchem:3449,,https://rest.kegg.jp/get/:/image
-oxaloacetate(aq),kegg:C00036,"['oxaloacetate(aq)', 'keto-oxaloacetate(aq)']",,,chebi:16452,pubchem:3338,,https://rest.kegg.jp/get/:/image
-meso-tartrate(aq),kegg:C00552,[],,,chebi:15673,pubchem:3833,,https://rest.kegg.jp/get/:/image
-(E)-dihydroxyfumarate(aq),kegg:C00975,[],,,chebi:17795,pubchem:4224,,https://rest.kegg.jp/get/:/image
-2-oxo-3-hydroxysuccinate(aq),kegg:C03459,"['2-oxo-3-hydroxysuccinate(aq)', '2-oxo-3-hydroxybutanedioic acid(aq)']",,,chebi:17778,pubchem:6279,,https://rest.kegg.jp/get/:/image
-L-glutamate(aq),kegg:C00025,[],,,chebi:16015,pubchem:3327,,https://rest.kegg.jp/get/:/image
-L-aspartate(aq),kegg:C00049,[],,,chebi:17053,pubchem:3351,,https://rest.kegg.jp/get/:/image
-2-oxoglutarate(aq),kegg:C00026,[],,,chebi:16810,pubchem:3328,,https://rest.kegg.jp/get/:/image
-acetyl-CoA(aq),kegg:C00024,[],,,chebi:15351,pubchem:3326,,https://rest.kegg.jp/get/:/image
-H2O(l),kegg:C00001,"['H2O(l)', 'H2O', 'H2o(l)']",,,chebi:15377,pubchem:3303,,https://rest.kegg.jp/get/:/image
-citrate(aq),kegg:C00158,[],,,chebi:16947,pubchem:3458,,https://rest.kegg.jp/get/:/image
-CoA(aq),kegg:C00010,[],,,chebi:15346,pubchem:3312,,https://rest.kegg.jp/get/:/image
-carbon dioxide(aq),kegg:C00288,"['carbon dioxide(aq)', 'CO2(aq)', 'CO2']",,,chebi:17544,pubchem:3583,,https://rest.kegg.jp/get/:/image
-isocitrate(aq),kegg:C00311,[],,,chebi:16087,pubchem:3605,,https://rest.kegg.jp/get/:/image
-6-phospho-D-gluconate(aq),kegg:C00345,[],,,chebi:48928,pubchem:3638,,https://rest.kegg.jp/get/:/image
-D-ribulose 5-phosphate(aq),kegg:C00199,"['D-ribulose 5-phosphate(aq)', 'D-Ribulose 5-phosphate']",,,chebi:17363,pubchem:3499,,https://rest.kegg.jp/get/:/image
--D-glucose(aq),kegg:C00031,"['-D-glucose(aq)', 'D-glucose(aq)']",,,chebi:4167,pubchem:3333,,https://rest.kegg.jp/get/:/image
-"D-glucono-1,5-lactone(aq)",kegg:C00198,[],,,chebi:16217,pubchem:3498,,https://rest.kegg.jp/get/:/image
-D-galactose(aq),kegg:C00124,[],,,chebi:4139,pubchem:3424,,https://rest.kegg.jp/get/:/image
-"D-galactono-1,4-lactone(aq)",kegg:C03383,[],,,chebi:15895,pubchem:6218,,https://rest.kegg.jp/get/:/image
-D-glucose 6-phosphate(aq),kegg:C00092,"['D-glucose 6-phosphate(aq)', 'D-glucose 6-phosphate', '-D-glucose 6-phosphate(aq)']",,,chebi:4170,pubchem:3392,,https://rest.kegg.jp/get/:/image
-"D-glucono-1,5-lactone 6-phosphate(aq)",kegg:C01236,[],,,chebi:16938,pubchem:4457,,https://rest.kegg.jp/get/:/image
+(S)-lactate(aq),kegg:C00186,[],,,chebi:16651,pubchem:3486,,https://rest.kegg.jp/get/C00186/image
+pyruvate(aq),kegg:C00022,"['pyruvate(aq)', 'pyruvate', 'pyruvate-(aq)']",,,chebi:15361,pubchem:3324,,https://rest.kegg.jp/get/C00022/image
+(R)-lactate(aq),kegg:C00256,[],,,chebi:16004,pubchem:3555,,https://rest.kegg.jp/get/C00256/image
+(R)-3-hydroxybutanoate(aq),kegg:C01089,[],,,chebi:10983,pubchem:4324,,https://rest.kegg.jp/get/C01089/image
+3-oxobutanoate(aq),kegg:C00164,"['3-oxobutanoate(aq)', 'acetoacetate(aq)']",,,chebi:13705,pubchem:3464,,https://rest.kegg.jp/get/C00164/image
+3-hydroxy-2-methylpropanoate(aq),kegg:C01188,[],,,chebi:11805,pubchem:4414,,https://rest.kegg.jp/get/C01188/image
+2-methyl-3-oxopropanoate(aq),kegg:C00349,[],,,chebi:16256,pubchem:3642,,https://rest.kegg.jp/get/C00349/image
+(S)-3-hydroxybutanoyl-CoA(aq),kegg:C01144,"['(S)-3-hydroxybutanoyl-CoA(aq)', '(3S)-3-hydroxybutanoyl-CoA(aq)', 'DL-3-hydroxybutanoyl-CoA(aq)', '(3S)-hydroxybutanoyl-coenzyme A(aq)']",,,chebi:15453,pubchem:4375,,https://rest.kegg.jp/get/C01144/image
+3-oxobutanoyl-CoA(aq),kegg:C00332,"['3-oxobutanoyl-CoA(aq)', 'acetoacetyl-CoA(aq)']",,,chebi:15345,pubchem:3626,,https://rest.kegg.jp/get/C00332/image
+(S)-3-hydroxyhexanoyl-CoA(aq),kegg:C05268,"['(S)-3-hydroxyhexanoyl-CoA(aq)', '(3S)-3-hydroxyhexanoyl-CoA(aq)']",,,chebi:28276,pubchem:7655,,https://rest.kegg.jp/get/C05268/image
+3-oxohexanoyl-CoA(aq),kegg:C05269,[],,,chebi:27648,pubchem:7656,,https://rest.kegg.jp/get/C05269/image
+(S)-malate(aq),kegg:C00149,[],,,chebi:15589,pubchem:3449,,https://rest.kegg.jp/get/C00149/image
+oxaloacetate(aq),kegg:C00036,"['oxaloacetate(aq)', 'keto-oxaloacetate(aq)']",,,chebi:16452,pubchem:3338,,https://rest.kegg.jp/get/C00036/image
+meso-tartrate(aq),kegg:C00552,[],,,chebi:15673,pubchem:3833,,https://rest.kegg.jp/get/C00552/image
+(E)-dihydroxyfumarate(aq),kegg:C00975,[],,,chebi:17795,pubchem:4224,,https://rest.kegg.jp/get/C00975/image
+2-oxo-3-hydroxysuccinate(aq),kegg:C03459,"['2-oxo-3-hydroxysuccinate(aq)', '2-oxo-3-hydroxybutanedioic acid(aq)']",,,chebi:17778,pubchem:6279,,https://rest.kegg.jp/get/C03459/image
+L-glutamate(aq),kegg:C00025,[],,,chebi:16015,pubchem:3327,,https://rest.kegg.jp/get/C00025/image
+L-aspartate(aq),kegg:C00049,[],,,chebi:17053,pubchem:3351,,https://rest.kegg.jp/get/C00049/image
+2-oxoglutarate(aq),kegg:C00026,[],,,chebi:16810,pubchem:3328,,https://rest.kegg.jp/get/C00026/image
+acetyl-CoA(aq),kegg:C00024,[],,,chebi:15351,pubchem:3326,,https://rest.kegg.jp/get/C00024/image
+H2O(l),kegg:C00001,"['H2O(l)', 'H2O', 'H2o(l)']",,,chebi:15377,pubchem:3303,,https://rest.kegg.jp/get/C00001/image
+citrate(aq),kegg:C00158,[],,,chebi:16947,pubchem:3458,,https://rest.kegg.jp/get/C00158/image
+CoA(aq),kegg:C00010,[],,,chebi:15346,pubchem:3312,,https://rest.kegg.jp/get/C00010/image
+carbon dioxide(aq),kegg:C00288,"['carbon dioxide(aq)', 'CO2(aq)', 'CO2']",,,chebi:17544,pubchem:3583,,https://rest.kegg.jp/get/C00288/image
+isocitrate(aq),kegg:C00311,[],,,chebi:16087,pubchem:3605,,https://rest.kegg.jp/get/C00311/image
+6-phospho-D-gluconate(aq),kegg:C00345,[],,,chebi:48928,pubchem:3638,,https://rest.kegg.jp/get/C00345/image
+D-ribulose 5-phosphate(aq),kegg:C00199,"['D-ribulose 5-phosphate(aq)', 'D-Ribulose 5-phosphate']",,,chebi:17363,pubchem:3499,,https://rest.kegg.jp/get/C00199/image
+-D-glucose(aq),kegg:C00031,"['-D-glucose(aq)', 'D-glucose(aq)']",,,chebi:4167,pubchem:3333,,https://rest.kegg.jp/get/C00031/image
+"D-glucono-1,5-lactone(aq)",kegg:C00198,[],,,chebi:16217,pubchem:3498,,https://rest.kegg.jp/get/C00198/image
+D-galactose(aq),kegg:C00124,[],,,chebi:4139,pubchem:3424,,https://rest.kegg.jp/get/C00124/image
+"D-galactono-1,4-lactone(aq)",kegg:C03383,[],,,chebi:15895,pubchem:6218,,https://rest.kegg.jp/get/C03383/image
+D-glucose 6-phosphate(aq),kegg:C00092,"['D-glucose 6-phosphate(aq)', 'D-glucose 6-phosphate', '-D-glucose 6-phosphate(aq)']",,,chebi:4170,pubchem:3392,,https://rest.kegg.jp/get/C00092/image
+"D-glucono-1,5-lactone 6-phosphate(aq)",kegg:C01236,[],,,chebi:16938,pubchem:4457,,https://rest.kegg.jp/get/C01236/image
 5α-androstane-3α-ol-17-one(aq),,[],,,,,,
 "5α-androstane-3,17-dione(aq)",,[],,,,,,
 "5α-androstane-3α,17β-diol(aq)",,[],,,,,,
@@ -126,60 +126,60 @@ TNADH(aq),,[],,,,,,
 "5β-pregnane-17α,21-diol-3,11,20-trione(aq)",,[],,,,,,
 "5alpha-androstane-3beta,17alpha-diol(aq)",,[],,,,,"images/rdkit/5alpha-androstane-3beta,17alpha-diol(aq).gif",
 5alpha-androstane-17alpha-ol-3-one(aq),,[],,,,,,
-4-androstene-17-ol-3-one(aq),kegg:C00535,[],,,chebi:17347,pubchem:3817,,https://rest.kegg.jp/get/:/image
-"4-androstene-3,17-dione(aq)",kegg:C00280,[],,,chebi:16422,pubchem:3575,"images/rdkit/4-androstene-3,17-dione(aq).gif",https://rest.kegg.jp/get/:/image
+4-androstene-17-ol-3-one(aq),kegg:C00535,[],,,chebi:17347,pubchem:3817,,https://rest.kegg.jp/get/C00535/image
+"4-androstene-3,17-dione(aq)",kegg:C00280,[],,,chebi:16422,pubchem:3575,"images/rdkit/4-androstene-3,17-dione(aq).gif",https://rest.kegg.jp/get/C00280/image
 "5α-pregnane-3β,17α,21-triol-11,20-dione(aq)",,[],,,,,,
 "5α-pregnane-17α,21-diol-3,11,20-trione(aq)",,[],,,,,,
-"1,2-propanediol(aq)",kegg:C00583,[],,,chebi:16997,pubchem:3862,"images/rdkit/1,2-propanediol(aq).gif",https://rest.kegg.jp/get/:/image
-L-lactaldehyde(aq),kegg:C00424,"['L-lactaldehyde(aq)', '(S)-lactaldehyde(aq)']",,,chebi:18041,pubchem:3714,images/rdkit/L-lactaldehyde(aq).gif,https://rest.kegg.jp/get/:/image
-3-hydroxypropanoate(aq),kegg:C01013,[],,,chebi:16510,pubchem:4258,images/rdkit/3-hydroxypropanoate(aq).gif,https://rest.kegg.jp/get/:/image
-3-oxopropanoate(aq),kegg:C00222,"['3-oxopropanoate(aq)', '3-oxopropanoate']",,,chebi:33190,pubchem:3522,images/rdkit/3-oxopropanoate(aq).gif,https://rest.kegg.jp/get/:/image
-2-hydroxy-3-oxopropanoate(aq),kegg:C01146,[],,,chebi:16992,pubchem:4376,images/rdkit/2-hydroxy-3-oxopropanoate(aq).gif,https://rest.kegg.jp/get/:/image
-4-hydroxybutanoate(aq),kegg:C00989,[],,,chebi:16724,pubchem:4235,images/rdkit/4-hydroxybutanoate(aq).gif,https://rest.kegg.jp/get/:/image
-4-oxobutanoate(aq),kegg:C00232,[],,,chebi:16265,pubchem:3531,images/rdkit/4-oxobutanoate(aq).gif,https://rest.kegg.jp/get/:/image
-estradiol-17(aq),kegg:C00951,[],,,chebi:16469,pubchem:4202,,https://rest.kegg.jp/get/:/image
-estrone(aq),kegg:C00468,[],,,chebi:17263,pubchem:3751,images/rdkit/estrone(aq).gif,https://rest.kegg.jp/get/:/image
-D-gluconate(aq),kegg:C00257,[],,,chebi:18391,pubchem:3556,images/rdkit/D-gluconate(aq).gif,https://rest.kegg.jp/get/:/image
+"1,2-propanediol(aq)",kegg:C00583,[],,,chebi:16997,pubchem:3862,"images/rdkit/1,2-propanediol(aq).gif",https://rest.kegg.jp/get/C00583/image
+L-lactaldehyde(aq),kegg:C00424,"['L-lactaldehyde(aq)', '(S)-lactaldehyde(aq)']",,,chebi:18041,pubchem:3714,images/rdkit/L-lactaldehyde(aq).gif,https://rest.kegg.jp/get/C00424/image
+3-hydroxypropanoate(aq),kegg:C01013,[],,,chebi:16510,pubchem:4258,images/rdkit/3-hydroxypropanoate(aq).gif,https://rest.kegg.jp/get/C01013/image
+3-oxopropanoate(aq),kegg:C00222,"['3-oxopropanoate(aq)', '3-oxopropanoate']",,,chebi:33190,pubchem:3522,images/rdkit/3-oxopropanoate(aq).gif,https://rest.kegg.jp/get/C00222/image
+2-hydroxy-3-oxopropanoate(aq),kegg:C01146,[],,,chebi:16992,pubchem:4376,images/rdkit/2-hydroxy-3-oxopropanoate(aq).gif,https://rest.kegg.jp/get/C01146/image
+4-hydroxybutanoate(aq),kegg:C00989,[],,,chebi:16724,pubchem:4235,images/rdkit/4-hydroxybutanoate(aq).gif,https://rest.kegg.jp/get/C00989/image
+4-oxobutanoate(aq),kegg:C00232,[],,,chebi:16265,pubchem:3531,images/rdkit/4-oxobutanoate(aq).gif,https://rest.kegg.jp/get/C00232/image
+estradiol-17(aq),kegg:C00951,[],,,chebi:16469,pubchem:4202,,https://rest.kegg.jp/get/C00951/image
+estrone(aq),kegg:C00468,[],,,chebi:17263,pubchem:3751,images/rdkit/estrone(aq).gif,https://rest.kegg.jp/get/C00468/image
+D-gluconate(aq),kegg:C00257,[],,,chebi:18391,pubchem:3556,images/rdkit/D-gluconate(aq).gif,https://rest.kegg.jp/get/C00257/image
 5-oxo-D-gluconate(aq),,[],,,,,,
-(R)-glyceraldehyde(aq),kegg:C00577,"['(R)-glyceraldehyde(aq)', 'D-glyceraldehyde(aq)']",,,chebi:17378,pubchem:3856,images/rdkit/(R)-glyceraldehyde(aq).gif,https://rest.kegg.jp/get/:/image
-3-phospho-D-glycerate(aq),kegg:C00197,"['3-phospho-D-glycerate(aq)', '(R)-3-phosphoglycerate(aq)']",,,chebi:17794,pubchem:3497,images/rdkit/3-phospho-D-glycerate(aq).gif,https://rest.kegg.jp/get/:/image
-3-phosphohydroxypyruvate(aq),kegg:C03232,"['3-phosphohydroxypyruvate(aq)', '3-phosphonooxypyruvate(aq)']",,,chebi:18110,pubchem:6103,images/rdkit/3-phosphohydroxypyruvate(aq).gif,https://rest.kegg.jp/get/:/image
-"-(3,5-diiodo-4-hydroxyphenyl)lactate(aq)",kegg:C04367,[],,,chebi:16122,pubchem:7011,,https://rest.kegg.jp/get/:/image
-"-(3,5-diiodo-4-hydroxyphenyl)pyruvate(aq)",kegg:C01244,[],,,chebi:17131,pubchem:4465,,https://rest.kegg.jp/get/:/image
-3-hydroxybenzyl alcohol(aq),kegg:C03351,[],,,chebi:17069,pubchem:6192,,https://rest.kegg.jp/get/:/image
-3-hydroxybenzaldehyde(aq),kegg:C03067,[],,,chebi:16207,pubchem:5967,,https://rest.kegg.jp/get/:/image
-(3R)-3-hydroxybutanoyl-[acyl-carrier protein](aq),kegg:C04618,[],,,,pubchem:7208,,https://rest.kegg.jp/get/:/image
+(R)-glyceraldehyde(aq),kegg:C00577,"['(R)-glyceraldehyde(aq)', 'D-glyceraldehyde(aq)']",,,chebi:17378,pubchem:3856,images/rdkit/(R)-glyceraldehyde(aq).gif,https://rest.kegg.jp/get/C00577/image
+3-phospho-D-glycerate(aq),kegg:C00197,"['3-phospho-D-glycerate(aq)', '(R)-3-phosphoglycerate(aq)']",,,chebi:17794,pubchem:3497,images/rdkit/3-phospho-D-glycerate(aq).gif,https://rest.kegg.jp/get/C00197/image
+3-phosphohydroxypyruvate(aq),kegg:C03232,"['3-phosphohydroxypyruvate(aq)', '3-phosphonooxypyruvate(aq)']",,,chebi:18110,pubchem:6103,images/rdkit/3-phosphohydroxypyruvate(aq).gif,https://rest.kegg.jp/get/C03232/image
+"-(3,5-diiodo-4-hydroxyphenyl)lactate(aq)",kegg:C04367,[],,,chebi:16122,pubchem:7011,,https://rest.kegg.jp/get/C04367/image
+"-(3,5-diiodo-4-hydroxyphenyl)pyruvate(aq)",kegg:C01244,[],,,chebi:17131,pubchem:4465,,https://rest.kegg.jp/get/C01244/image
+3-hydroxybenzyl alcohol(aq),kegg:C03351,[],,,chebi:17069,pubchem:6192,,https://rest.kegg.jp/get/C03351/image
+3-hydroxybenzaldehyde(aq),kegg:C03067,[],,,chebi:16207,pubchem:5967,,https://rest.kegg.jp/get/C03067/image
+(3R)-3-hydroxybutanoyl-[acyl-carrier protein](aq),kegg:C04618,[],,,,pubchem:7208,,https://rest.kegg.jp/get/C04618/image
 3-oxobutanoyl-[acyl-carrier protein](aq),,[],,,,,,
-L-carnitine(aq),kegg:C00318,[],,,chebi:16347,pubchem:3612,,https://rest.kegg.jp/get/:/image
-3-dehydrocarnitine(aq),kegg:C02636,[],,,chebi:16758,pubchem:5616,,https://rest.kegg.jp/get/:/image
-indole-3-lactate(aq),kegg:C02043,[],,,chebi:17282,pubchem:5133,,https://rest.kegg.jp/get/:/image
-indole-3-pyruvate(aq),kegg:C00331,[],,,chebi:29750,pubchem:3625,,https://rest.kegg.jp/get/:/image
-D-glucose(aq),kegg:C00031,"['-D-glucose(aq)', 'D-glucose(aq)']",,,chebi:4167,pubchem:3333,,https://rest.kegg.jp/get/:/image
-5-dehydro-D-fructose(aq),kegg:C00273,[],,,chebi:17011,pubchem:3571,,https://rest.kegg.jp/get/:/image
-2-deoxy-D-gluconate(aq),kegg:C02782,[],,,chebi:16138,pubchem:5733,,https://rest.kegg.jp/get/:/image
-2-deoxy-3-dehydro-D-gluconate(aq),kegg:C03926,[],,,chebi:16622,pubchem:6654,,https://rest.kegg.jp/get/:/image
-L-threonate(aq),kegg:C01620,[],,,chebi:49060,pubchem:4772,,https://rest.kegg.jp/get/:/image
-3-oxo-L-threonate(aq),kegg:C03064,[],,,chebi:16943,pubchem:5964,,https://rest.kegg.jp/get/:/image
-D-sorbitol 6-phosphate(aq),kegg:C01096,[],,,chebi:17044,pubchem:4331,,https://rest.kegg.jp/get/:/image
-prostaglandin E1(aq),kegg:C04741,[],,,chebi:15544,pubchem:7312,,https://rest.kegg.jp/get/:/image
-15-oxo-prostaglandin E1(aq),kegg:C04654,[],,,chebi:15548,pubchem:7240,,https://rest.kegg.jp/get/:/image
+L-carnitine(aq),kegg:C00318,[],,,chebi:16347,pubchem:3612,,https://rest.kegg.jp/get/C00318/image
+3-dehydrocarnitine(aq),kegg:C02636,[],,,chebi:16758,pubchem:5616,,https://rest.kegg.jp/get/C02636/image
+indole-3-lactate(aq),kegg:C02043,[],,,chebi:17282,pubchem:5133,,https://rest.kegg.jp/get/C02043/image
+indole-3-pyruvate(aq),kegg:C00331,[],,,chebi:29750,pubchem:3625,,https://rest.kegg.jp/get/C00331/image
+D-glucose(aq),kegg:C00031,"['-D-glucose(aq)', 'D-glucose(aq)']",,,chebi:4167,pubchem:3333,,https://rest.kegg.jp/get/C00031/image
+5-dehydro-D-fructose(aq),kegg:C00273,[],,,chebi:17011,pubchem:3571,,https://rest.kegg.jp/get/C00273/image
+2-deoxy-D-gluconate(aq),kegg:C02782,[],,,chebi:16138,pubchem:5733,,https://rest.kegg.jp/get/C02782/image
+2-deoxy-3-dehydro-D-gluconate(aq),kegg:C03926,[],,,chebi:16622,pubchem:6654,,https://rest.kegg.jp/get/C03926/image
+L-threonate(aq),kegg:C01620,[],,,chebi:49060,pubchem:4772,,https://rest.kegg.jp/get/C01620/image
+3-oxo-L-threonate(aq),kegg:C03064,[],,,chebi:16943,pubchem:5964,,https://rest.kegg.jp/get/C03064/image
+D-sorbitol 6-phosphate(aq),kegg:C01096,[],,,chebi:17044,pubchem:4331,,https://rest.kegg.jp/get/C01096/image
+prostaglandin E1(aq),kegg:C04741,[],,,chebi:15544,pubchem:7312,,https://rest.kegg.jp/get/C04741/image
+15-oxo-prostaglandin E1(aq),kegg:C04654,[],,,chebi:15548,pubchem:7240,,https://rest.kegg.jp/get/C04654/image
 "4-pregnene-11β,17α,21-triol-3,20-dione(aq)",,[],,,,,,
 "4-pregnene-11β,17α-diol-3,20,21-trione( aq)",,[],,,,,,
-"7,8-dihydrobiopterin(aq)",kegg:C02953,[],,,chebi:64277,pubchem:5871,,https://rest.kegg.jp/get/:/image
-sepiapterin(aq),kegg:C00835,[],,,chebi:16095,pubchem:4093,,https://rest.kegg.jp/get/:/image
-coniferyl alcohol(aq),kegg:C00590,[],,,chebi:17745,pubchem:3869,,https://rest.kegg.jp/get/:/image
-coniferyl aldehyde(aq),kegg:C02666,[],,,chebi:16547,pubchem:5637,,https://rest.kegg.jp/get/:/image
-(R)-2-hydroxyglutarate(aq),kegg:C01087,[],,,chebi:15801,pubchem:4322,,https://rest.kegg.jp/get/:/image
-2-oxo-D-gluconate(aq),kegg:C06473,[],,,chebi:27469,pubchem:8705,,https://rest.kegg.jp/get/:/image
-lactose(aq),kegg:C00243,[],,,chebi:17716,pubchem:3542,,https://rest.kegg.jp/get/:/image
-cytochrome c(aq),4 kegg:C00125,[],,,chebi:15991,pubchem:3425,,https://rest.kegg.jp/get/:/image
-3-oxolactose(aq),kegg:C05403,[],,,chebi:27571,pubchem:7770,,https://rest.kegg.jp/get/:/image
-reduced cytochrome c(aq),4 kegg:C00126,[],,,chebi:16928,pubchem:3426,,https://rest.kegg.jp/get/:/image
-formate(aq),kegg:C00058,[],,,chebi:15740,pubchem:3358,,https://rest.kegg.jp/get/:/image
-orthophosphate(aq),kegg:C00009,"['orthophosphate(aq)', 'orthophospate(aq)', 'HPO4-2-(aq)', 'phosphate(aq)']",,,chebi:18367,pubchem:3311,,https://rest.kegg.jp/get/:/image
-L-4-aspartyl phosphate(aq),kegg:C03082,"['L-4-aspartyl phosphate(aq)', '4-phospho-L-aspartate(aq)']",,,chebi:15836,pubchem:5980,,https://rest.kegg.jp/get/:/image
-L-aspartate-4-semialdehyde(aq),kegg:C00441,"['L-aspartate 4-semialdehyde(aq)', 'L-aspartate-4-semialdehyde(aq)']",,,chebi:13086,pubchem:3730,,https://rest.kegg.jp/get/:/image
-D-glyceraldehyde 3-phosphate(aq),kegg:C00118,"['D-glyceraldehyde 3-phosphate(aq)', 'D-glyceraldehyde-3-phosphate(aq)']",,,chebi:29052,pubchem:3418,,https://rest.kegg.jp/get/:/image
+"7,8-dihydrobiopterin(aq)",kegg:C02953,[],,,chebi:64277,pubchem:5871,,https://rest.kegg.jp/get/C02953/image
+sepiapterin(aq),kegg:C00835,[],,,chebi:16095,pubchem:4093,,https://rest.kegg.jp/get/C00835/image
+coniferyl alcohol(aq),kegg:C00590,[],,,chebi:17745,pubchem:3869,,https://rest.kegg.jp/get/C00590/image
+coniferyl aldehyde(aq),kegg:C02666,[],,,chebi:16547,pubchem:5637,,https://rest.kegg.jp/get/C02666/image
+(R)-2-hydroxyglutarate(aq),kegg:C01087,[],,,chebi:15801,pubchem:4322,,https://rest.kegg.jp/get/C01087/image
+2-oxo-D-gluconate(aq),kegg:C06473,[],,,chebi:27469,pubchem:8705,,https://rest.kegg.jp/get/C06473/image
+lactose(aq),kegg:C00243,[],,,chebi:17716,pubchem:3542,,https://rest.kegg.jp/get/C00243/image
+cytochrome c(aq),4 kegg:C00125,[],,,chebi:15991,pubchem:3425,,https://rest.kegg.jp/get/C00125/image
+3-oxolactose(aq),kegg:C05403,[],,,chebi:27571,pubchem:7770,,https://rest.kegg.jp/get/C05403/image
+reduced cytochrome c(aq),4 kegg:C00126,[],,,chebi:16928,pubchem:3426,,https://rest.kegg.jp/get/C00126/image
+formate(aq),kegg:C00058,[],,,chebi:15740,pubchem:3358,,https://rest.kegg.jp/get/C00058/image
+orthophosphate(aq),kegg:C00009,"['orthophosphate(aq)', 'orthophospate(aq)', 'HPO4-2-(aq)', 'phosphate(aq)']",,,chebi:18367,pubchem:3311,,https://rest.kegg.jp/get/C00009/image
+L-4-aspartyl phosphate(aq),kegg:C03082,"['L-4-aspartyl phosphate(aq)', '4-phospho-L-aspartate(aq)']",,,chebi:15836,pubchem:5980,,https://rest.kegg.jp/get/C03082/image
+L-aspartate-4-semialdehyde(aq),kegg:C00441,"['L-aspartate 4-semialdehyde(aq)', 'L-aspartate-4-semialdehyde(aq)']",,,chebi:13086,pubchem:3730,,https://rest.kegg.jp/get/C00441/image
+D-glyceraldehyde 3-phosphate(aq),kegg:C00118,"['D-glyceraldehyde 3-phosphate(aq)', 'D-glyceraldehyde-3-phosphate(aq)']",,,chebi:29052,pubchem:3418,,https://rest.kegg.jp/get/C00118/image
 (aminomethyl)phosphoate(aq),,[],,,,,,
 (3-phospho-D-glyceroyl-animomethyl)phosphate(aq),,[],,,,,,
 (chloroethyl)phosphoate(aq),,[],,,,,,
@@ -192,99 +192,99 @@ D-glyceraldehyde 3-phosphate(aq),kegg:C00118,"['D-glyceraldehyde 3-phosphate(aq)
 (3-phospho-D-glyceroyl-methoxy)phosphate(aq),,[],,,,,,
 (methyl)phosphoate(aq),,[],,,,,,
 (3-phospho-D-glyceroyl-methyl)phosphate(aq),,[],,,,,,
-3-phospho-D-glyceroyl phosphate(aq),kegg:C00236,[],,,chebi:16001,pubchem:3535,,https://rest.kegg.jp/get/:/image
+3-phospho-D-glyceroyl phosphate(aq),kegg:C00236,[],,,chebi:16001,pubchem:3535,,https://rest.kegg.jp/get/C00236/image
 phosphonate(aq),,[],,,,,,
 (3-phospho-D-glyceroyl)phosphonate(aq),,[],,,,,,
-ADP(aq),kegg:C00008,"['ADP(aq)', 'ADP-3-(aq)']",,,chebi:16761,pubchem:3310,,https://rest.kegg.jp/get/:/image
-ATP(aq),kegg:C00002,"['ATP(aq)', 'ATP', 'ATP-4-(aq)']",,,chebi:15422,pubchem:3304,,https://rest.kegg.jp/get/:/image
-oxalyl-CoA(aq),kegg:C00313,[],,,chebi:15535,pubchem:3607,,https://rest.kegg.jp/get/:/image
-succinate(aq),kegg:C00042,[],,,chebi:15741,pubchem:3344,,https://rest.kegg.jp/get/:/image
-O2(aq),kegg:C00007,"['O2(aq)', 'O2']",,,chebi:15379,pubchem:3309,,https://rest.kegg.jp/get/:/image
-fumarate(aq),kegg:C00122,"['fumarate(aq)', 'Fumarate']",,,chebi:29806,pubchem:3422,,https://rest.kegg.jp/get/:/image
-(S)-dihydroorotate(aq),kegg:C00337,[],,,chebi:17025,pubchem:3630,images/rdkit/(S)-dihydroorotate(aq).gif,https://rest.kegg.jp/get/:/image
-orotate(aq),kegg:C00295,[],,,chebi:16742,pubchem:3589,images/rdkit/orotate(aq).gif,https://rest.kegg.jp/get/:/image
-L-alanine(aq),kegg:C00041,"['L-alanine(aq)', 'L-alanine']",,,chebi:16977,pubchem:3343,images/rdkit/L-alanine(aq).gif,https://rest.kegg.jp/get/:/image
-ammonia(aq),kegg:C00014,"['ammonia(aq)', 'NH3(aq)']",,,chebi:16134,pubchem:3316,images/rdkit/ammonia(aq).gif,https://rest.kegg.jp/get/:/image
-L-leucine(aq),kegg:C00123,[],,,chebi:15603,pubchem:3423,images/rdkit/L-leucine(aq).gif,https://rest.kegg.jp/get/:/image
-4-methyl-2-oxopentanoate(aq),kegg:C00233,"['4-methyl-2-oxopentanoate(aq)', '4-methyl-2-oxopentanooate(aq)', '2-oxoisocaproate(aq)']",,,chebi:17865,pubchem:3532,images/rdkit/4-methyl-2-oxopentanoate(aq).gif,https://rest.kegg.jp/get/:/image
+ADP(aq),kegg:C00008,"['ADP(aq)', 'ADP-3-(aq)']",,,chebi:16761,pubchem:3310,,https://rest.kegg.jp/get/C00008/image
+ATP(aq),kegg:C00002,"['ATP(aq)', 'ATP', 'ATP-4-(aq)']",,,chebi:15422,pubchem:3304,,https://rest.kegg.jp/get/C00002/image
+oxalyl-CoA(aq),kegg:C00313,[],,,chebi:15535,pubchem:3607,,https://rest.kegg.jp/get/C00313/image
+succinate(aq),kegg:C00042,[],,,chebi:15741,pubchem:3344,,https://rest.kegg.jp/get/C00042/image
+O2(aq),kegg:C00007,"['O2(aq)', 'O2']",,,chebi:15379,pubchem:3309,,https://rest.kegg.jp/get/C00007/image
+fumarate(aq),kegg:C00122,"['fumarate(aq)', 'Fumarate']",,,chebi:29806,pubchem:3422,,https://rest.kegg.jp/get/C00122/image
+(S)-dihydroorotate(aq),kegg:C00337,[],,,chebi:17025,pubchem:3630,images/rdkit/(S)-dihydroorotate(aq).gif,https://rest.kegg.jp/get/C00337/image
+orotate(aq),kegg:C00295,[],,,chebi:16742,pubchem:3589,images/rdkit/orotate(aq).gif,https://rest.kegg.jp/get/C00295/image
+L-alanine(aq),kegg:C00041,"['L-alanine(aq)', 'L-alanine']",,,chebi:16977,pubchem:3343,images/rdkit/L-alanine(aq).gif,https://rest.kegg.jp/get/C00041/image
+ammonia(aq),kegg:C00014,"['ammonia(aq)', 'NH3(aq)']",,,chebi:16134,pubchem:3316,images/rdkit/ammonia(aq).gif,https://rest.kegg.jp/get/C00014/image
+L-leucine(aq),kegg:C00123,[],,,chebi:15603,pubchem:3423,images/rdkit/L-leucine(aq).gif,https://rest.kegg.jp/get/C00123/image
+4-methyl-2-oxopentanoate(aq),kegg:C00233,"['4-methyl-2-oxopentanoate(aq)', '4-methyl-2-oxopentanooate(aq)', '2-oxoisocaproate(aq)']",,,chebi:17865,pubchem:3532,images/rdkit/4-methyl-2-oxopentanoate(aq).gif,https://rest.kegg.jp/get/C00233/image
 glycine(ag),,[],,,,,images/rdkit/glycine(ag).gif,
-"L-erythro-3,5-diaminohexanoate(aq)",kegg:C01186,[],,,chebi:15616,pubchem:4412,"images/rdkit/L-erythro-3,5-diaminohexanoate(aq).gif",https://rest.kegg.jp/get/:/image
-(S)-5-amino-3-oxohexanoate(aq),kegg:C03656,[],,,chebi:27713,pubchem:6434,images/rdkit/(S)-5-amino-3-oxohexanoate(aq).gif,https://rest.kegg.jp/get/:/image
-"2,4-diaminopentanoate(aq)",kegg:C03943,"['2,4-diaminopentanoate(aq)', 'D-threo-2,4-diaminopentanoate(aq)']",,,chebi:4280,pubchem:6667,"images/rdkit/2,4-diaminopentanoate(aq).gif",https://rest.kegg.jp/get/:/image
-2-amino-4-oxopentanoate(aq),kegg:C03341,[],,,chebi:15914,pubchem:6184,images/rdkit/2-amino-4-oxopentanoate(aq).gif,https://rest.kegg.jp/get/:/image
-(S)-proline(aq),kegg:C00148,[],,,chebi:17203,pubchem:3448,images/rdkit/(S)-proline(aq).gif,https://rest.kegg.jp/get/:/image
-D-1-pyrroline-2-carboxylate(aq),kegg:C03564,[],,,chebi:17425,pubchem:6356,,https://rest.kegg.jp/get/:/image
-D-1-pyrroline-5-carboxylate(aq),kegg:C03912,"['D-1-pyrroline-5-carboxylate(aq)', 'DL-D-1-pyrroline-5-carboxylate(aq)']",,,chebi:17388,pubchem:6642,,https://rest.kegg.jp/get/:/image
-"7,8-dihydrofolate(aq)",kegg:C00415,"['7,8-dihydrofolate(aq)', 'dihydrofolate(aq)']",,,chebi:15633,pubchem:3705,"images/rdkit/7,8-dihydrofolate(aq).gif",https://rest.kegg.jp/get/:/image
-folate(aq),kegg:C00504,[],,,chebi:27470,pubchem:3787,images/rdkit/folate(aq).gif,https://rest.kegg.jp/get/:/image
-"5,6,7,8-tetrahydrofolate(aq)",kegg:C00101,"['5,6,7,8-tetrahydrofolate(aq)', 'tetrahydrofolate(aq)', 'THF(aq)', 'Tetrahydrofolate']",,,chebi:20506,pubchem:3401,"images/rdkit/5,6,7,8-tetrahydrofolate(aq).gif",https://rest.kegg.jp/get/:/image
-"5,10-methylenetetrahydrofolate(aq)",kegg:C00143,"['5,10-methylenetetrahydrofolate(aq)', '5,10-CH2-THF(aq)']",,,chebi:1989,pubchem:3443,"images/rdkit/5,10-methylenetetrahydrofolate(aq).gif",https://rest.kegg.jp/get/:/image
-"5,10-methenyltetrahydrofolate(aq)",kegg:C00445,[],,,chebi:15638,pubchem:3733,"images/rdkit/5,10-methenyltetrahydrofolate(aq).gif",https://rest.kegg.jp/get/:/image
-N-2-(D-1-carboxyethyl)-L-arginine(aq),kegg:C04137,[],,,chebi:15805,pubchem:6823,,https://rest.kegg.jp/get/:/image
-L-arginine(aq),kegg:C00062,[],,,chebi:16467,pubchem:3362,images/rdkit/L-arginine(aq).gif,https://rest.kegg.jp/get/:/image
-"2,2'-iminodipropanoate(aq)",kegg:C03210,[],,,chebi:17560,pubchem:6085,"images/rdkit/2,2'-iminodipropanoate(aq).gif",https://rest.kegg.jp/get/:/image
+"L-erythro-3,5-diaminohexanoate(aq)",kegg:C01186,[],,,chebi:15616,pubchem:4412,"images/rdkit/L-erythro-3,5-diaminohexanoate(aq).gif",https://rest.kegg.jp/get/C01186/image
+(S)-5-amino-3-oxohexanoate(aq),kegg:C03656,[],,,chebi:27713,pubchem:6434,images/rdkit/(S)-5-amino-3-oxohexanoate(aq).gif,https://rest.kegg.jp/get/C03656/image
+"2,4-diaminopentanoate(aq)",kegg:C03943,"['2,4-diaminopentanoate(aq)', 'D-threo-2,4-diaminopentanoate(aq)']",,,chebi:4280,pubchem:6667,"images/rdkit/2,4-diaminopentanoate(aq).gif",https://rest.kegg.jp/get/C03943/image
+2-amino-4-oxopentanoate(aq),kegg:C03341,[],,,chebi:15914,pubchem:6184,images/rdkit/2-amino-4-oxopentanoate(aq).gif,https://rest.kegg.jp/get/C03341/image
+(S)-proline(aq),kegg:C00148,[],,,chebi:17203,pubchem:3448,images/rdkit/(S)-proline(aq).gif,https://rest.kegg.jp/get/C00148/image
+D-1-pyrroline-2-carboxylate(aq),kegg:C03564,[],,,chebi:17425,pubchem:6356,,https://rest.kegg.jp/get/C03564/image
+D-1-pyrroline-5-carboxylate(aq),kegg:C03912,"['D-1-pyrroline-5-carboxylate(aq)', 'DL-D-1-pyrroline-5-carboxylate(aq)']",,,chebi:17388,pubchem:6642,,https://rest.kegg.jp/get/C03912/image
+"7,8-dihydrofolate(aq)",kegg:C00415,"['7,8-dihydrofolate(aq)', 'dihydrofolate(aq)']",,,chebi:15633,pubchem:3705,"images/rdkit/7,8-dihydrofolate(aq).gif",https://rest.kegg.jp/get/C00415/image
+folate(aq),kegg:C00504,[],,,chebi:27470,pubchem:3787,images/rdkit/folate(aq).gif,https://rest.kegg.jp/get/C00504/image
+"5,6,7,8-tetrahydrofolate(aq)",kegg:C00101,"['5,6,7,8-tetrahydrofolate(aq)', 'tetrahydrofolate(aq)', 'THF(aq)', 'Tetrahydrofolate']",,,chebi:20506,pubchem:3401,"images/rdkit/5,6,7,8-tetrahydrofolate(aq).gif",https://rest.kegg.jp/get/C00101/image
+"5,10-methylenetetrahydrofolate(aq)",kegg:C00143,"['5,10-methylenetetrahydrofolate(aq)', '5,10-CH2-THF(aq)']",,,chebi:1989,pubchem:3443,"images/rdkit/5,10-methylenetetrahydrofolate(aq).gif",https://rest.kegg.jp/get/C00143/image
+"5,10-methenyltetrahydrofolate(aq)",kegg:C00445,[],,,chebi:15638,pubchem:3733,"images/rdkit/5,10-methenyltetrahydrofolate(aq).gif",https://rest.kegg.jp/get/C00445/image
+N-2-(D-1-carboxyethyl)-L-arginine(aq),kegg:C04137,[],,,chebi:15805,pubchem:6823,,https://rest.kegg.jp/get/C04137/image
+L-arginine(aq),kegg:C00062,[],,,chebi:16467,pubchem:3362,images/rdkit/L-arginine(aq).gif,https://rest.kegg.jp/get/C00062/image
+"2,2'-iminodipropanoate(aq)",kegg:C03210,[],,,chebi:17560,pubchem:6085,"images/rdkit/2,2'-iminodipropanoate(aq).gif",https://rest.kegg.jp/get/C03210/image
 2-methyliminodiacetatc(aq),,[],,,,,,
 H20(l),,[],,,,,,
-glycine(aq),kegg:C00037,[],,,chebi:15428,pubchem:3339,,https://rest.kegg.jp/get/:/image
-L-pipecolate(aq),kegg:C00408,[],,,chebi:30633,pubchem:3698,,https://rest.kegg.jp/get/:/image
-D-1-piperidine-2-carboxylate(aq),kegg:C04092,[],,,chebi:30912,pubchem:6784,,https://rest.kegg.jp/get/:/image
-reduced glutathione(aq),2 kegg:C00051,"['reduced glutathione(aq)', 'glutathoine(red)(aq)']",,,chebi:16856,pubchem:3353,,https://rest.kegg.jp/get/:/image
-oxidized glutathione(aq),kegg:C00127,"['oxidized glutathione(aq)', 'glutathoine(ox)(aq)']",,,chebi:17858,pubchem:3427,,https://rest.kegg.jp/get/:/image
-reduced thioredoxin(aq),kegg:C00342,[],,,chebi:15033,pubchem:3635,,https://rest.kegg.jp/get/:/image
-oxidized thioredoxin(aq),kegg:C00343,[],,,chebi:18191,pubchem:3636,,https://rest.kegg.jp/get/:/image
-5-methyltetrahydrofolate(aq),kegg:C00440,[],,,chebi:15641,pubchem:3729,,https://rest.kegg.jp/get/:/image
-flavin-adenine dinucleotide(aq),kegg:C00016,[],,,chebi:16238,pubchem:3318,,https://rest.kegg.jp/get/:/image
-reduced flavin-adenine dinucleotide(aq),kegg:C01352,[],,,chebi:17877,pubchem:4556,,https://rest.kegg.jp/get/:/image
-dihydrolipoamide(aq),kegg:C00579,[],,,chebi:17694,pubchem:3858,images/rdkit/dihydrolipoamide(aq).gif,https://rest.kegg.jp/get/:/image
-lipoamide(aq),kegg:C00248,[],,,chebi:17460,pubchem:3547,images/rdkit/lipoamide(aq).gif,https://rest.kegg.jp/get/:/image
-dihydro--lipoate(aq),kegg:C02147,[],,,chebi:18047,pubchem:5225,,https://rest.kegg.jp/get/:/image
--lipoate(aq),kegg:C00725,"['-lipoate(aq)', 'lipoate(aq)']",,,chebi:16494,pubchem:3990,,https://rest.kegg.jp/get/:/image
-CoA-glutathione(aq),kegg:C00920,[],,,chebi:17586,pubchem:4174,images/rdkit/CoA-glutathione(aq).gif,https://rest.kegg.jp/get/:/image
-H2(aq),kegg:C00282,[],,,chebi:18276,pubchem:3577,images/rdkit/H2(aq).gif,https://rest.kegg.jp/get/:/image
-betaine(aq),kegg:C00719,[],,,chebi:17750,pubchem:3985,images/rdkit/betaine(aq).gif,https://rest.kegg.jp/get/:/image
-L-homocysteine(aq),kegg:C00155,[],,,chebi:17588,pubchem:3455,images/rdkit/L-homocysteine(aq).gif,https://rest.kegg.jp/get/:/image
-"N,N-dimethylglycine(aq)",kegg:C01026,[],,,chebi:17724,pubchem:4271,"images/rdkit/N,N-dimethylglycine(aq).gif",https://rest.kegg.jp/get/:/image
-L-methionine(aq),kegg:C00073,[],,,chebi:16643,pubchem:3373,images/rdkit/L-methionine(aq).gif,https://rest.kegg.jp/get/:/image
-dimethylacetothetin(aq),kegg:C03392,[],,,chebi:4623,pubchem:6223,,https://rest.kegg.jp/get/:/image
-S-methylthioglycolate(aq),kegg:C03173,[],,,chebi:47870,pubchem:6055,images/rdkit/S-methylthioglycolate(aq).gif,https://rest.kegg.jp/get/:/image
+glycine(aq),kegg:C00037,[],,,chebi:15428,pubchem:3339,,https://rest.kegg.jp/get/C00037/image
+L-pipecolate(aq),kegg:C00408,[],,,chebi:30633,pubchem:3698,,https://rest.kegg.jp/get/C00408/image
+D-1-piperidine-2-carboxylate(aq),kegg:C04092,[],,,chebi:30912,pubchem:6784,,https://rest.kegg.jp/get/C04092/image
+reduced glutathione(aq),2 kegg:C00051,"['reduced glutathione(aq)', 'glutathoine(red)(aq)']",,,chebi:16856,pubchem:3353,,https://rest.kegg.jp/get/C00051/image
+oxidized glutathione(aq),kegg:C00127,"['oxidized glutathione(aq)', 'glutathoine(ox)(aq)']",,,chebi:17858,pubchem:3427,,https://rest.kegg.jp/get/C00127/image
+reduced thioredoxin(aq),kegg:C00342,[],,,chebi:15033,pubchem:3635,,https://rest.kegg.jp/get/C00342/image
+oxidized thioredoxin(aq),kegg:C00343,[],,,chebi:18191,pubchem:3636,,https://rest.kegg.jp/get/C00343/image
+5-methyltetrahydrofolate(aq),kegg:C00440,[],,,chebi:15641,pubchem:3729,,https://rest.kegg.jp/get/C00440/image
+flavin-adenine dinucleotide(aq),kegg:C00016,[],,,chebi:16238,pubchem:3318,,https://rest.kegg.jp/get/C00016/image
+reduced flavin-adenine dinucleotide(aq),kegg:C01352,[],,,chebi:17877,pubchem:4556,,https://rest.kegg.jp/get/C01352/image
+dihydrolipoamide(aq),kegg:C00579,[],,,chebi:17694,pubchem:3858,images/rdkit/dihydrolipoamide(aq).gif,https://rest.kegg.jp/get/C00579/image
+lipoamide(aq),kegg:C00248,[],,,chebi:17460,pubchem:3547,images/rdkit/lipoamide(aq).gif,https://rest.kegg.jp/get/C00248/image
+dihydro--lipoate(aq),kegg:C02147,[],,,chebi:18047,pubchem:5225,,https://rest.kegg.jp/get/C02147/image
+-lipoate(aq),kegg:C00725,"['-lipoate(aq)', 'lipoate(aq)']",,,chebi:16494,pubchem:3990,,https://rest.kegg.jp/get/C00725/image
+CoA-glutathione(aq),kegg:C00920,[],,,chebi:17586,pubchem:4174,images/rdkit/CoA-glutathione(aq).gif,https://rest.kegg.jp/get/C00920/image
+H2(aq),kegg:C00282,[],,,chebi:18276,pubchem:3577,images/rdkit/H2(aq).gif,https://rest.kegg.jp/get/C00282/image
+betaine(aq),kegg:C00719,[],,,chebi:17750,pubchem:3985,images/rdkit/betaine(aq).gif,https://rest.kegg.jp/get/C00719/image
+L-homocysteine(aq),kegg:C00155,[],,,chebi:17588,pubchem:3455,images/rdkit/L-homocysteine(aq).gif,https://rest.kegg.jp/get/C00155/image
+"N,N-dimethylglycine(aq)",kegg:C01026,[],,,chebi:17724,pubchem:4271,"images/rdkit/N,N-dimethylglycine(aq).gif",https://rest.kegg.jp/get/C01026/image
+L-methionine(aq),kegg:C00073,[],,,chebi:16643,pubchem:3373,images/rdkit/L-methionine(aq).gif,https://rest.kegg.jp/get/C00073/image
+dimethylacetothetin(aq),kegg:C03392,[],,,chebi:4623,pubchem:6223,,https://rest.kegg.jp/get/C03392/image
+S-methylthioglycolate(aq),kegg:C03173,[],,,chebi:47870,pubchem:6055,images/rdkit/S-methylthioglycolate(aq).gif,https://rest.kegg.jp/get/C03173/image
 dimethylpropiothetin(aq),,[],,,,,images/rdkit/dimethylpropiothetin(aq).gif,
 S-methyltpropiothetin(aq),,[],,,,,,
 S-methylmethionine(aq),,[],,,,,,
-trimethylsulfonium(aq),kegg:C01008,[],,,chebi:17434,pubchem:4253,,https://rest.kegg.jp/get/:/image
-dimethylsulfide(aq),kegg:C00580,[],,,chebi:17437,pubchem:3859,,https://rest.kegg.jp/get/:/image
-S-adenosyl-L-methionine(aq),kegg:C00019,[],,,chebi:67040,pubchem:3321,,https://rest.kegg.jp/get/:/image
-S-adenosyl-L-homocysteine(aq),kegg:C00021,[],,,chebi:16680,pubchem:3323,,https://rest.kegg.jp/get/:/image
-dUMP(aq),kegg:C00365,[],,,chebi:17622,pubchem:3656,,https://rest.kegg.jp/get/:/image
-dihydrofolate(aq),kegg:C00415,"['7,8-dihydrofolate(aq)', 'dihydrofolate(aq)']",,,chebi:15633,pubchem:3705,,https://rest.kegg.jp/get/:/image
-dTMP(aq),kegg:C00364,[],,,chebi:17013,pubchem:3655,,https://rest.kegg.jp/get/:/image
-L-threonine(aq),kegg:C00188,[],,,chebi:16857,pubchem:3488,,https://rest.kegg.jp/get/:/image
-formaldehyde(aq),kegg:C00067,"['formaldehyde(aq)', 'Formaldehyde']",,,chebi:16842,pubchem:3367,,https://rest.kegg.jp/get/:/image
-L-serine(aq),kegg:C00065,[],,,chebi:17115,pubchem:3365,,https://rest.kegg.jp/get/:/image
-tetrahydrofolate(aq),kegg:C00101,"['5,6,7,8-tetrahydrofolate(aq)', 'tetrahydrofolate(aq)', 'THF(aq)', 'Tetrahydrofolate']",,,chebi:20506,pubchem:3401,,https://rest.kegg.jp/get/:/image
-5-formiminotetrahydrofolate(aq),kegg:C00664,[],,,chebi:15639,pubchem:3933,,https://rest.kegg.jp/get/:/image
-N-formiminoglycine(aq),kegg:C02718,[],,,chebi:18415,pubchem:5681,,https://rest.kegg.jp/get/:/image
-N-formimino-L-glutamate(aq),kegg:C00439,[],,,chebi:18327,pubchem:3728,,https://rest.kegg.jp/get/:/image
-2-hydroxymethylserine(aq),kegg:C03059,[],,,chebi:28187,pubchem:5959,,https://rest.kegg.jp/get/:/image
-D-serine(aq),kegg:C00740,[],,,chebi:16523,pubchem:4003,,https://rest.kegg.jp/get/:/image
-2-methylserine(aq),kegg:C02115,[],,,chebi:74819,pubchem:5195,,https://rest.kegg.jp/get/:/image
-D-alanine(aq),kegg:C00133,[],,,chebi:15570,pubchem:3433,,https://rest.kegg.jp/get/:/image
-propanoyl-CoA(aq),kegg:C00100,"['propanoyl-CoA(aq)', 'propionyl-CoA(aq)', 'propanonyl-CoA(aq)']",,,chebi:15539,pubchem:3400,,https://rest.kegg.jp/get/:/image
-methylmalonyl-CoA(aq),kegg:C02557,[],,,chebi:16625,pubchem:5558,,https://rest.kegg.jp/get/:/image
-carbamoyl phosphate(aq),kegg:C00169,[],,,chebi:17672,pubchem:3469,,https://rest.kegg.jp/get/:/image
-L-ornithine(aq),kegg:C00077,[],,,chebi:15729,pubchem:3377,,https://rest.kegg.jp/get/:/image
-L-citrulline(aq),kegg:C00327,[],,,chebi:16349,pubchem:3621,,https://rest.kegg.jp/get/:/image
-guanidinoacetate(aq),kegg:C00581,[],,,chebi:16344,pubchem:3860,,https://rest.kegg.jp/get/:/image
-D-erythrose 4-phosphate(aq),kegg:C00279,"['D-erythrose 4-phosphate(aq)', 'D-erythrose 4-phospahte(aq)']",,,chebi:48153,pubchem:3574,,https://rest.kegg.jp/get/:/image
-D-xylulose 5-phosphate(aq),kegg:C00231,[],,,chebi:16332,pubchem:3530,,https://rest.kegg.jp/get/:/image
-D-erythrose 4-phospahte(aq),kegg:C00279,"['D-erythrose 4-phosphate(aq)', 'D-erythrose 4-phospahte(aq)']",,,chebi:48153,pubchem:3574,,https://rest.kegg.jp/get/:/image
-glycolaldehyde(aq),kegg:C00266,[],,,chebi:17071,pubchem:3564,,https://rest.kegg.jp/get/:/image
-sedoheptulose 7-phosphate(aq),kegg:C05382,[],,,chebi:15721,pubchem:7756,,https://rest.kegg.jp/get/:/image
-D-ribose 5-phosphate(aq),kegg:C00117,[],,,chebi:17797,pubchem:3417,,https://rest.kegg.jp/get/:/image
-D-glyceraldehyde-3-phosphate(aq),kegg:C00118,"['D-glyceraldehyde 3-phosphate(aq)', 'D-glyceraldehyde-3-phosphate(aq)']",,,chebi:29052,pubchem:3418,,https://rest.kegg.jp/get/:/image
-D-glyceraldehyde(aq),kegg:C00577,"['(R)-glyceraldehyde(aq)', 'D-glyceraldehyde(aq)']",,,chebi:17378,pubchem:3856,,https://rest.kegg.jp/get/:/image
-acetyl phosphate(aq),kegg:C00227,"['acetyl phosphate(aq)', 'acetyl phosphate-2-(aq)']",,,chebi:15350,pubchem:3527,,https://rest.kegg.jp/get/:/image
-imidazole(aq),kegg:C01589,[],,,chebi:16069,pubchem:4744,,https://rest.kegg.jp/get/:/image
-N-acetylimidazole(aq),kegg:C02560,[],,,chebi:16984,pubchem:5560,,https://rest.kegg.jp/get/:/image
+trimethylsulfonium(aq),kegg:C01008,[],,,chebi:17434,pubchem:4253,,https://rest.kegg.jp/get/C01008/image
+dimethylsulfide(aq),kegg:C00580,[],,,chebi:17437,pubchem:3859,,https://rest.kegg.jp/get/C00580/image
+S-adenosyl-L-methionine(aq),kegg:C00019,[],,,chebi:67040,pubchem:3321,,https://rest.kegg.jp/get/C00019/image
+S-adenosyl-L-homocysteine(aq),kegg:C00021,[],,,chebi:16680,pubchem:3323,,https://rest.kegg.jp/get/C00021/image
+dUMP(aq),kegg:C00365,[],,,chebi:17622,pubchem:3656,,https://rest.kegg.jp/get/C00365/image
+dihydrofolate(aq),kegg:C00415,"['7,8-dihydrofolate(aq)', 'dihydrofolate(aq)']",,,chebi:15633,pubchem:3705,,https://rest.kegg.jp/get/C00415/image
+dTMP(aq),kegg:C00364,[],,,chebi:17013,pubchem:3655,,https://rest.kegg.jp/get/C00364/image
+L-threonine(aq),kegg:C00188,[],,,chebi:16857,pubchem:3488,,https://rest.kegg.jp/get/C00188/image
+formaldehyde(aq),kegg:C00067,"['formaldehyde(aq)', 'Formaldehyde']",,,chebi:16842,pubchem:3367,,https://rest.kegg.jp/get/C00067/image
+L-serine(aq),kegg:C00065,[],,,chebi:17115,pubchem:3365,,https://rest.kegg.jp/get/C00065/image
+tetrahydrofolate(aq),kegg:C00101,"['5,6,7,8-tetrahydrofolate(aq)', 'tetrahydrofolate(aq)', 'THF(aq)', 'Tetrahydrofolate']",,,chebi:20506,pubchem:3401,,https://rest.kegg.jp/get/C00101/image
+5-formiminotetrahydrofolate(aq),kegg:C00664,[],,,chebi:15639,pubchem:3933,,https://rest.kegg.jp/get/C00664/image
+N-formiminoglycine(aq),kegg:C02718,[],,,chebi:18415,pubchem:5681,,https://rest.kegg.jp/get/C02718/image
+N-formimino-L-glutamate(aq),kegg:C00439,[],,,chebi:18327,pubchem:3728,,https://rest.kegg.jp/get/C00439/image
+2-hydroxymethylserine(aq),kegg:C03059,[],,,chebi:28187,pubchem:5959,,https://rest.kegg.jp/get/C03059/image
+D-serine(aq),kegg:C00740,[],,,chebi:16523,pubchem:4003,,https://rest.kegg.jp/get/C00740/image
+2-methylserine(aq),kegg:C02115,[],,,chebi:74819,pubchem:5195,,https://rest.kegg.jp/get/C02115/image
+D-alanine(aq),kegg:C00133,[],,,chebi:15570,pubchem:3433,,https://rest.kegg.jp/get/C00133/image
+propanoyl-CoA(aq),kegg:C00100,"['propanoyl-CoA(aq)', 'propionyl-CoA(aq)', 'propanonyl-CoA(aq)']",,,chebi:15539,pubchem:3400,,https://rest.kegg.jp/get/C00100/image
+methylmalonyl-CoA(aq),kegg:C02557,[],,,chebi:16625,pubchem:5558,,https://rest.kegg.jp/get/C02557/image
+carbamoyl phosphate(aq),kegg:C00169,[],,,chebi:17672,pubchem:3469,,https://rest.kegg.jp/get/C00169/image
+L-ornithine(aq),kegg:C00077,[],,,chebi:15729,pubchem:3377,,https://rest.kegg.jp/get/C00077/image
+L-citrulline(aq),kegg:C00327,[],,,chebi:16349,pubchem:3621,,https://rest.kegg.jp/get/C00327/image
+guanidinoacetate(aq),kegg:C00581,[],,,chebi:16344,pubchem:3860,,https://rest.kegg.jp/get/C00581/image
+D-erythrose 4-phosphate(aq),kegg:C00279,"['D-erythrose 4-phosphate(aq)', 'D-erythrose 4-phospahte(aq)']",,,chebi:48153,pubchem:3574,,https://rest.kegg.jp/get/C00279/image
+D-xylulose 5-phosphate(aq),kegg:C00231,[],,,chebi:16332,pubchem:3530,,https://rest.kegg.jp/get/C00231/image
+D-erythrose 4-phospahte(aq),kegg:C00279,"['D-erythrose 4-phosphate(aq)', 'D-erythrose 4-phospahte(aq)']",,,chebi:48153,pubchem:3574,,https://rest.kegg.jp/get/C00279/image
+glycolaldehyde(aq),kegg:C00266,[],,,chebi:17071,pubchem:3564,,https://rest.kegg.jp/get/C00266/image
+sedoheptulose 7-phosphate(aq),kegg:C05382,[],,,chebi:15721,pubchem:7756,,https://rest.kegg.jp/get/C05382/image
+D-ribose 5-phosphate(aq),kegg:C00117,[],,,chebi:17797,pubchem:3417,,https://rest.kegg.jp/get/C00117/image
+D-glyceraldehyde-3-phosphate(aq),kegg:C00118,"['D-glyceraldehyde 3-phosphate(aq)', 'D-glyceraldehyde-3-phosphate(aq)']",,,chebi:29052,pubchem:3418,,https://rest.kegg.jp/get/C00118/image
+D-glyceraldehyde(aq),kegg:C00577,"['(R)-glyceraldehyde(aq)', 'D-glyceraldehyde(aq)']",,,chebi:17378,pubchem:3856,,https://rest.kegg.jp/get/C00577/image
+acetyl phosphate(aq),kegg:C00227,"['acetyl phosphate(aq)', 'acetyl phosphate-2-(aq)']",,,chebi:15350,pubchem:3527,,https://rest.kegg.jp/get/C00227/image
+imidazole(aq),kegg:C01589,[],,,chebi:16069,pubchem:4744,,https://rest.kegg.jp/get/C01589/image
+N-acetylimidazole(aq),kegg:C02560,[],,,chebi:16984,pubchem:5560,,https://rest.kegg.jp/get/C02560/image
 4-aminoazobenzene-4'-sulfonic acid(aq),,[],,,,,,
 acetanilide(aq),,[],,,,,,
 N-acetyl-4-aminoazobenzene-4'-sulfonic acid(aq),,[],,,,,,
@@ -305,111 +305,111 @@ p-toluidine(aq),,[],,,,,images/rdkit/p-toluidine(aq).gif,
 4'-nitroaniline(aq),,[],,,,,,
 "α,α,α-trifluoro-m-acetanilide(aq)",,[],,,,,,
 "α,α,α-trifluoro-m-toluidine(aq)",,[],,,,,"images/rdkit/α,α,α-trifluoro-m-toluidine(aq).gif",
-choline(aq),kegg:C00114,[],,,chebi:15354,pubchem:3414,images/rdkit/choline(aq).gif,https://rest.kegg.jp/get/:/image
-O-acetylcholine(aq),kegg:C01996,"['O-acetylcholine(aq)', 'acetylcholine(aq)']",,,chebi:15355,pubchem:5093,images/rdkit/O-acetylcholine(aq).gif,https://rest.kegg.jp/get/:/image
-L-acetylcarnitine(aq),kegg:C02571,[],,,chebi:57589,pubchem:5567,images/rdkit/L-acetylcarnitine(aq).gif,https://rest.kegg.jp/get/:/image
+choline(aq),kegg:C00114,[],,,chebi:15354,pubchem:3414,images/rdkit/choline(aq).gif,https://rest.kegg.jp/get/C00114/image
+O-acetylcholine(aq),kegg:C01996,"['O-acetylcholine(aq)', 'acetylcholine(aq)']",,,chebi:15355,pubchem:5093,images/rdkit/O-acetylcholine(aq).gif,https://rest.kegg.jp/get/C01996/image
+L-acetylcarnitine(aq),kegg:C02571,[],,,chebi:57589,pubchem:5567,images/rdkit/L-acetylcarnitine(aq).gif,https://rest.kegg.jp/get/C02571/image
 butyryl-CoA(aq),,[],,,,,images/rdkit/butyryl-CoA(aq).gif,
 L-butyrylcarnitine(aq),,[],,,,,,
-propionyl-CoA(aq),kegg:C00100,"['propanoyl-CoA(aq)', 'propionyl-CoA(aq)', 'propanonyl-CoA(aq)']",,,chebi:15539,pubchem:3400,images/rdkit/propionyl-CoA(aq).gif,https://rest.kegg.jp/get/:/image
-L-propionylcarnitine(aq),kegg:C03017,[],,,chebi:28867,pubchem:5923,images/rdkit/L-propionylcarnitine(aq).gif,https://rest.kegg.jp/get/:/image
-formyl-CoA(aq),kegg:C00798,[],,,chebi:15522,pubchem:4056,images/rdkit/formyl-CoA(aq).gif,https://rest.kegg.jp/get/:/image
-formyl phosphate(aq),kegg:C02405,[],,,chebi:16729,pubchem:5438,images/rdkit/formyl phosphate(aq).gif,https://rest.kegg.jp/get/:/image
-acetate(aq),kegg:C00033,"['acetate(aq)', 'acetate-(aq)']",,,chebi:30089,pubchem:3335,images/rdkit/acetate(aq).gif,https://rest.kegg.jp/get/:/image
-orthophospate(aq),kegg:C00009,"['orthophosphate(aq)', 'orthophospate(aq)', 'HPO4-2-(aq)', 'phosphate(aq)']",,,chebi:18367,pubchem:3311,,https://rest.kegg.jp/get/:/image
-acetoacetyl-CoA(aq),kegg:C00332,"['3-oxobutanoyl-CoA(aq)', 'acetoacetyl-CoA(aq)']",,,chebi:15345,pubchem:3626,,https://rest.kegg.jp/get/:/image
-palmitoyl-CoA(aq),kegg:C00154,[],,,chebi:15525,pubchem:3454,,https://rest.kegg.jp/get/:/image
-L-palmitoylcarnitine(aq),kegg:C02990,[],,,chebi:17490,pubchem:5899,,https://rest.kegg.jp/get/:/image
-N-2-acetyl-L-ornithine(aq),kegg:C00437,[],,,chebi:16543,pubchem:3726,,https://rest.kegg.jp/get/:/image
-N-acetyl-L-glutamate(aq),kegg:C00624,[],,,chebi:44337,pubchem:3897,,https://rest.kegg.jp/get/:/image
-acyl-carrier protein(aq),kegg:C00229,[],,,chebi:18359,pubchem:3528,,https://rest.kegg.jp/get/:/image
-acetyl-[acyl-carrier protein](aq),kegg:C03939,[],,,chebi:17093,pubchem:6663,,https://rest.kegg.jp/get/:/image
-malonyl-CoA(aq),kegg:C00083,[],,,chebi:15531,pubchem:3383,,https://rest.kegg.jp/get/:/image
-malonyl-[acyl-carrier protein](aq),kegg:C01209,[],,,chebi:17330,pubchem:4431,,https://rest.kegg.jp/get/:/image
-sucrose(aq),kegg:C00089,[],,,chebi:17992,pubchem:3389,,https://rest.kegg.jp/get/:/image
--D-glucose 1-phosphate(aq),kegg:C00103,"['-D-glucose 1-phosphate(aq)', 'D-glucose 1-phosphate(aq)']",,,chebi:29042,pubchem:3403,,https://rest.kegg.jp/get/:/image
-maltose(aq),kegg:C00208,[],,,chebi:17306,pubchem:3508,,https://rest.kegg.jp/get/:/image
-D-glucose 1-phosphate(aq),kegg:C00103,"['-D-glucose 1-phosphate(aq)', 'D-glucose 1-phosphate(aq)']",,,chebi:29042,pubchem:3403,,https://rest.kegg.jp/get/:/image
+propionyl-CoA(aq),kegg:C00100,"['propanoyl-CoA(aq)', 'propionyl-CoA(aq)', 'propanonyl-CoA(aq)']",,,chebi:15539,pubchem:3400,images/rdkit/propionyl-CoA(aq).gif,https://rest.kegg.jp/get/C00100/image
+L-propionylcarnitine(aq),kegg:C03017,[],,,chebi:28867,pubchem:5923,images/rdkit/L-propionylcarnitine(aq).gif,https://rest.kegg.jp/get/C03017/image
+formyl-CoA(aq),kegg:C00798,[],,,chebi:15522,pubchem:4056,images/rdkit/formyl-CoA(aq).gif,https://rest.kegg.jp/get/C00798/image
+formyl phosphate(aq),kegg:C02405,[],,,chebi:16729,pubchem:5438,images/rdkit/formyl phosphate(aq).gif,https://rest.kegg.jp/get/C02405/image
+acetate(aq),kegg:C00033,"['acetate(aq)', 'acetate-(aq)']",,,chebi:30089,pubchem:3335,images/rdkit/acetate(aq).gif,https://rest.kegg.jp/get/C00033/image
+orthophospate(aq),kegg:C00009,"['orthophosphate(aq)', 'orthophospate(aq)', 'HPO4-2-(aq)', 'phosphate(aq)']",,,chebi:18367,pubchem:3311,,https://rest.kegg.jp/get/C00009/image
+acetoacetyl-CoA(aq),kegg:C00332,"['3-oxobutanoyl-CoA(aq)', 'acetoacetyl-CoA(aq)']",,,chebi:15345,pubchem:3626,,https://rest.kegg.jp/get/C00332/image
+palmitoyl-CoA(aq),kegg:C00154,[],,,chebi:15525,pubchem:3454,,https://rest.kegg.jp/get/C00154/image
+L-palmitoylcarnitine(aq),kegg:C02990,[],,,chebi:17490,pubchem:5899,,https://rest.kegg.jp/get/C02990/image
+N-2-acetyl-L-ornithine(aq),kegg:C00437,[],,,chebi:16543,pubchem:3726,,https://rest.kegg.jp/get/C00437/image
+N-acetyl-L-glutamate(aq),kegg:C00624,[],,,chebi:44337,pubchem:3897,,https://rest.kegg.jp/get/C00624/image
+acyl-carrier protein(aq),kegg:C00229,[],,,chebi:18359,pubchem:3528,,https://rest.kegg.jp/get/C00229/image
+acetyl-[acyl-carrier protein](aq),kegg:C03939,[],,,chebi:17093,pubchem:6663,,https://rest.kegg.jp/get/C03939/image
+malonyl-CoA(aq),kegg:C00083,[],,,chebi:15531,pubchem:3383,,https://rest.kegg.jp/get/C00083/image
+malonyl-[acyl-carrier protein](aq),kegg:C01209,[],,,chebi:17330,pubchem:4431,,https://rest.kegg.jp/get/C01209/image
+sucrose(aq),kegg:C00089,[],,,chebi:17992,pubchem:3389,,https://rest.kegg.jp/get/C00089/image
+-D-glucose 1-phosphate(aq),kegg:C00103,"['-D-glucose 1-phosphate(aq)', 'D-glucose 1-phosphate(aq)']",,,chebi:29042,pubchem:3403,,https://rest.kegg.jp/get/C00103/image
+maltose(aq),kegg:C00208,[],,,chebi:17306,pubchem:3508,,https://rest.kegg.jp/get/C00208/image
+D-glucose 1-phosphate(aq),kegg:C00103,"['-D-glucose 1-phosphate(aq)', 'D-glucose 1-phosphate(aq)']",,,chebi:29042,pubchem:3403,,https://rest.kegg.jp/get/C00103/image
 "(2,6-beta-D-fructosyl)n(aq)",,[],,,,,,
 "(2,6-beta-D-fructosyl)n+1(aq)",,[],,,,,,
-ADPglucose(aq),kegg:C00498,[],,,chebi:15751,pubchem:3781,,https://rest.kegg.jp/get/:/image
-UDPglucose(aq),kegg:C00029,"['UDPglucose(aq)', 'UDP-glucose']",,,chebi:18066,pubchem:3331,,https://rest.kegg.jp/get/:/image
-UDP(aq),2 kegg:C00015,[],,,chebi:17659,pubchem:3317,,https://rest.kegg.jp/get/:/image
-sucrose 6-phosphate(aq),kegg:C16688,[],,,chebi:131603,pubchem:51091010,,https://rest.kegg.jp/get/:/image
-UDP-glucose,kegg:C00029,"['UDPglucose(aq)', 'UDP-glucose']",,,chebi:18066,pubchem:3331,,https://rest.kegg.jp/get/:/image
-D-glucose 6-phosphate,kegg:C00092,"['D-glucose 6-phosphate(aq)', 'D-glucose 6-phosphate', '-D-glucose 6-phosphate(aq)']",,,chebi:4170,pubchem:3392,,https://rest.kegg.jp/get/:/image
-UDP,kegg:C00015,[],,,chebi:17659,pubchem:3317,,https://rest.kegg.jp/get/:/image
-"alpha,alpha'-trehalose 6-phosphate",kegg:C00689,"[""alpha,alpha'-trehalose 6-phosphate"", ',-trehalose 6-phosphate(aq)']",,,chebi:18283,pubchem:3958,"images/rdkit/alpha,alpha'-trehalose 6-phosphate.gif",https://rest.kegg.jp/get/:/image
+ADPglucose(aq),kegg:C00498,[],,,chebi:15751,pubchem:3781,,https://rest.kegg.jp/get/C00498/image
+UDPglucose(aq),kegg:C00029,"['UDPglucose(aq)', 'UDP-glucose']",,,chebi:18066,pubchem:3331,,https://rest.kegg.jp/get/C00029/image
+UDP(aq),2 kegg:C00015,[],,,chebi:17659,pubchem:3317,,https://rest.kegg.jp/get/C00015/image
+sucrose 6-phosphate(aq),kegg:C16688,[],,,chebi:131603,pubchem:51091010,,https://rest.kegg.jp/get/C16688/image
+UDP-glucose,kegg:C00029,"['UDPglucose(aq)', 'UDP-glucose']",,,chebi:18066,pubchem:3331,,https://rest.kegg.jp/get/C00029/image
+D-glucose 6-phosphate,kegg:C00092,"['D-glucose 6-phosphate(aq)', 'D-glucose 6-phosphate', '-D-glucose 6-phosphate(aq)']",,,chebi:4170,pubchem:3392,,https://rest.kegg.jp/get/C00092/image
+UDP,kegg:C00015,[],,,chebi:17659,pubchem:3317,,https://rest.kegg.jp/get/C00015/image
+"alpha,alpha'-trehalose 6-phosphate",kegg:C00689,"[""alpha,alpha'-trehalose 6-phosphate"", ',-trehalose 6-phosphate(aq)']",,,chebi:18283,pubchem:3958,"images/rdkit/alpha,alpha'-trehalose 6-phosphate.gif",https://rest.kegg.jp/get/C00689/image
 cycloheptaamylose(aq),,[],,,,,images/rdkit/cycloheptaamylose(aq).gif,
 cyclohexaamylose(aq),,[],,,,,images/rdkit/cyclohexaamylose(aq).gif,
 cyclooctaamylose(aq),,[],,,,,images/rdkit/cyclooctaamylose(aq).gif,
-cellobiose(aq),kegg:C00185,[],,,chebi:17057,pubchem:3485,images/rdkit/cellobiose(aq).gif,https://rest.kegg.jp/get/:/image
-cellotriose(aq),kegg:C06219,[],,,chebi:3528,pubchem:8465,images/rdkit/cellotriose(aq).gif,https://rest.kegg.jp/get/:/image
-laminaribiose(aq),kegg:C02048,[],,,chebi:18411,pubchem:5137,images/rdkit/laminaribiose(aq).gif,https://rest.kegg.jp/get/:/image
+cellobiose(aq),kegg:C00185,[],,,chebi:17057,pubchem:3485,images/rdkit/cellobiose(aq).gif,https://rest.kegg.jp/get/C00185/image
+cellotriose(aq),kegg:C06219,[],,,chebi:3528,pubchem:8465,images/rdkit/cellotriose(aq).gif,https://rest.kegg.jp/get/C06219/image
+laminaribiose(aq),kegg:C02048,[],,,chebi:18411,pubchem:5137,images/rdkit/laminaribiose(aq).gif,https://rest.kegg.jp/get/C02048/image
 laminaritetraose(aq),,[],,,,,,
 laminaritriose(aq),,[],,,,,,
 alpha-D-glucose 1-phosphate(aq),,[],,,,,images/rdkit/alpha-D-glucose 1-phosphate(aq).gif,
-",-trehalose(aq)",kegg:C01083,[],,,chebi:16551,pubchem:4320,,https://rest.kegg.jp/get/:/image
-1--D-galactosyl-myo-inositol(aq),kegg:C01235,[],,,chebi:17505,pubchem:4456,,https://rest.kegg.jp/get/:/image
-raffinose(aq),kegg:C00492,[],,,chebi:16634,pubchem:3775,images/rdkit/raffinose(aq).gif,https://rest.kegg.jp/get/:/image
-myo-inositol(aq),kegg:C00137,[],,,chebi:17268,pubchem:3437,images/rdkit/myo-inositol(aq).gif,https://rest.kegg.jp/get/:/image
-stachyose(aq),kegg:C01613,[],,,chebi:17164,pubchem:4765,images/rdkit/stachyose(aq).gif,https://rest.kegg.jp/get/:/image
-sinapate(aq),kegg:C00482,[],,,chebi:77131,pubchem:3765,images/rdkit/sinapate(aq).gif,https://rest.kegg.jp/get/:/image
-1-sinapoyl-D-glucose(aq),kegg:C01175,[],,,chebi:16546,pubchem:4402,images/rdkit/1-sinapoyl-D-glucose(aq).gif,https://rest.kegg.jp/get/:/image
-adenosine(aq),kegg:C00212,[],,,chebi:16335,pubchem:3512,images/rdkit/adenosine(aq).gif,https://rest.kegg.jp/get/:/image
-adenine(aq),kegg:C00147,[],,,chebi:16708,pubchem:3447,images/rdkit/adenine(aq).gif,https://rest.kegg.jp/get/:/image
-D-ribose 1-phosphate(aq),kegg:C00620,[],,,chebi:16300,pubchem:3894,images/rdkit/D-ribose 1-phosphate(aq).gif,https://rest.kegg.jp/get/:/image
-2'-deoxyinosine(aq),kegg:C05512,"[""2'-deoxyinosine(aq)"", ""'-deoxyinosine(aq)""]",,,chebi:28997,pubchem:7859,images/rdkit/2'-deoxyinosine(aq).gif,https://rest.kegg.jp/get/:/image
-hypoxanthine(aq),kegg:C00262,[],,,chebi:17368,pubchem:3560,images/rdkit/hypoxanthine(aq).gif,https://rest.kegg.jp/get/:/image
-2-deoxy--D-ribose 1-phosphate(aq),kegg:C00672,[],,,chebi:28542,pubchem:3941,,https://rest.kegg.jp/get/:/image
-guanosine(aq),kegg:C00387,[],,,chebi:16750,pubchem:3677,images/rdkit/guanosine(aq).gif,https://rest.kegg.jp/get/:/image
-guanine(aq),kegg:C00242,[],,,chebi:16235,pubchem:3541,images/rdkit/guanine(aq).gif,https://rest.kegg.jp/get/:/image
-inosine(aq),kegg:C00294,[],,,chebi:17596,pubchem:3588,images/rdkit/inosine(aq).gif,https://rest.kegg.jp/get/:/image
+",-trehalose(aq)",kegg:C01083,[],,,chebi:16551,pubchem:4320,,https://rest.kegg.jp/get/C01083/image
+1--D-galactosyl-myo-inositol(aq),kegg:C01235,[],,,chebi:17505,pubchem:4456,,https://rest.kegg.jp/get/C01235/image
+raffinose(aq),kegg:C00492,[],,,chebi:16634,pubchem:3775,images/rdkit/raffinose(aq).gif,https://rest.kegg.jp/get/C00492/image
+myo-inositol(aq),kegg:C00137,[],,,chebi:17268,pubchem:3437,images/rdkit/myo-inositol(aq).gif,https://rest.kegg.jp/get/C00137/image
+stachyose(aq),kegg:C01613,[],,,chebi:17164,pubchem:4765,images/rdkit/stachyose(aq).gif,https://rest.kegg.jp/get/C01613/image
+sinapate(aq),kegg:C00482,[],,,chebi:77131,pubchem:3765,images/rdkit/sinapate(aq).gif,https://rest.kegg.jp/get/C00482/image
+1-sinapoyl-D-glucose(aq),kegg:C01175,[],,,chebi:16546,pubchem:4402,images/rdkit/1-sinapoyl-D-glucose(aq).gif,https://rest.kegg.jp/get/C01175/image
+adenosine(aq),kegg:C00212,[],,,chebi:16335,pubchem:3512,images/rdkit/adenosine(aq).gif,https://rest.kegg.jp/get/C00212/image
+adenine(aq),kegg:C00147,[],,,chebi:16708,pubchem:3447,images/rdkit/adenine(aq).gif,https://rest.kegg.jp/get/C00147/image
+D-ribose 1-phosphate(aq),kegg:C00620,[],,,chebi:16300,pubchem:3894,images/rdkit/D-ribose 1-phosphate(aq).gif,https://rest.kegg.jp/get/C00620/image
+2'-deoxyinosine(aq),kegg:C05512,"[""2'-deoxyinosine(aq)"", ""'-deoxyinosine(aq)""]",,,chebi:28997,pubchem:7859,images/rdkit/2'-deoxyinosine(aq).gif,https://rest.kegg.jp/get/C05512/image
+hypoxanthine(aq),kegg:C00262,[],,,chebi:17368,pubchem:3560,images/rdkit/hypoxanthine(aq).gif,https://rest.kegg.jp/get/C00262/image
+2-deoxy--D-ribose 1-phosphate(aq),kegg:C00672,[],,,chebi:28542,pubchem:3941,,https://rest.kegg.jp/get/C00672/image
+guanosine(aq),kegg:C00387,[],,,chebi:16750,pubchem:3677,images/rdkit/guanosine(aq).gif,https://rest.kegg.jp/get/C00387/image
+guanine(aq),kegg:C00242,[],,,chebi:16235,pubchem:3541,images/rdkit/guanine(aq).gif,https://rest.kegg.jp/get/C00242/image
+inosine(aq),kegg:C00294,[],,,chebi:17596,pubchem:3588,images/rdkit/inosine(aq).gif,https://rest.kegg.jp/get/C00294/image
 alpha-D-ribose 1-phosphate(aq),,[],,,,,images/rdkit/alpha-D-ribose 1-phosphate(aq).gif,
-nicotinamide(aq),kegg:C00153,[],,,chebi:17154,pubchem:3453,images/rdkit/nicotinamide(aq).gif,https://rest.kegg.jp/get/:/image
-nicotinamide riboside(aq),kegg:C03150,[],,,chebi:15927,pubchem:6038,images/rdkit/nicotinamide riboside(aq).gif,https://rest.kegg.jp/get/:/image
-xanthosine(aq),kegg:C01762,[],,,chebi:18107,pubchem:4895,images/rdkit/xanthosine(aq).gif,https://rest.kegg.jp/get/:/image
-xanthine(aq),kegg:C00385,[],,,chebi:17712,pubchem:3675,images/rdkit/xanthine(aq).gif,https://rest.kegg.jp/get/:/image
-thymine(aq),kegg:C00178,[],,,chebi:17821,pubchem:3478,images/rdkit/thymine(aq).gif,https://rest.kegg.jp/get/:/image
+nicotinamide(aq),kegg:C00153,[],,,chebi:17154,pubchem:3453,images/rdkit/nicotinamide(aq).gif,https://rest.kegg.jp/get/C00153/image
+nicotinamide riboside(aq),kegg:C03150,[],,,chebi:15927,pubchem:6038,images/rdkit/nicotinamide riboside(aq).gif,https://rest.kegg.jp/get/C03150/image
+xanthosine(aq),kegg:C01762,[],,,chebi:18107,pubchem:4895,images/rdkit/xanthosine(aq).gif,https://rest.kegg.jp/get/C01762/image
+xanthine(aq),kegg:C00385,[],,,chebi:17712,pubchem:3675,images/rdkit/xanthine(aq).gif,https://rest.kegg.jp/get/C00385/image
+thymine(aq),kegg:C00178,[],,,chebi:17821,pubchem:3478,images/rdkit/thymine(aq).gif,https://rest.kegg.jp/get/C00178/image
 5-methyluridine(aq),,[],,,,,images/rdkit/5-methyluridine(aq).gif,
 alpha-D-ribose-1-phosphate,,[],,,,,images/rdkit/alpha-D-ribose-1-phosphate.gif,
-uridine(aq),kegg:C00299,[],,,chebi:16704,pubchem:3593,images/rdkit/uridine(aq).gif,https://rest.kegg.jp/get/:/image
-uracil(aq),kegg:C00106,[],,,chebi:17568,pubchem:3406,images/rdkit/uracil(aq).gif,https://rest.kegg.jp/get/:/image
-thymidine(aq),kegg:C00214,[],,,chebi:17748,pubchem:3514,images/rdkit/thymidine(aq).gif,https://rest.kegg.jp/get/:/image
-2'-deoxyadenosine(aq),kegg:C00559,[],,,chebi:17256,pubchem:3839,images/rdkit/2'-deoxyadenosine(aq).gif,https://rest.kegg.jp/get/:/image
-5-phospho--D-ribose 1-diphosphate(aq),kegg:C00119,"['5-phospho--D-ribose 1-diphosphate(aq)', '5-Phospho-alpha-D-ribose 1-diphosphate(aq)']",,,chebi:17111,pubchem:3419,,https://rest.kegg.jp/get/:/image
-AMP(aq),kegg:C00020,"['AMP(aq)', 'AMP-2--(aq)', 'AMP']",,,chebi:16027,pubchem:3322,images/rdkit/AMP(aq).gif,https://rest.kegg.jp/get/:/image
-pyrophosphate(aq),kegg:C00013,"['pyrophosphate(aq)', 'pyrophosphate', 'diphosphate(aq)', 'diphosphate']",,,chebi:18361,pubchem:3315,images/rdkit/pyrophosphate(aq).gif,https://rest.kegg.jp/get/:/image
+uridine(aq),kegg:C00299,[],,,chebi:16704,pubchem:3593,images/rdkit/uridine(aq).gif,https://rest.kegg.jp/get/C00299/image
+uracil(aq),kegg:C00106,[],,,chebi:17568,pubchem:3406,images/rdkit/uracil(aq).gif,https://rest.kegg.jp/get/C00106/image
+thymidine(aq),kegg:C00214,[],,,chebi:17748,pubchem:3514,images/rdkit/thymidine(aq).gif,https://rest.kegg.jp/get/C00214/image
+2'-deoxyadenosine(aq),kegg:C00559,[],,,chebi:17256,pubchem:3839,images/rdkit/2'-deoxyadenosine(aq).gif,https://rest.kegg.jp/get/C00559/image
+5-phospho--D-ribose 1-diphosphate(aq),kegg:C00119,"['5-phospho--D-ribose 1-diphosphate(aq)', '5-Phospho-alpha-D-ribose 1-diphosphate(aq)']",,,chebi:17111,pubchem:3419,,https://rest.kegg.jp/get/C00119/image
+AMP(aq),kegg:C00020,"['AMP(aq)', 'AMP-2--(aq)', 'AMP']",,,chebi:16027,pubchem:3322,images/rdkit/AMP(aq).gif,https://rest.kegg.jp/get/C00020/image
+pyrophosphate(aq),kegg:C00013,"['pyrophosphate(aq)', 'pyrophosphate', 'diphosphate(aq)', 'diphosphate']",,,chebi:18361,pubchem:3315,images/rdkit/pyrophosphate(aq).gif,https://rest.kegg.jp/get/C00013/image
 5-amino-4-imidazolecarboxamide(aq),,[],,,,,images/rdkit/5-amino-4-imidazolecarboxamide(aq).gif,
 5-phospho-alpha-D-ribose 1-dipihosphate(aq),,[],,,,,,
 5-amino-1-beta-D-ribosyl-4-imidazolecarboxamide 5'-phosphate(aq),,[],,,,,,
-GMP(aq),kegg:C00144,"['GMP(aq)', ""guanosine 5 '-phosphate(aq)""]",,,chebi:17345,pubchem:3444,,https://rest.kegg.jp/get/:/image
-IMP(aq),kegg:C00130,[],,,chebi:17202,pubchem:3430,,https://rest.kegg.jp/get/:/image
-orotidine 5'-phosphate(aq),kegg:C01103,"[""orotidine 5'-phosphate(aq)"", ""orotidine 5 '-phosphate(aq)""]",,,chebi:15842,pubchem:4337,,https://rest.kegg.jp/get/:/image
+GMP(aq),kegg:C00144,"['GMP(aq)', ""guanosine 5 '-phosphate(aq)""]",,,chebi:17345,pubchem:3444,,https://rest.kegg.jp/get/C00144/image
+IMP(aq),kegg:C00130,[],,,chebi:17202,pubchem:3430,,https://rest.kegg.jp/get/C00130/image
+orotidine 5'-phosphate(aq),kegg:C01103,"[""orotidine 5'-phosphate(aq)"", ""orotidine 5 '-phosphate(aq)""]",,,chebi:15842,pubchem:4337,,https://rest.kegg.jp/get/C01103/image
 thiopyrophosphate(aq),,[],,,,,,
 phosphoribosyl-1-O-(2-thiodiphosphate)(aq),,[],,,,,,
 thiamine(aq),,[],,,,,,
 4-methyl-5-(2'-hydroxyethyl)-thiazole(aq),,[],,,,,,
 heteroanilithiamine(aq),,[],,,,,,
 heteronicotinathiamine(aq),,[],,,,,,
-2-methyl-4-amino-5-hydroxymethylpyrimidine diphosphate(aq),kegg:C04752,[],,,chebi:16629,pubchem:7322,,https://rest.kegg.jp/get/:/image
-4-methyl-5-(2-phosphonoxyethyl)-thiazole(aq),kegg:C04327,[],,,chebi:17857,pubchem:6980,,https://rest.kegg.jp/get/:/image
-thiamine monophosphate(aq),kegg:C01081,[],,,chebi:9533,pubchem:4319,,https://rest.kegg.jp/get/:/image
-erythro-3-hydroxyaspartate(aq),kegg:C19838,[],,,,pubchem:135626305,,https://rest.kegg.jp/get/:/image
-2-oxo-3-hydroxybutanedioic acid(aq),kegg:C03459,"['2-oxo-3-hydroxysuccinate(aq)', '2-oxo-3-hydroxybutanedioic acid(aq)']",,,chebi:17778,pubchem:6279,,https://rest.kegg.jp/get/:/image
-L-histidinol phosphate(aq),kegg:C01100,[],,,chebi:16996,pubchem:4334,,https://rest.kegg.jp/get/:/image
-3-(imidazol-4-yl)-2-oxopropyl phosphate(aq),kegg:C01267,[],,,chebi:16426,pubchem:4486,,https://rest.kegg.jp/get/:/image
-DL-D-1-pyrroline-5-carboxylate(aq),kegg:C03912,"['D-1-pyrroline-5-carboxylate(aq)', 'DL-D-1-pyrroline-5-carboxylate(aq)']",,,chebi:17388,pubchem:6642,,https://rest.kegg.jp/get/:/image
-L-glutamine(aq),kegg:C00064,[],,,chebi:18050,pubchem:3364,,https://rest.kegg.jp/get/:/image
-2-oxoglutaramate(aq),kegg:C00940,[],,,chebi:16769,pubchem:4192,,https://rest.kegg.jp/get/:/image
+2-methyl-4-amino-5-hydroxymethylpyrimidine diphosphate(aq),kegg:C04752,[],,,chebi:16629,pubchem:7322,,https://rest.kegg.jp/get/C04752/image
+4-methyl-5-(2-phosphonoxyethyl)-thiazole(aq),kegg:C04327,[],,,chebi:17857,pubchem:6980,,https://rest.kegg.jp/get/C04327/image
+thiamine monophosphate(aq),kegg:C01081,[],,,chebi:9533,pubchem:4319,,https://rest.kegg.jp/get/C01081/image
+erythro-3-hydroxyaspartate(aq),kegg:C19838,[],,,,pubchem:135626305,,https://rest.kegg.jp/get/C19838/image
+2-oxo-3-hydroxybutanedioic acid(aq),kegg:C03459,"['2-oxo-3-hydroxysuccinate(aq)', '2-oxo-3-hydroxybutanedioic acid(aq)']",,,chebi:17778,pubchem:6279,,https://rest.kegg.jp/get/C03459/image
+L-histidinol phosphate(aq),kegg:C01100,[],,,chebi:16996,pubchem:4334,,https://rest.kegg.jp/get/C01100/image
+3-(imidazol-4-yl)-2-oxopropyl phosphate(aq),kegg:C01267,[],,,chebi:16426,pubchem:4486,,https://rest.kegg.jp/get/C01267/image
+DL-D-1-pyrroline-5-carboxylate(aq),kegg:C03912,"['D-1-pyrroline-5-carboxylate(aq)', 'DL-D-1-pyrroline-5-carboxylate(aq)']",,,chebi:17388,pubchem:6642,,https://rest.kegg.jp/get/C03912/image
+L-glutamine(aq),kegg:C00064,[],,,chebi:18050,pubchem:3364,,https://rest.kegg.jp/get/C00064/image
+2-oxoglutaramate(aq),kegg:C00940,[],,,chebi:16769,pubchem:4192,,https://rest.kegg.jp/get/C00940/image
 2-oxo-4-methiolbutyrate(aq),,[],,,,,,
-N-succinyl-2-L-amino-6-oxoheptanedioate(aq),kegg:C04462,[],,,chebi:15685,pubchem:7087,,https://rest.kegg.jp/get/:/image
-"N-succinyl-L-2,6-diaminoheptanedioate(aq)",kegg:C04421,[],,,chebi:17279,pubchem:7053,,https://rest.kegg.jp/get/:/image
-L-alanine,kegg:C00041,"['L-alanine(aq)', 'L-alanine']",,,chebi:16977,pubchem:3343,,https://rest.kegg.jp/get/:/image
-3-oxopropanoate,kegg:C00222,"['3-oxopropanoate(aq)', '3-oxopropanoate']",,,chebi:33190,pubchem:3522,,https://rest.kegg.jp/get/:/image
-beta-alanine,kegg:C00099,[],,,chebi:16958,pubchem:3399,,https://rest.kegg.jp/get/:/image
-pyruvate,kegg:C00022,"['pyruvate(aq)', 'pyruvate', 'pyruvate-(aq)']",,,chebi:15361,pubchem:3324,,https://rest.kegg.jp/get/:/image
-4-aminobutanoate(aq),kegg:C00334,[],,,chebi:30566,pubchem:3628,,https://rest.kegg.jp/get/:/image
-D-glutamate(aq),kegg:C00217,[],,,chebi:15966,pubchem:3517,,https://rest.kegg.jp/get/:/image
+N-succinyl-2-L-amino-6-oxoheptanedioate(aq),kegg:C04462,[],,,chebi:15685,pubchem:7087,,https://rest.kegg.jp/get/C04462/image
+"N-succinyl-L-2,6-diaminoheptanedioate(aq)",kegg:C04421,[],,,chebi:17279,pubchem:7053,,https://rest.kegg.jp/get/C04421/image
+L-alanine,kegg:C00041,"['L-alanine(aq)', 'L-alanine']",,,chebi:16977,pubchem:3343,,https://rest.kegg.jp/get/C00041/image
+3-oxopropanoate,kegg:C00222,"['3-oxopropanoate(aq)', '3-oxopropanoate']",,,chebi:33190,pubchem:3522,,https://rest.kegg.jp/get/C00222/image
+beta-alanine,kegg:C00099,[],,,chebi:16958,pubchem:3399,,https://rest.kegg.jp/get/C00099/image
+pyruvate,kegg:C00022,"['pyruvate(aq)', 'pyruvate', 'pyruvate-(aq)']",,,chebi:15361,pubchem:3324,,https://rest.kegg.jp/get/C00022/image
+4-aminobutanoate(aq),kegg:C00334,[],,,chebi:30566,pubchem:3628,,https://rest.kegg.jp/get/C00334/image
+D-glutamate(aq),kegg:C00217,[],,,chebi:15966,pubchem:3517,,https://rest.kegg.jp/get/C00217/image
 5-deoxypyridoxamine(aq),,[],,,,,,
 5-deoxypyridoxal(aq),,[],,,,,,
 3-hydroxy-4-aminomethylpyridine(aq),,[],,,,,,
@@ -418,102 +418,102 @@ D-glutamate(aq),kegg:C00217,[],,,chebi:15966,pubchem:3517,,https://rest.kegg.jp/
 ω-methylpyridoxal(aq),,[],,,,,,
 norpyridoxamine(aq),,[],,,,,,
 norpyridoxal(aq),,[],,,,,,
-pyridoxamine(aq),kegg:C00534,[],,,chebi:16410,pubchem:3816,,https://rest.kegg.jp/get/:/image
-pyridoxal(aq),kegg:C00250,[],,,chebi:17310,pubchem:3549,,https://rest.kegg.jp/get/:/image
-"dTDP-4-amino-4,6-dideoxy-D-glucose(aq)",kegg:C04268,[],,,chebi:15952,pubchem:6932,,https://rest.kegg.jp/get/:/image
-dTDP-4-dehydro-6-deoxy-D-glucose(aq),kegg:C11907,[],,,chebi:16128,pubchem:14069,images/rdkit/dTDP-4-dehydro-6-deoxy-D-glucose(aq).gif,https://rest.kegg.jp/get/:/image
-L-2-aminoadipate(aq),kegg:C00956,[],,,chebi:37023,pubchem:4207,images/rdkit/L-2-aminoadipate(aq).gif,https://rest.kegg.jp/get/:/image
-2-oxoadipate(aq),kegg:C00322,[],,,chebi:15753,pubchem:3616,images/rdkit/2-oxoadipate(aq).gif,https://rest.kegg.jp/get/:/image
-3-phosphonooxypyruvate(aq),kegg:C03232,"['3-phosphohydroxypyruvate(aq)', '3-phosphonooxypyruvate(aq)']",,,chebi:18110,pubchem:6103,images/rdkit/3-phosphonooxypyruvate(aq).gif,https://rest.kegg.jp/get/:/image
-O-phospho-L-serine(aq),kegg:C01005,"['O-phospho-L-serine(aq)', 'L-O-phosphoserine(aq)']",,,chebi:15811,pubchem:4251,images/rdkit/O-phospho-L-serine(aq).gif,https://rest.kegg.jp/get/:/image
+pyridoxamine(aq),kegg:C00534,[],,,chebi:16410,pubchem:3816,,https://rest.kegg.jp/get/C00534/image
+pyridoxal(aq),kegg:C00250,[],,,chebi:17310,pubchem:3549,,https://rest.kegg.jp/get/C00250/image
+"dTDP-4-amino-4,6-dideoxy-D-glucose(aq)",kegg:C04268,[],,,chebi:15952,pubchem:6932,,https://rest.kegg.jp/get/C04268/image
+dTDP-4-dehydro-6-deoxy-D-glucose(aq),kegg:C11907,[],,,chebi:16128,pubchem:14069,images/rdkit/dTDP-4-dehydro-6-deoxy-D-glucose(aq).gif,https://rest.kegg.jp/get/C11907/image
+L-2-aminoadipate(aq),kegg:C00956,[],,,chebi:37023,pubchem:4207,images/rdkit/L-2-aminoadipate(aq).gif,https://rest.kegg.jp/get/C00956/image
+2-oxoadipate(aq),kegg:C00322,[],,,chebi:15753,pubchem:3616,images/rdkit/2-oxoadipate(aq).gif,https://rest.kegg.jp/get/C00322/image
+3-phosphonooxypyruvate(aq),kegg:C03232,"['3-phosphohydroxypyruvate(aq)', '3-phosphonooxypyruvate(aq)']",,,chebi:18110,pubchem:6103,images/rdkit/3-phosphonooxypyruvate(aq).gif,https://rest.kegg.jp/get/C03232/image
+O-phospho-L-serine(aq),kegg:C01005,"['O-phospho-L-serine(aq)', 'L-O-phosphoserine(aq)']",,,chebi:15811,pubchem:4251,images/rdkit/O-phospho-L-serine(aq).gif,https://rest.kegg.jp/get/C01005/image
 6-amino-D-glucose(aq),,[],,,,,images/rdkit/6-amino-D-glucose(aq).gif,
 6-amino-D-glucose 6-phosphate(aq),,[],,,,,images/rdkit/6-amino-D-glucose 6-phosphate(aq).gif,
-D-mannose(aq),kegg:C00159,[],,,chebi:4208,pubchem:3459,images/rdkit/D-mannose(aq).gif,https://rest.kegg.jp/get/:/image
-D-mannose 6-phosphate(aq),kegg:C00275,[],,,chebi:17369,pubchem:3572,images/rdkit/D-mannose 6-phosphate(aq).gif,https://rest.kegg.jp/get/:/image
-D-galactose 1-phosphate(aq),kegg:C03384,"['D-galactose 1-phosphate(aq)', '-D-galactose 1-phosphate(aq)']",,,chebi:37480,pubchem:6219,images/rdkit/D-galactose 1-phosphate(aq).gif,https://rest.kegg.jp/get/:/image
-"D-fructose 1,6-bisphosphate(aq)",kegg:C00354,[],,,chebi:16905,pubchem:3647,"images/rdkit/D-fructose 1,6-bisphosphate(aq).gif",https://rest.kegg.jp/get/:/image
-3'-dephospho-CoA(aq),kegg:C00882,[],,,chebi:15468,pubchem:4138,images/rdkit/3'-dephospho-CoA(aq).gif,https://rest.kegg.jp/get/:/image
+D-mannose(aq),kegg:C00159,[],,,chebi:4208,pubchem:3459,images/rdkit/D-mannose(aq).gif,https://rest.kegg.jp/get/C00159/image
+D-mannose 6-phosphate(aq),kegg:C00275,[],,,chebi:17369,pubchem:3572,images/rdkit/D-mannose 6-phosphate(aq).gif,https://rest.kegg.jp/get/C00275/image
+D-galactose 1-phosphate(aq),kegg:C03384,"['D-galactose 1-phosphate(aq)', '-D-galactose 1-phosphate(aq)']",,,chebi:37480,pubchem:6219,images/rdkit/D-galactose 1-phosphate(aq).gif,https://rest.kegg.jp/get/C03384/image
+"D-fructose 1,6-bisphosphate(aq)",kegg:C00354,[],,,chebi:16905,pubchem:3647,"images/rdkit/D-fructose 1,6-bisphosphate(aq).gif",https://rest.kegg.jp/get/C00354/image
+3'-dephospho-CoA(aq),kegg:C00882,[],,,chebi:15468,pubchem:4138,images/rdkit/3'-dephospho-CoA(aq).gif,https://rest.kegg.jp/get/C00882/image
 lysozyme(aq),,[],,,,,,
 phospholysozyme(aq),,[],,,,,,
 phosvitin(aq),,[],,,,,,
 dephosvitin(aq),,[],,,,,,
 pyruvate kinase(aq),,[],,,,,,
 phosphoenolpyruvate kinase(aq),,[],,,,,,
-phosphoenolpyruvate(aq),kegg:C00074,"['phosphoenolpyruvate(aq)', 'phosphoenolpyruvate3-(aq)']",,,chebi:18021,pubchem:3374,,https://rest.kegg.jp/get/:/image
-1-phosphatidyl-1D-myo-inositol(aq),kegg:C01194,[],,,chebi:16749,pubchem:4419,,https://rest.kegg.jp/get/:/image
-1-phosphatidyl-1D-myo-inositol 4-phosphate(aq),kegg:C01277,[],,,chebi:17526,pubchem:4496,,https://rest.kegg.jp/get/:/image
+phosphoenolpyruvate(aq),kegg:C00074,"['phosphoenolpyruvate(aq)', 'phosphoenolpyruvate3-(aq)']",,,chebi:18021,pubchem:3374,,https://rest.kegg.jp/get/C00074/image
+1-phosphatidyl-1D-myo-inositol(aq),kegg:C01194,[],,,chebi:16749,pubchem:4419,,https://rest.kegg.jp/get/C01194/image
+1-phosphatidyl-1D-myo-inositol 4-phosphate(aq),kegg:C01277,[],,,chebi:17526,pubchem:4496,,https://rest.kegg.jp/get/C01277/image
 ADP (aq),,[],,,,,,
-ammonium carbamate(aq),kegg:C01563,"['ammonium carbamate(aq)', 'carbamate(aq)']",,,chebi:28616,pubchem:4721,,https://rest.kegg.jp/get/:/image
+ammonium carbamate(aq),kegg:C01563,"['ammonium carbamate(aq)', 'carbamate(aq)']",,,chebi:28616,pubchem:4721,,https://rest.kegg.jp/get/C01563/image
 ATP-beta-S(aq),,[],,,,,,
 ADP-beta-S(aq),,[],,,,,,
-4-phospho-L-aspartate(aq),kegg:C03082,"['L-4-aspartyl phosphate(aq)', '4-phospho-L-aspartate(aq)']",,,chebi:15836,pubchem:5980,,https://rest.kegg.jp/get/:/image
-phosphoguanidinoacetate(aq),kegg:C03166,[],,,chebi:16034,pubchem:6049,,https://rest.kegg.jp/get/:/image
-creatine(aq),kegg:C00300,[],,,chebi:16919,pubchem:3594,,https://rest.kegg.jp/get/:/image
-phosphocreatine(aq),kegg:C02305,[],,,chebi:17287,pubchem:5359,,https://rest.kegg.jp/get/:/image
+4-phospho-L-aspartate(aq),kegg:C03082,"['L-4-aspartyl phosphate(aq)', '4-phospho-L-aspartate(aq)']",,,chebi:15836,pubchem:5980,,https://rest.kegg.jp/get/C03082/image
+phosphoguanidinoacetate(aq),kegg:C03166,[],,,chebi:16034,pubchem:6049,,https://rest.kegg.jp/get/C03166/image
+creatine(aq),kegg:C00300,[],,,chebi:16919,pubchem:3594,,https://rest.kegg.jp/get/C00300/image
+phosphocreatine(aq),kegg:C02305,[],,,chebi:17287,pubchem:5359,,https://rest.kegg.jp/get/C02305/image
 cyclocreatine(aq),,[],,,,,,
 phosphocyclocreatine(aq),,[],,,,,,
 "adenosine 5'-(alpha, beta-methylene)triphosphate(aq)",,[],,,,,,
 "adenosine 5'-(alpha, beta-methylene)diphosphate(aq)",,[],,,,,,
-N-w-phospho-L-arginine(aq),kegg:C05945,"['N-w-phospho-L-arginine(aq)', 'Nomega-phospho-L-arginine(aq)']",,,chebi:18412,pubchem:8229,,https://rest.kegg.jp/get/:/image
+N-w-phospho-L-arginine(aq),kegg:C05945,"['N-w-phospho-L-arginine(aq)', 'Nomega-phospho-L-arginine(aq)']",,,chebi:18412,pubchem:8229,,https://rest.kegg.jp/get/C05945/image
 N-omega-phospho-L-arginine(aq),,[],,,,,,
-taurocyamine(aq),kegg:C01959,[],,,chebi:17228,pubchem:5060,images/rdkit/taurocyamine(aq).gif,https://rest.kegg.jp/get/:/image
-N-w-phosphotaurocyamine(aq),kegg:C03149,"['N-w-phosphotaurocyamine(aq)', 'phosphotaurocyamine(aq)']",,,chebi:16621,pubchem:6037,,https://rest.kegg.jp/get/:/image
-lombricine(aq),kegg:C14177,[],,,chebi:16585,pubchem:7846989,images/rdkit/lombricine(aq).gif,https://rest.kegg.jp/get/:/image
-N-w-phospholombricine(aq),kegg:C14178,[],,,chebi:18039,pubchem:7846990,,https://rest.kegg.jp/get/:/image
-(R)-5-phosphomevalonate(aq),kegg:C01107,[],,,chebi:17436,pubchem:4339,,https://rest.kegg.jp/get/:/image
-(R)-5-diphosphomevalonate(aq),kegg:C01143,[],,,chebi:15899,pubchem:4374,,https://rest.kegg.jp/get/:/image
+taurocyamine(aq),kegg:C01959,[],,,chebi:17228,pubchem:5060,images/rdkit/taurocyamine(aq).gif,https://rest.kegg.jp/get/C01959/image
+N-w-phosphotaurocyamine(aq),kegg:C03149,"['N-w-phosphotaurocyamine(aq)', 'phosphotaurocyamine(aq)']",,,chebi:16621,pubchem:6037,,https://rest.kegg.jp/get/C03149/image
+lombricine(aq),kegg:C14177,[],,,chebi:16585,pubchem:7846989,images/rdkit/lombricine(aq).gif,https://rest.kegg.jp/get/C14177/image
+N-w-phospholombricine(aq),kegg:C14178,[],,,chebi:18039,pubchem:7846990,,https://rest.kegg.jp/get/C14178/image
+(R)-5-phosphomevalonate(aq),kegg:C01107,[],,,chebi:17436,pubchem:4339,,https://rest.kegg.jp/get/C01107/image
+(R)-5-diphosphomevalonate(aq),kegg:C01143,[],,,chebi:15899,pubchem:4374,,https://rest.kegg.jp/get/C01143/image
 ATP-alpha-S(aq),,[],,,,,,
 ADP-alpha-S(aq),,[],,,,,,
 ATP-gemma-S(aq),,[],,,,,,
 ADP-gamma-S(aq),,[],,,,,,
 ADP-N1-oxide(aq),,[],,,,,,
 ATP-N1-oxide(aq),,[],,,,,,
-dADP(aq),2 kegg:C00206,[],,,chebi:16174,pubchem:3506,,https://rest.kegg.jp/get/:/image
-dAMP(aq),kegg:C00360,"['dAMP(aq)', ""2'-deoxyadenosine 5'-monophosphate(aq)""]",,,chebi:17713,pubchem:3651,,https://rest.kegg.jp/get/:/image
-dATP(aq),kegg:C00131,[],,,chebi:16284,pubchem:3431,,https://rest.kegg.jp/get/:/image
-adenosine 5'-tetraphosphate(aq),kegg:C03483,[],,,chebi:18334,pubchem:6295,,https://rest.kegg.jp/get/:/image
-UTP(aq),kegg:C00075,[],,,chebi:15713,pubchem:3375,,https://rest.kegg.jp/get/:/image
-UMP(aq),kegg:C00105,[],,,chebi:16695,pubchem:3405,,https://rest.kegg.jp/get/:/image
-inosine 5'-diphosphate(aq),kegg:C00104,"[""inosine 5'-diphosphate(aq)"", 'IDP(aq)']",,,chebi:17808,pubchem:3404,,https://rest.kegg.jp/get/:/image
-inosine 5'-triphosphate(aq),kegg:C00081,"[""inosine 5'-triphosphate(aq)"", 'ITP(aq)']",,,chebi:16039,pubchem:3381,,https://rest.kegg.jp/get/:/image
-GDP(aq),kegg:C00035,[],,,chebi:17552,pubchem:3337,,https://rest.kegg.jp/get/:/image
-GTP(aq),kegg:C00044,[],,,chebi:15996,pubchem:3346,,https://rest.kegg.jp/get/:/image
-dGMP(aq),kegg:C00362,[],,,chebi:16192,pubchem:3653,,https://rest.kegg.jp/get/:/image
-dGDP(aq),kegg:C00361,[],,,chebi:28862,pubchem:3652,,https://rest.kegg.jp/get/:/image
-dTDP(aq),kegg:C00363,[],,,chebi:18075,pubchem:3654,,https://rest.kegg.jp/get/:/image
-CMP(aq),kegg:C00055,[],,,chebi:17361,pubchem:3357,,https://rest.kegg.jp/get/:/image
-CDP(aq),kegg:C00112,[],,,chebi:17239,pubchem:3412,,https://rest.kegg.jp/get/:/image
-dCMP(aq),kegg:C00239,[],,,chebi:15918,pubchem:3538,,https://rest.kegg.jp/get/:/image
-dCDP(aq),kegg:C00705,[],,,chebi:28846,pubchem:3972,,https://rest.kegg.jp/get/:/image
-ATP,kegg:C00002,"['ATP(aq)', 'ATP', 'ATP-4-(aq)']",,,chebi:15422,pubchem:3304,,https://rest.kegg.jp/get/:/image
-beta-Nicotinamide mononucleotide,kegg:C00455,"['beta-Nicotinamide mononucleotide', '-nicotinamide mononucleotide(aq)']",,,chebi:16171,pubchem:3741,,https://rest.kegg.jp/get/:/image
-pyrophosphate,kegg:C00013,"['pyrophosphate(aq)', 'pyrophosphate', 'diphosphate(aq)', 'diphosphate']",,,chebi:18361,pubchem:3315,,https://rest.kegg.jp/get/:/image
+dADP(aq),2 kegg:C00206,[],,,chebi:16174,pubchem:3506,,https://rest.kegg.jp/get/C00206/image
+dAMP(aq),kegg:C00360,"['dAMP(aq)', ""2'-deoxyadenosine 5'-monophosphate(aq)""]",,,chebi:17713,pubchem:3651,,https://rest.kegg.jp/get/C00360/image
+dATP(aq),kegg:C00131,[],,,chebi:16284,pubchem:3431,,https://rest.kegg.jp/get/C00131/image
+adenosine 5'-tetraphosphate(aq),kegg:C03483,[],,,chebi:18334,pubchem:6295,,https://rest.kegg.jp/get/C03483/image
+UTP(aq),kegg:C00075,[],,,chebi:15713,pubchem:3375,,https://rest.kegg.jp/get/C00075/image
+UMP(aq),kegg:C00105,[],,,chebi:16695,pubchem:3405,,https://rest.kegg.jp/get/C00105/image
+inosine 5'-diphosphate(aq),kegg:C00104,"[""inosine 5'-diphosphate(aq)"", 'IDP(aq)']",,,chebi:17808,pubchem:3404,,https://rest.kegg.jp/get/C00104/image
+inosine 5'-triphosphate(aq),kegg:C00081,"[""inosine 5'-triphosphate(aq)"", 'ITP(aq)']",,,chebi:16039,pubchem:3381,,https://rest.kegg.jp/get/C00081/image
+GDP(aq),kegg:C00035,[],,,chebi:17552,pubchem:3337,,https://rest.kegg.jp/get/C00035/image
+GTP(aq),kegg:C00044,[],,,chebi:15996,pubchem:3346,,https://rest.kegg.jp/get/C00044/image
+dGMP(aq),kegg:C00362,[],,,chebi:16192,pubchem:3653,,https://rest.kegg.jp/get/C00362/image
+dGDP(aq),kegg:C00361,[],,,chebi:28862,pubchem:3652,,https://rest.kegg.jp/get/C00361/image
+dTDP(aq),kegg:C00363,[],,,chebi:18075,pubchem:3654,,https://rest.kegg.jp/get/C00363/image
+CMP(aq),kegg:C00055,[],,,chebi:17361,pubchem:3357,,https://rest.kegg.jp/get/C00055/image
+CDP(aq),kegg:C00112,[],,,chebi:17239,pubchem:3412,,https://rest.kegg.jp/get/C00112/image
+dCMP(aq),kegg:C00239,[],,,chebi:15918,pubchem:3538,,https://rest.kegg.jp/get/C00239/image
+dCDP(aq),kegg:C00705,[],,,chebi:28846,pubchem:3972,,https://rest.kegg.jp/get/C00705/image
+ATP,kegg:C00002,"['ATP(aq)', 'ATP', 'ATP-4-(aq)']",,,chebi:15422,pubchem:3304,,https://rest.kegg.jp/get/C00002/image
+beta-Nicotinamide mononucleotide,kegg:C00455,"['beta-Nicotinamide mononucleotide', '-nicotinamide mononucleotide(aq)']",,,chebi:16171,pubchem:3741,,https://rest.kegg.jp/get/C00455/image
+pyrophosphate,kegg:C00013,"['pyrophosphate(aq)', 'pyrophosphate', 'diphosphate(aq)', 'diphosphate']",,,chebi:18361,pubchem:3315,,https://rest.kegg.jp/get/C00013/image
 beta-Nicotinamide mononucleotide(aq),,[],,,,,,
-sulfate(aq),kegg:C00059,[],,,chebi:16189,pubchem:3359,,https://rest.kegg.jp/get/:/image
-adenosine 5'-phosphosulfate(aq),kegg:C00224,"[""adenosine 5'-phosphosulfate(aq)"", 'adenylyl sulfate(aq)', 'adenylylsulfate(aq)']",,,chebi:17709,pubchem:3524,,https://rest.kegg.jp/get/:/image
-dTTP(aq),kegg:C00459,[],,,chebi:18077,pubchem:3743,,https://rest.kegg.jp/get/:/image
+sulfate(aq),kegg:C00059,[],,,chebi:16189,pubchem:3359,,https://rest.kegg.jp/get/C00059/image
+adenosine 5'-phosphosulfate(aq),kegg:C00224,"[""adenosine 5'-phosphosulfate(aq)"", 'adenylyl sulfate(aq)', 'adenylylsulfate(aq)']",,,chebi:17709,pubchem:3524,,https://rest.kegg.jp/get/C00224/image
+dTTP(aq),kegg:C00459,[],,,chebi:18077,pubchem:3743,,https://rest.kegg.jp/get/C00459/image
 9/20-DNA-oligomer(aq),,[],,,,,,
 10/20-DNA-oligomer(aq),,[],,,,,,
-UDPgalactose(aq),kegg:C00052,[],,,chebi:18307,pubchem:3354,,https://rest.kegg.jp/get/:/image
--D-galactose 1-phosphate(aq),kegg:C03384,"['D-galactose 1-phosphate(aq)', '-D-galactose 1-phosphate(aq)']",,,chebi:37480,pubchem:6219,,https://rest.kegg.jp/get/:/image
-D-mannose 1-phosphate(aq),kegg:C00636,[],,,chebi:35374,pubchem:3909,,https://rest.kegg.jp/get/:/image
-GDPmannose(aq),kegg:C00096,[],,,chebi:15820,pubchem:3396,,https://rest.kegg.jp/get/:/image
-CTP(aq),kegg:C00063,[],,,chebi:17677,pubchem:3363,,https://rest.kegg.jp/get/:/image
-O-phosphorylethanolamine(aq),kegg:C00346,[],,,chebi:17553,pubchem:3639,,https://rest.kegg.jp/get/:/image
-CDPethanolamine(aq),kegg:C00570,[],,,chebi:16732,pubchem:3849,,https://rest.kegg.jp/get/:/image
-phosphorylcholine(aq),kegg:C00588,[],,,chebi:18132,pubchem:3867,images/rdkit/phosphorylcholine(aq).gif,https://rest.kegg.jp/get/:/image
-CDPcholine(aq),kegg:C00307,[],,,chebi:16436,pubchem:3601,,https://rest.kegg.jp/get/:/image
-N-acetyl--D-glucosamine 1-phosphate(aq),kegg:C04256,"['N-acetyl--D-glucosamine 1-phosphate(aq)', 'N-acetyl-D-glucosamine 1-phosphate(aq)']",,,chebi:7125,pubchem:6921,images/rdkit/N-acetyl--D-glucosamine 1-phosphate(aq).gif,https://rest.kegg.jp/get/:/image
-UDP-N-acetyl-D-glucosamine(aq),kegg:C00043,[],,,chebi:16264,pubchem:3345,images/rdkit/UDP-N-acetyl-D-glucosamine(aq).gif,https://rest.kegg.jp/get/:/image
-dTDPglucose(aq),kegg:C00842,[],,,chebi:15700,pubchem:4099,,https://rest.kegg.jp/get/:/image
-CDPglucose(aq),kegg:C00501,[],,,chebi:28942,pubchem:3784,,https://rest.kegg.jp/get/:/image
-GDPglucose(aq),kegg:C00394,[],,,chebi:29062,pubchem:3684,,https://rest.kegg.jp/get/:/image
-[L-glutamate:ammonia ligase(ADP-forming)](aq),kegg:C01281,[],,,,pubchem:4500,,https://rest.kegg.jp/get/:/image
-adenylyl-[L-glutamate:ammonia ligase(ADP-forming)](aq),kegg:C01299,[],,,,pubchem:4517,,https://rest.kegg.jp/get/:/image
-1-phospho--D-glucuronate(aq),kegg:C05385,[],,,chebi:28547,pubchem:7759,,https://rest.kegg.jp/get/:/image
-UDP-D-glucuronate(aq),kegg:C00167,[],,,chebi:17200,pubchem:3467,,https://rest.kegg.jp/get/:/image
-succinyl-CoA(aq),kegg:C00091,[],,,chebi:15380,pubchem:3391,,https://rest.kegg.jp/get/:/image
-acetoacetate(aq),kegg:C00164,"['3-oxobutanoate(aq)', 'acetoacetate(aq)']",,,chebi:13705,pubchem:3464,,https://rest.kegg.jp/get/:/image
+UDPgalactose(aq),kegg:C00052,[],,,chebi:18307,pubchem:3354,,https://rest.kegg.jp/get/C00052/image
+-D-galactose 1-phosphate(aq),kegg:C03384,"['D-galactose 1-phosphate(aq)', '-D-galactose 1-phosphate(aq)']",,,chebi:37480,pubchem:6219,,https://rest.kegg.jp/get/C03384/image
+D-mannose 1-phosphate(aq),kegg:C00636,[],,,chebi:35374,pubchem:3909,,https://rest.kegg.jp/get/C00636/image
+GDPmannose(aq),kegg:C00096,[],,,chebi:15820,pubchem:3396,,https://rest.kegg.jp/get/C00096/image
+CTP(aq),kegg:C00063,[],,,chebi:17677,pubchem:3363,,https://rest.kegg.jp/get/C00063/image
+O-phosphorylethanolamine(aq),kegg:C00346,[],,,chebi:17553,pubchem:3639,,https://rest.kegg.jp/get/C00346/image
+CDPethanolamine(aq),kegg:C00570,[],,,chebi:16732,pubchem:3849,,https://rest.kegg.jp/get/C00570/image
+phosphorylcholine(aq),kegg:C00588,[],,,chebi:18132,pubchem:3867,images/rdkit/phosphorylcholine(aq).gif,https://rest.kegg.jp/get/C00588/image
+CDPcholine(aq),kegg:C00307,[],,,chebi:16436,pubchem:3601,,https://rest.kegg.jp/get/C00307/image
+N-acetyl--D-glucosamine 1-phosphate(aq),kegg:C04256,"['N-acetyl--D-glucosamine 1-phosphate(aq)', 'N-acetyl-D-glucosamine 1-phosphate(aq)']",,,chebi:7125,pubchem:6921,images/rdkit/N-acetyl--D-glucosamine 1-phosphate(aq).gif,https://rest.kegg.jp/get/C04256/image
+UDP-N-acetyl-D-glucosamine(aq),kegg:C00043,[],,,chebi:16264,pubchem:3345,images/rdkit/UDP-N-acetyl-D-glucosamine(aq).gif,https://rest.kegg.jp/get/C00043/image
+dTDPglucose(aq),kegg:C00842,[],,,chebi:15700,pubchem:4099,,https://rest.kegg.jp/get/C00842/image
+CDPglucose(aq),kegg:C00501,[],,,chebi:28942,pubchem:3784,,https://rest.kegg.jp/get/C00501/image
+GDPglucose(aq),kegg:C00394,[],,,chebi:29062,pubchem:3684,,https://rest.kegg.jp/get/C00394/image
+[L-glutamate:ammonia ligase(ADP-forming)](aq),kegg:C01281,[],,,,pubchem:4500,,https://rest.kegg.jp/get/C01281/image
+adenylyl-[L-glutamate:ammonia ligase(ADP-forming)](aq),kegg:C01299,[],,,,pubchem:4517,,https://rest.kegg.jp/get/C01299/image
+1-phospho--D-glucuronate(aq),kegg:C05385,[],,,chebi:28547,pubchem:7759,,https://rest.kegg.jp/get/C05385/image
+UDP-D-glucuronate(aq),kegg:C00167,[],,,chebi:17200,pubchem:3467,,https://rest.kegg.jp/get/C00167/image
+succinyl-CoA(aq),kegg:C00091,[],,,chebi:15380,pubchem:3391,,https://rest.kegg.jp/get/C00091/image
+acetoacetate(aq),kegg:C00164,"['3-oxobutanoate(aq)', 'acetoacetate(aq)']",,,chebi:13705,pubchem:3464,,https://rest.kegg.jp/get/C00164/image
 n-decanoic acid glycerol qiester(sln),,[],,,,,,
 H2O(sln),,[],,,,,,
 n-decanoic acid(sln),,[],,,,,,
@@ -526,282 +526,282 @@ n-octanoic add(sln),,[],,,,,,
 n-octanoic acid glycerol monoester(sln)n-octanoic acid glycerol monoester(sln),,[],,,,,,
 n-octanoic acid glycerol monoester(sln),,[],,,,,,
 n-octanoic acid(sln),,[],,,,,,
-acetylcholine(aq),kegg:C01996,"['O-acetylcholine(aq)', 'acetylcholine(aq)']",,,chebi:15355,pubchem:5093,,https://rest.kegg.jp/get/:/image
-retinyl palmitate(aq),kegg:C02588,[],,,chebi:17616,pubchem:5580,,https://rest.kegg.jp/get/:/image
-retinol(aq),kegg:C00473,"['vitamin A alcohol(aq)', 'retinol(aq)']",,,chebi:17336,pubchem:3756,,https://rest.kegg.jp/get/:/image
-palmitate(aq),kegg:C00249,"['palmitate(aq)', 'palmitic acid(aq)']",,,chebi:15756,pubchem:3548,,https://rest.kegg.jp/get/:/image
-acetyl phosphate-2-(aq),kegg:C00227,"['acetyl phosphate(aq)', 'acetyl phosphate-2-(aq)']",,,chebi:15350,pubchem:3527,,https://rest.kegg.jp/get/:/image
-acetate-(aq),kegg:C00033,"['acetate(aq)', 'acetate-(aq)']",,,chebi:30089,pubchem:3335,,https://rest.kegg.jp/get/:/image
-HPO4-2-(aq),kegg:C00009,"['orthophosphate(aq)', 'orthophospate(aq)', 'HPO4-2-(aq)', 'phosphate(aq)']",,,chebi:18367,pubchem:3311,,https://rest.kegg.jp/get/:/image
-ADP-3-(aq),kegg:C00008,"['ADP(aq)', 'ADP-3-(aq)']",,,chebi:16761,pubchem:3310,,https://rest.kegg.jp/get/:/image
-AMP-2--(aq),kegg:C00020,"['AMP(aq)', 'AMP-2--(aq)', 'AMP']",,,chebi:16027,pubchem:3322,,https://rest.kegg.jp/get/:/image
-D-fructose 1-phosphate(aq),kegg:C01094,[],,,chebi:18105,pubchem:4329,,https://rest.kegg.jp/get/:/image
-D-galactose 6-phosphate(aq),kegg:C01113,[],,,chebi:17733,pubchem:4345,,https://rest.kegg.jp/get/:/image
-4-nitrophenyl phosphate(aq),kegg:C03360,[],,,chebi:17440,pubchem:6198,,https://rest.kegg.jp/get/:/image
-4-nitrophenol(aq),kegg:C00870,[],,,chebi:16836,pubchem:4127,,https://rest.kegg.jp/get/:/image
-phenyl phosphate(aq),kegg:C02734,[],,,chebi:37548,pubchem:5695,images/rdkit/phenyl phosphate(aq).gif,https://rest.kegg.jp/get/:/image
-phenol(aq),kegg:C00146,[],,,chebi:15882,pubchem:3446,images/rdkit/phenol(aq).gif,https://rest.kegg.jp/get/:/image
-(R)-3-phosphoglycerate(aq),kegg:C00197,"['3-phospho-D-glycerate(aq)', '(R)-3-phosphoglycerate(aq)']",,,chebi:17794,pubchem:3497,,https://rest.kegg.jp/get/:/image
-phosphoenolpyruvate3-(aq),kegg:C00074,"['phosphoenolpyruvate(aq)', 'phosphoenolpyruvate3-(aq)']",,,chebi:18021,pubchem:3374,,https://rest.kegg.jp/get/:/image
-pyruvate-(aq),kegg:C00022,"['pyruvate(aq)', 'pyruvate', 'pyruvate-(aq)']",,,chebi:15361,pubchem:3324,images/rdkit/pyruvate-(aq).gif,https://rest.kegg.jp/get/:/image
-L-O-phosphoserine(aq),kegg:C01005,"['O-phospho-L-serine(aq)', 'L-O-phosphoserine(aq)']",,,chebi:15811,pubchem:4251,images/rdkit/L-O-phosphoserine(aq).gif,https://rest.kegg.jp/get/:/image
-phosphotaurocyamine(aq),kegg:C03149,"['N-w-phosphotaurocyamine(aq)', 'phosphotaurocyamine(aq)']",,,chebi:16621,pubchem:6037,images/rdkit/phosphotaurocyamine(aq).gif,https://rest.kegg.jp/get/:/image
-D-ribose(aq),kegg:C00121,[],,,chebi:47013,pubchem:3421,images/rdkit/D-ribose(aq).gif,https://rest.kegg.jp/get/:/image
+acetylcholine(aq),kegg:C01996,"['O-acetylcholine(aq)', 'acetylcholine(aq)']",,,chebi:15355,pubchem:5093,,https://rest.kegg.jp/get/C01996/image
+retinyl palmitate(aq),kegg:C02588,[],,,chebi:17616,pubchem:5580,,https://rest.kegg.jp/get/C02588/image
+retinol(aq),kegg:C00473,"['vitamin A alcohol(aq)', 'retinol(aq)']",,,chebi:17336,pubchem:3756,,https://rest.kegg.jp/get/C00473/image
+palmitate(aq),kegg:C00249,"['palmitate(aq)', 'palmitic acid(aq)']",,,chebi:15756,pubchem:3548,,https://rest.kegg.jp/get/C00249/image
+acetyl phosphate-2-(aq),kegg:C00227,"['acetyl phosphate(aq)', 'acetyl phosphate-2-(aq)']",,,chebi:15350,pubchem:3527,,https://rest.kegg.jp/get/C00227/image
+acetate-(aq),kegg:C00033,"['acetate(aq)', 'acetate-(aq)']",,,chebi:30089,pubchem:3335,,https://rest.kegg.jp/get/C00033/image
+HPO4-2-(aq),kegg:C00009,"['orthophosphate(aq)', 'orthophospate(aq)', 'HPO4-2-(aq)', 'phosphate(aq)']",,,chebi:18367,pubchem:3311,,https://rest.kegg.jp/get/C00009/image
+ADP-3-(aq),kegg:C00008,"['ADP(aq)', 'ADP-3-(aq)']",,,chebi:16761,pubchem:3310,,https://rest.kegg.jp/get/C00008/image
+AMP-2--(aq),kegg:C00020,"['AMP(aq)', 'AMP-2--(aq)', 'AMP']",,,chebi:16027,pubchem:3322,,https://rest.kegg.jp/get/C00020/image
+D-fructose 1-phosphate(aq),kegg:C01094,[],,,chebi:18105,pubchem:4329,,https://rest.kegg.jp/get/C01094/image
+D-galactose 6-phosphate(aq),kegg:C01113,[],,,chebi:17733,pubchem:4345,,https://rest.kegg.jp/get/C01113/image
+4-nitrophenyl phosphate(aq),kegg:C03360,[],,,chebi:17440,pubchem:6198,,https://rest.kegg.jp/get/C03360/image
+4-nitrophenol(aq),kegg:C00870,[],,,chebi:16836,pubchem:4127,,https://rest.kegg.jp/get/C00870/image
+phenyl phosphate(aq),kegg:C02734,[],,,chebi:37548,pubchem:5695,images/rdkit/phenyl phosphate(aq).gif,https://rest.kegg.jp/get/C02734/image
+phenol(aq),kegg:C00146,[],,,chebi:15882,pubchem:3446,images/rdkit/phenol(aq).gif,https://rest.kegg.jp/get/C00146/image
+(R)-3-phosphoglycerate(aq),kegg:C00197,"['3-phospho-D-glycerate(aq)', '(R)-3-phosphoglycerate(aq)']",,,chebi:17794,pubchem:3497,,https://rest.kegg.jp/get/C00197/image
+phosphoenolpyruvate3-(aq),kegg:C00074,"['phosphoenolpyruvate(aq)', 'phosphoenolpyruvate3-(aq)']",,,chebi:18021,pubchem:3374,,https://rest.kegg.jp/get/C00074/image
+pyruvate-(aq),kegg:C00022,"['pyruvate(aq)', 'pyruvate', 'pyruvate-(aq)']",,,chebi:15361,pubchem:3324,images/rdkit/pyruvate-(aq).gif,https://rest.kegg.jp/get/C00022/image
+L-O-phosphoserine(aq),kegg:C01005,"['O-phospho-L-serine(aq)', 'L-O-phosphoserine(aq)']",,,chebi:15811,pubchem:4251,images/rdkit/L-O-phosphoserine(aq).gif,https://rest.kegg.jp/get/C01005/image
+phosphotaurocyamine(aq),kegg:C03149,"['N-w-phosphotaurocyamine(aq)', 'phosphotaurocyamine(aq)']",,,chebi:16621,pubchem:6037,images/rdkit/phosphotaurocyamine(aq).gif,https://rest.kegg.jp/get/C03149/image
+D-ribose(aq),kegg:C00121,[],,,chebi:47013,pubchem:3421,images/rdkit/D-ribose(aq).gif,https://rest.kegg.jp/get/C00121/image
 L-alpha-glycerophosphate(aq),,[],,,,,,
-adenosine 3':5'-(cyclic)phosphate(aq),kegg:C00575,[],,,chebi:17489,pubchem:3854,,https://rest.kegg.jp/get/:/image
-2'-deoxyadenosine 3':5'-(cyclic)phosphate(aq),kegg:C00968,[],,,chebi:28074,pubchem:4218,,https://rest.kegg.jp/get/:/image
-2'-deoxyadenosine 5'-monophosphate(aq),kegg:C00360,"['dAMP(aq)', ""2'-deoxyadenosine 5'-monophosphate(aq)""]",,,chebi:17713,pubchem:3651,,https://rest.kegg.jp/get/:/image
-guanosine 3':5'-(cyclic)phosphate(aq),kegg:C00942,"[""guanosine 3':5'-(cyclic)phosphate(aq)"", ""guanosine 3 ',5 '-cyclic phosphate(aq)""]",,,chebi:16356,pubchem:4194,,https://rest.kegg.jp/get/:/image
-inosine 3':5'-(cyclic)phosphate(aq),kegg:C00943,[],,,chebi:27541,pubchem:4195,,https://rest.kegg.jp/get/:/image
+adenosine 3':5'-(cyclic)phosphate(aq),kegg:C00575,[],,,chebi:17489,pubchem:3854,,https://rest.kegg.jp/get/C00575/image
+2'-deoxyadenosine 3':5'-(cyclic)phosphate(aq),kegg:C00968,[],,,chebi:28074,pubchem:4218,,https://rest.kegg.jp/get/C00968/image
+2'-deoxyadenosine 5'-monophosphate(aq),kegg:C00360,"['dAMP(aq)', ""2'-deoxyadenosine 5'-monophosphate(aq)""]",,,chebi:17713,pubchem:3651,,https://rest.kegg.jp/get/C00360/image
+guanosine 3':5'-(cyclic)phosphate(aq),kegg:C00942,"[""guanosine 3':5'-(cyclic)phosphate(aq)"", ""guanosine 3 ',5 '-cyclic phosphate(aq)""]",,,chebi:16356,pubchem:4194,,https://rest.kegg.jp/get/C00942/image
+inosine 3':5'-(cyclic)phosphate(aq),kegg:C00943,[],,,chebi:27541,pubchem:4195,,https://rest.kegg.jp/get/C00943/image
 uridine 3':5'-(cyclic)phosphate(aq),,[],,,,,,
-adenosine 3'-monophosphate(aq),kegg:C01367,[],,,chebi:28931,pubchem:4566,,https://rest.kegg.jp/get/:/image
-maltotetraose(aq),kegg:C02052,[],,,chebi:28460,pubchem:5141,,https://rest.kegg.jp/get/:/image
-isomaltose(aq),kegg:C00252,"['isomaltose(aq)', '-isomaltose(aq)']",,,chebi:28189,pubchem:3551,,https://rest.kegg.jp/get/:/image
-isomaltotriose(aq),kegg:C02160,[],,,chebi:27649,pubchem:5236,,https://rest.kegg.jp/get/:/image
-maltohexaose(aq),kegg:C01936,[],,,chebi:27445,pubchem:5041,,https://rest.kegg.jp/get/:/image
-maltotriose(aq),kegg:C01835,[],,,chebi:27931,pubchem:4954,,https://rest.kegg.jp/get/:/image
-panose(aq),kegg:C00713,[],,,chebi:7912,pubchem:3979,,https://rest.kegg.jp/get/:/image
-palatinose(aq),kegg:C01742,[],,,chebi:18394,pubchem:4876,,https://rest.kegg.jp/get/:/image
-D-turanose(aq),kegg:C19636,[],,,,pubchem:124490288,images/rdkit/D-turanose(aq).gif,https://rest.kegg.jp/get/:/image
--gentiobiose(aq),kegg:C08240,[],,,chebi:28066,pubchem:10439,,https://rest.kegg.jp/get/:/image
--D-melibiose(aq),kegg:C05402,[],,,chebi:28053,pubchem:7769,,https://rest.kegg.jp/get/:/image
-lactulose(aq),kegg:C07064,[],,,chebi:6359,pubchem:9276,images/rdkit/lactulose(aq).gif,https://rest.kegg.jp/get/:/image
-ADPribose(aq),kegg:C01882,[],,,chebi:16864,pubchem:4995,images/rdkit/ADPribose(aq).gif,https://rest.kegg.jp/get/:/image
-L-asparagine(aq),kegg:C00152,[],,,chebi:17196,pubchem:3452,images/rdkit/L-asparagine(aq).gif,https://rest.kegg.jp/get/:/image
+adenosine 3'-monophosphate(aq),kegg:C01367,[],,,chebi:28931,pubchem:4566,,https://rest.kegg.jp/get/C01367/image
+maltotetraose(aq),kegg:C02052,[],,,chebi:28460,pubchem:5141,,https://rest.kegg.jp/get/C02052/image
+isomaltose(aq),kegg:C00252,"['isomaltose(aq)', '-isomaltose(aq)']",,,chebi:28189,pubchem:3551,,https://rest.kegg.jp/get/C00252/image
+isomaltotriose(aq),kegg:C02160,[],,,chebi:27649,pubchem:5236,,https://rest.kegg.jp/get/C02160/image
+maltohexaose(aq),kegg:C01936,[],,,chebi:27445,pubchem:5041,,https://rest.kegg.jp/get/C01936/image
+maltotriose(aq),kegg:C01835,[],,,chebi:27931,pubchem:4954,,https://rest.kegg.jp/get/C01835/image
+panose(aq),kegg:C00713,[],,,chebi:7912,pubchem:3979,,https://rest.kegg.jp/get/C00713/image
+palatinose(aq),kegg:C01742,[],,,chebi:18394,pubchem:4876,,https://rest.kegg.jp/get/C01742/image
+D-turanose(aq),kegg:C19636,[],,,,pubchem:124490288,images/rdkit/D-turanose(aq).gif,https://rest.kegg.jp/get/C19636/image
+-gentiobiose(aq),kegg:C08240,[],,,chebi:28066,pubchem:10439,,https://rest.kegg.jp/get/C08240/image
+-D-melibiose(aq),kegg:C05402,[],,,chebi:28053,pubchem:7769,,https://rest.kegg.jp/get/C05402/image
+lactulose(aq),kegg:C07064,[],,,chebi:6359,pubchem:9276,images/rdkit/lactulose(aq).gif,https://rest.kegg.jp/get/C07064/image
+ADPribose(aq),kegg:C01882,[],,,chebi:16864,pubchem:4995,images/rdkit/ADPribose(aq).gif,https://rest.kegg.jp/get/C01882/image
+L-asparagine(aq),kegg:C00152,[],,,chebi:17196,pubchem:3452,images/rdkit/L-asparagine(aq).gif,https://rest.kegg.jp/get/C00152/image
 γ-glutamohydroxamic acid(aq),,[],,,,,,
 hydroxylamine(aq),,[],,,,,images/rdkit/hydroxylamine(aq).gif,
-carbamate(aq),kegg:C01563,"['ammonium carbamate(aq)', 'carbamate(aq)']",,,chebi:28616,pubchem:4721,images/rdkit/carbamate(aq).gif,https://rest.kegg.jp/get/:/image
-urea(aq),kegg:C00086,[],,,chebi:16199,pubchem:3386,images/rdkit/urea(aq).gif,https://rest.kegg.jp/get/:/image
-cephalothin(aq),kegg:C07761,[],,,chebi:124991,pubchem:9963,images/rdkit/cephalothin(aq).gif,https://rest.kegg.jp/get/:/image
-2-thienylacetic acid(aq),kegg:C02595,[],,,chebi:45807,pubchem:5586,images/rdkit/2-thienylacetic acid(aq).gif,https://rest.kegg.jp/get/:/image
-7-aminocephalosporanic acid(aq),kegg:C07756,[],,,chebi:2255,pubchem:9958,images/rdkit/7-aminocephalosporanic acid(aq).gif,https://rest.kegg.jp/get/:/image
-penicillin G(aq),kegg:C05551,"['penicillin G(aq)', 'penicillin G-(aq)']",,,chebi:18208,pubchem:7885,images/rdkit/penicillin G(aq).gif,https://rest.kegg.jp/get/:/image
-6-aminopenicillanic acid(aq),kegg:C02954,"['6-aminopenicillanic acid(aq)', '6-aminopenicillanic acid-(aq)', '6-aminopenicillanate-(aq)']",,,chebi:30938,pubchem:5872,images/rdkit/6-aminopenicillanic acid(aq).gif,https://rest.kegg.jp/get/:/image
-phenylacetic acid(aq),kegg:C07086,[],,,chebi:30745,pubchem:9297,images/rdkit/phenylacetic acid(aq).gif,https://rest.kegg.jp/get/:/image
-penicillin G-(aq),kegg:C05551,"['penicillin G(aq)', 'penicillin G-(aq)']",,,chebi:18208,pubchem:7885,,https://rest.kegg.jp/get/:/image
-6-aminopenicillanic acid-(aq),kegg:C02954,"['6-aminopenicillanic acid(aq)', '6-aminopenicillanic acid-(aq)', '6-aminopenicillanate-(aq)']",,,chebi:30938,pubchem:5872,,https://rest.kegg.jp/get/:/image
-phenoxymethylpenicillin-(aq),kegg:C08126,[],,,chebi:27446,pubchem:10326,,https://rest.kegg.jp/get/:/image
-6-aminopenicillanate-(aq),kegg:C02954,"['6-aminopenicillanic acid(aq)', '6-aminopenicillanic acid-(aq)', '6-aminopenicillanate-(aq)']",,,chebi:30938,pubchem:5872,,https://rest.kegg.jp/get/:/image
-phenoxyacetate(aq),kegg:C02181,[],,,chebi:8075,pubchem:5253,images/rdkit/phenoxyacetate(aq).gif,https://rest.kegg.jp/get/:/image
-phenylacetylglycine(aq),kegg:C05598,[],,,chebi:27480,pubchem:7922,images/rdkit/phenylacetylglycine(aq).gif,https://rest.kegg.jp/get/:/image
-N-acetyl-L-methionine(aq),kegg:C02712,[],,,chebi:21557,pubchem:5675,images/rdkit/N-acetyl-L-methionine(aq).gif,https://rest.kegg.jp/get/:/image
-pantothenate,kegg:C00864,[],,,chebi:7916,pubchem:4121,images/rdkit/pantothenate.gif,https://rest.kegg.jp/get/:/image
-H2O,kegg:C00001,"['H2O(l)', 'H2O', 'H2o(l)']",,,chebi:15377,pubchem:3303,images/rdkit/H2O.gif,https://rest.kegg.jp/get/:/image
-pantoic acid,kegg:C00522,"['pantoic acid', '(R)-pantoate(aq)']",,,chebi:15980,pubchem:3805,images/rdkit/pantoic acid.gif,https://rest.kegg.jp/get/:/image
-N-carbamoyl-L-aspartate(aq),kegg:C00438,[],,,chebi:15859,pubchem:3727,images/rdkit/N-carbamoyl-L-aspartate(aq).gif,https://rest.kegg.jp/get/:/image
-L-5-carboxymethylhydantoin(aq),kegg:C03703,[],,,chebi:16342,pubchem:6473,images/rdkit/L-5-carboxymethylhydantoin(aq).gif,https://rest.kegg.jp/get/:/image
+carbamate(aq),kegg:C01563,"['ammonium carbamate(aq)', 'carbamate(aq)']",,,chebi:28616,pubchem:4721,images/rdkit/carbamate(aq).gif,https://rest.kegg.jp/get/C01563/image
+urea(aq),kegg:C00086,[],,,chebi:16199,pubchem:3386,images/rdkit/urea(aq).gif,https://rest.kegg.jp/get/C00086/image
+cephalothin(aq),kegg:C07761,[],,,chebi:124991,pubchem:9963,images/rdkit/cephalothin(aq).gif,https://rest.kegg.jp/get/C07761/image
+2-thienylacetic acid(aq),kegg:C02595,[],,,chebi:45807,pubchem:5586,images/rdkit/2-thienylacetic acid(aq).gif,https://rest.kegg.jp/get/C02595/image
+7-aminocephalosporanic acid(aq),kegg:C07756,[],,,chebi:2255,pubchem:9958,images/rdkit/7-aminocephalosporanic acid(aq).gif,https://rest.kegg.jp/get/C07756/image
+penicillin G(aq),kegg:C05551,"['penicillin G(aq)', 'penicillin G-(aq)']",,,chebi:18208,pubchem:7885,images/rdkit/penicillin G(aq).gif,https://rest.kegg.jp/get/C05551/image
+6-aminopenicillanic acid(aq),kegg:C02954,"['6-aminopenicillanic acid(aq)', '6-aminopenicillanic acid-(aq)', '6-aminopenicillanate-(aq)']",,,chebi:30938,pubchem:5872,images/rdkit/6-aminopenicillanic acid(aq).gif,https://rest.kegg.jp/get/C02954/image
+phenylacetic acid(aq),kegg:C07086,[],,,chebi:30745,pubchem:9297,images/rdkit/phenylacetic acid(aq).gif,https://rest.kegg.jp/get/C07086/image
+penicillin G-(aq),kegg:C05551,"['penicillin G(aq)', 'penicillin G-(aq)']",,,chebi:18208,pubchem:7885,,https://rest.kegg.jp/get/C05551/image
+6-aminopenicillanic acid-(aq),kegg:C02954,"['6-aminopenicillanic acid(aq)', '6-aminopenicillanic acid-(aq)', '6-aminopenicillanate-(aq)']",,,chebi:30938,pubchem:5872,,https://rest.kegg.jp/get/C02954/image
+phenoxymethylpenicillin-(aq),kegg:C08126,[],,,chebi:27446,pubchem:10326,,https://rest.kegg.jp/get/C08126/image
+6-aminopenicillanate-(aq),kegg:C02954,"['6-aminopenicillanic acid(aq)', '6-aminopenicillanic acid-(aq)', '6-aminopenicillanate-(aq)']",,,chebi:30938,pubchem:5872,,https://rest.kegg.jp/get/C02954/image
+phenoxyacetate(aq),kegg:C02181,[],,,chebi:8075,pubchem:5253,images/rdkit/phenoxyacetate(aq).gif,https://rest.kegg.jp/get/C02181/image
+phenylacetylglycine(aq),kegg:C05598,[],,,chebi:27480,pubchem:7922,images/rdkit/phenylacetylglycine(aq).gif,https://rest.kegg.jp/get/C05598/image
+N-acetyl-L-methionine(aq),kegg:C02712,[],,,chebi:21557,pubchem:5675,images/rdkit/N-acetyl-L-methionine(aq).gif,https://rest.kegg.jp/get/C02712/image
+pantothenate,kegg:C00864,[],,,chebi:7916,pubchem:4121,images/rdkit/pantothenate.gif,https://rest.kegg.jp/get/C00864/image
+H2O,kegg:C00001,"['H2O(l)', 'H2O', 'H2o(l)']",,,chebi:15377,pubchem:3303,images/rdkit/H2O.gif,https://rest.kegg.jp/get/C00001/image
+pantoic acid,kegg:C00522,"['pantoic acid', '(R)-pantoate(aq)']",,,chebi:15980,pubchem:3805,images/rdkit/pantoic acid.gif,https://rest.kegg.jp/get/C00522/image
+N-carbamoyl-L-aspartate(aq),kegg:C00438,[],,,chebi:15859,pubchem:3727,images/rdkit/N-carbamoyl-L-aspartate(aq).gif,https://rest.kegg.jp/get/C00438/image
+L-5-carboxymethylhydantoin(aq),kegg:C03703,[],,,chebi:16342,pubchem:6473,images/rdkit/L-5-carboxymethylhydantoin(aq).gif,https://rest.kegg.jp/get/C03703/image
 ampicillin(aq),,[],,,,,images/rdkit/ampicillin(aq).gif,
 ampicillinoic acid(aq),,[],,,,,,
-penicillinoic acid(aq),kegg:C06567,[],,,,pubchem:8796,,https://rest.kegg.jp/get/:/image
+penicillinoic acid(aq),kegg:C06567,[],,,,pubchem:8796,,https://rest.kegg.jp/get/C06567/image
 phenoxymethylpenicillin(aq),,[],,,,,,
 phenoxymethylpenicillinoic acid(aq),,[],,,,,,
-allantoate(aq),kegg:C00499,[],,,chebi:17536,pubchem:3782,,https://rest.kegg.jp/get/:/image
-(-)-ureidoglycolate(aq),kegg:C00603,[],,,chebi:15412,pubchem:3878,,https://rest.kegg.jp/get/:/image
-cytidine(aq),kegg:C00475,[],,,chebi:17562,pubchem:3758,,https://rest.kegg.jp/get/:/image
-10-formyltetrahydrofolate(aq),kegg:C00234,"['10-formyltetrahydrofolate(aq)', '10-Formyltetrahydrofolate']",,,chebi:15637,pubchem:3533,,https://rest.kegg.jp/get/:/image
-adenylyl sulfate(aq),kegg:C00224,"[""adenosine 5'-phosphosulfate(aq)"", 'adenylyl sulfate(aq)', 'adenylylsulfate(aq)']",,,chebi:17709,pubchem:3524,,https://rest.kegg.jp/get/:/image
-trimetaphosphate(aq),kegg:C02466,[],,,chebi:16517,pubchem:5482,,https://rest.kegg.jp/get/:/image
-triphosphate(aq),kegg:C00536,[],,,chebi:18036,pubchem:3818,,https://rest.kegg.jp/get/:/image
--nicotinamide mononucleotide(aq),kegg:C00455,"['beta-Nicotinamide mononucleotide', '-nicotinamide mononucleotide(aq)']",,,chebi:16171,pubchem:3741,,https://rest.kegg.jp/get/:/image
-ATP-4-(aq),kegg:C00002,"['ATP(aq)', 'ATP', 'ATP-4-(aq)']",,,chebi:15422,pubchem:3304,,https://rest.kegg.jp/get/:/image
-ITP(aq),kegg:C00081,"[""inosine 5'-triphosphate(aq)"", 'ITP(aq)']",,,chebi:16039,pubchem:3381,,https://rest.kegg.jp/get/:/image
-IDP(aq),kegg:C00104,"[""inosine 5'-diphosphate(aq)"", 'IDP(aq)']",,,chebi:17808,pubchem:3404,images/rdkit/IDP(aq).gif,https://rest.kegg.jp/get/:/image
-diphosphate(aq),kegg:C00013,"['pyrophosphate(aq)', 'pyrophosphate', 'diphosphate(aq)', 'diphosphate']",,,chebi:18361,pubchem:3315,images/rdkit/diphosphate(aq).gif,https://rest.kegg.jp/get/:/image
-phosphate(aq),kegg:C00009,"['orthophosphate(aq)', 'orthophospate(aq)', 'HPO4-2-(aq)', 'phosphate(aq)']",,,chebi:18367,pubchem:3311,images/rdkit/phosphate(aq).gif,https://rest.kegg.jp/get/:/image
-"D-ribulose 1,5-biphosphate(aq)",kegg:C01182,"['D-ribulose 1,5-biphosphate(aq)', 'D-ribulose 1,5-bisphosphate(aq)']",,,chebi:16710,pubchem:4409,,https://rest.kegg.jp/get/:/image
-erythrulose 1-phosphate(aq),kegg:C03394,[],,,chebi:14216,pubchem:6225,images/rdkit/erythrulose 1-phosphate(aq).gif,https://rest.kegg.jp/get/:/image
-glycerone phosphate(aq),kegg:C00111,"['dihydroxyacetone phosphate(aq)', 'glycerone phosphate(aq)']",,,chebi:16108,pubchem:3411,images/rdkit/glycerone phosphate(aq).gif,https://rest.kegg.jp/get/:/image
-2-deoxy-D-ribose 5-phosphate(aq),kegg:C00673,[],,,chebi:16132,pubchem:3942,images/rdkit/2-deoxy-D-ribose 5-phosphate(aq).gif,https://rest.kegg.jp/get/:/image
+allantoate(aq),kegg:C00499,[],,,chebi:17536,pubchem:3782,,https://rest.kegg.jp/get/C00499/image
+(-)-ureidoglycolate(aq),kegg:C00603,[],,,chebi:15412,pubchem:3878,,https://rest.kegg.jp/get/C00603/image
+cytidine(aq),kegg:C00475,[],,,chebi:17562,pubchem:3758,,https://rest.kegg.jp/get/C00475/image
+10-formyltetrahydrofolate(aq),kegg:C00234,"['10-formyltetrahydrofolate(aq)', '10-Formyltetrahydrofolate']",,,chebi:15637,pubchem:3533,,https://rest.kegg.jp/get/C00234/image
+adenylyl sulfate(aq),kegg:C00224,"[""adenosine 5'-phosphosulfate(aq)"", 'adenylyl sulfate(aq)', 'adenylylsulfate(aq)']",,,chebi:17709,pubchem:3524,,https://rest.kegg.jp/get/C00224/image
+trimetaphosphate(aq),kegg:C02466,[],,,chebi:16517,pubchem:5482,,https://rest.kegg.jp/get/C02466/image
+triphosphate(aq),kegg:C00536,[],,,chebi:18036,pubchem:3818,,https://rest.kegg.jp/get/C00536/image
+-nicotinamide mononucleotide(aq),kegg:C00455,"['beta-Nicotinamide mononucleotide', '-nicotinamide mononucleotide(aq)']",,,chebi:16171,pubchem:3741,,https://rest.kegg.jp/get/C00455/image
+ATP-4-(aq),kegg:C00002,"['ATP(aq)', 'ATP', 'ATP-4-(aq)']",,,chebi:15422,pubchem:3304,,https://rest.kegg.jp/get/C00002/image
+ITP(aq),kegg:C00081,"[""inosine 5'-triphosphate(aq)"", 'ITP(aq)']",,,chebi:16039,pubchem:3381,,https://rest.kegg.jp/get/C00081/image
+IDP(aq),kegg:C00104,"[""inosine 5'-diphosphate(aq)"", 'IDP(aq)']",,,chebi:17808,pubchem:3404,images/rdkit/IDP(aq).gif,https://rest.kegg.jp/get/C00104/image
+diphosphate(aq),kegg:C00013,"['pyrophosphate(aq)', 'pyrophosphate', 'diphosphate(aq)', 'diphosphate']",,,chebi:18361,pubchem:3315,images/rdkit/diphosphate(aq).gif,https://rest.kegg.jp/get/C00013/image
+phosphate(aq),kegg:C00009,"['orthophosphate(aq)', 'orthophospate(aq)', 'HPO4-2-(aq)', 'phosphate(aq)']",,,chebi:18367,pubchem:3311,images/rdkit/phosphate(aq).gif,https://rest.kegg.jp/get/C00009/image
+"D-ribulose 1,5-biphosphate(aq)",kegg:C01182,"['D-ribulose 1,5-biphosphate(aq)', 'D-ribulose 1,5-bisphosphate(aq)']",,,chebi:16710,pubchem:4409,,https://rest.kegg.jp/get/C01182/image
+erythrulose 1-phosphate(aq),kegg:C03394,[],,,chebi:14216,pubchem:6225,images/rdkit/erythrulose 1-phosphate(aq).gif,https://rest.kegg.jp/get/C03394/image
+glycerone phosphate(aq),kegg:C00111,"['dihydroxyacetone phosphate(aq)', 'glycerone phosphate(aq)']",,,chebi:16108,pubchem:3411,images/rdkit/glycerone phosphate(aq).gif,https://rest.kegg.jp/get/C00111/image
+2-deoxy-D-ribose 5-phosphate(aq),kegg:C00673,[],,,chebi:16132,pubchem:3942,images/rdkit/2-deoxy-D-ribose 5-phosphate(aq).gif,https://rest.kegg.jp/get/C00673/image
 "5,6-dideoxyfructose 1-phosphate(aq)",,[],,,,,"images/rdkit/5,6-dideoxyfructose 1-phosphate(aq).gif",
 propionaldehyde(aq),,[],,,,,images/rdkit/propionaldehyde(aq).gif,
 methylerythrulose 1-phosphate(aq),,[],,,,,,
 glycerone phosphate (aq),,[],,,,,images/rdkit/glycerone phosphate (aq).gif,
-6-phospho-2-dehydro-3-deoxy-D-gluconate(aq),kegg:C04442,[],,,chebi:15925,pubchem:7071,images/rdkit/6-phospho-2-dehydro-3-deoxy-D-gluconate(aq).gif,https://rest.kegg.jp/get/:/image
-L-fuculose 1-phosphate(aq),kegg:C01099,[],,,chebi:6220,pubchem:4333,images/rdkit/L-fuculose 1-phosphate(aq).gif,https://rest.kegg.jp/get/:/image
-(S)-lactaldehyde(aq),kegg:C00424,"['L-lactaldehyde(aq)', '(S)-lactaldehyde(aq)']",,,chebi:18041,pubchem:3714,images/rdkit/(S)-lactaldehyde(aq).gif,https://rest.kegg.jp/get/:/image
-2-dehydro-3-deoxy-D-fuconate(aq),kegg:C06159,[],,,chebi:18104,pubchem:8415,images/rdkit/2-dehydro-3-deoxy-D-fuconate(aq).gif,https://rest.kegg.jp/get/:/image
-2-dehydro-3-deoxy-L-pentonate(aq),kegg:C00684,[],,,chebi:17647,pubchem:3953,images/rdkit/2-dehydro-3-deoxy-L-pentonate(aq).gif,https://rest.kegg.jp/get/:/image
-L-rhamnulose 1-phosphate(aq),kegg:C01131,[],,,chebi:17892,pubchem:4362,images/rdkit/L-rhamnulose 1-phosphate(aq).gif,https://rest.kegg.jp/get/:/image
-2-dehydro-3-deoxy-D-galactonate 6-phosphate(aq),kegg:C01286,[],,,chebi:17860,pubchem:4505,images/rdkit/2-dehydro-3-deoxy-D-galactonate 6-phosphate(aq).gif,https://rest.kegg.jp/get/:/image
-D-arabino-3-hexulose 6-phosphate(aq),kegg:C06019,"['D-arabino-3-hexulose 6-phosphate(aq)', 'D-arabino-Hex-3-ulose 6-phosphate']",,,chebi:27973,pubchem:8291,images/rdkit/D-arabino-3-hexulose 6-phosphate(aq).gif,https://rest.kegg.jp/get/:/image
-N-acetylneuraminate(aq),kegg:C00270,[],,,chebi:17012,pubchem:3568,images/rdkit/N-acetylneuraminate(aq).gif,https://rest.kegg.jp/get/:/image
-N-acetyl-D-mannosamine(aq),kegg:C00645,[],,,chebi:63153,pubchem:3918,images/rdkit/N-acetyl-D-mannosamine(aq).gif,https://rest.kegg.jp/get/:/image
-4-hydroxy-2-oxoglutarate(aq),kegg:C01127,[],,,chebi:17742,pubchem:4358,images/rdkit/4-hydroxy-2-oxoglutarate(aq).gif,https://rest.kegg.jp/get/:/image
-(S)-2-methylmalate(aq),kegg:C02614,[],,,chebi:30936,pubchem:5599,images/rdkit/(S)-2-methylmalate(aq).gif,https://rest.kegg.jp/get/:/image
-"(R,S)-malyl-CoA(aq)",kegg:C04348,[],,,chebi:15454,pubchem:6997,"images/rdkit/(R,S)-malyl-CoA(aq).gif",https://rest.kegg.jp/get/:/image
-"2,3-dimethylmalate(aq)",kegg:C03652,"['2,3-dimethylmalate(aq)', '(2R,3S)-2,3-dimethylmalate(aq)']",,,chebi:15582,pubchem:6432,"images/rdkit/2,3-dimethylmalate(aq).gif",https://rest.kegg.jp/get/:/image
-propanoate(aq),kegg:C00163,[],,,chebi:17272,pubchem:3463,images/rdkit/propanoate(aq).gif,https://rest.kegg.jp/get/:/image
-L-tryptophan(aq),kegg:C00078,[],,,chebi:16828,pubchem:3378,images/rdkit/L-tryptophan(aq).gif,https://rest.kegg.jp/get/:/image
-indole(aq),kegg:C00463,[],,,chebi:16881,pubchem:3747,images/rdkit/indole(aq).gif,https://rest.kegg.jp/get/:/image
-cis-aconitate(aq),kegg:C00417,[],,,chebi:16383,pubchem:3707,images/rdkit/cis-aconitate(aq).gif,https://rest.kegg.jp/get/:/image
-3-dehydroquinate(aq),kegg:C00944,"['5-dehydroquinate(aq)', '3-dehydroquinate(aq)']",,,chebi:32364,pubchem:4196,images/rdkit/3-dehydroquinate(aq).gif,https://rest.kegg.jp/get/:/image
-2-phospho-D-glycerate(aq),kegg:C00631,[],,,chebi:17835,pubchem:3904,images/rdkit/2-phospho-D-glycerate(aq).gif,https://rest.kegg.jp/get/:/image
-(3R)-3-hydroxybutanoyl-CoA(aq),kegg:C03561,[],,,chebi:15452,pubchem:6354,images/rdkit/(3R)-3-hydroxybutanoyl-CoA(aq).gif,https://rest.kegg.jp/get/:/image
-cis-but-2-enoyl-CoA(aq),kegg:C00877,"['cis-but-2-enoyl-CoA(aq)', 'trans-but-2-enoyl-CoA(aq)', 'trans-but-2-enoyl-coenzyme A']",,,chebi:36926,pubchem:4133,images/rdkit/cis-but-2-enoyl-CoA(aq).gif,https://rest.kegg.jp/get/:/image
-(3S)-3-hydroxybutanoyl-CoA(aq),kegg:C01144,"['(S)-3-hydroxybutanoyl-CoA(aq)', '(3S)-3-hydroxybutanoyl-CoA(aq)', 'DL-3-hydroxybutanoyl-CoA(aq)', '(3S)-hydroxybutanoyl-coenzyme A(aq)']",,,chebi:15453,pubchem:4375,images/rdkit/(3S)-3-hydroxybutanoyl-CoA(aq).gif,https://rest.kegg.jp/get/:/image
-trans-but-2-enoyl-CoA(aq),kegg:C00877,"['cis-but-2-enoyl-CoA(aq)', 'trans-but-2-enoyl-CoA(aq)', 'trans-but-2-enoyl-coenzyme A']",,,chebi:36926,pubchem:4133,images/rdkit/trans-but-2-enoyl-CoA(aq).gif,https://rest.kegg.jp/get/:/image
+6-phospho-2-dehydro-3-deoxy-D-gluconate(aq),kegg:C04442,[],,,chebi:15925,pubchem:7071,images/rdkit/6-phospho-2-dehydro-3-deoxy-D-gluconate(aq).gif,https://rest.kegg.jp/get/C04442/image
+L-fuculose 1-phosphate(aq),kegg:C01099,[],,,chebi:6220,pubchem:4333,images/rdkit/L-fuculose 1-phosphate(aq).gif,https://rest.kegg.jp/get/C01099/image
+(S)-lactaldehyde(aq),kegg:C00424,"['L-lactaldehyde(aq)', '(S)-lactaldehyde(aq)']",,,chebi:18041,pubchem:3714,images/rdkit/(S)-lactaldehyde(aq).gif,https://rest.kegg.jp/get/C00424/image
+2-dehydro-3-deoxy-D-fuconate(aq),kegg:C06159,[],,,chebi:18104,pubchem:8415,images/rdkit/2-dehydro-3-deoxy-D-fuconate(aq).gif,https://rest.kegg.jp/get/C06159/image
+2-dehydro-3-deoxy-L-pentonate(aq),kegg:C00684,[],,,chebi:17647,pubchem:3953,images/rdkit/2-dehydro-3-deoxy-L-pentonate(aq).gif,https://rest.kegg.jp/get/C00684/image
+L-rhamnulose 1-phosphate(aq),kegg:C01131,[],,,chebi:17892,pubchem:4362,images/rdkit/L-rhamnulose 1-phosphate(aq).gif,https://rest.kegg.jp/get/C01131/image
+2-dehydro-3-deoxy-D-galactonate 6-phosphate(aq),kegg:C01286,[],,,chebi:17860,pubchem:4505,images/rdkit/2-dehydro-3-deoxy-D-galactonate 6-phosphate(aq).gif,https://rest.kegg.jp/get/C01286/image
+D-arabino-3-hexulose 6-phosphate(aq),kegg:C06019,"['D-arabino-3-hexulose 6-phosphate(aq)', 'D-arabino-Hex-3-ulose 6-phosphate']",,,chebi:27973,pubchem:8291,images/rdkit/D-arabino-3-hexulose 6-phosphate(aq).gif,https://rest.kegg.jp/get/C06019/image
+N-acetylneuraminate(aq),kegg:C00270,[],,,chebi:17012,pubchem:3568,images/rdkit/N-acetylneuraminate(aq).gif,https://rest.kegg.jp/get/C00270/image
+N-acetyl-D-mannosamine(aq),kegg:C00645,[],,,chebi:63153,pubchem:3918,images/rdkit/N-acetyl-D-mannosamine(aq).gif,https://rest.kegg.jp/get/C00645/image
+4-hydroxy-2-oxoglutarate(aq),kegg:C01127,[],,,chebi:17742,pubchem:4358,images/rdkit/4-hydroxy-2-oxoglutarate(aq).gif,https://rest.kegg.jp/get/C01127/image
+(S)-2-methylmalate(aq),kegg:C02614,[],,,chebi:30936,pubchem:5599,images/rdkit/(S)-2-methylmalate(aq).gif,https://rest.kegg.jp/get/C02614/image
+"(R,S)-malyl-CoA(aq)",kegg:C04348,[],,,chebi:15454,pubchem:6997,"images/rdkit/(R,S)-malyl-CoA(aq).gif",https://rest.kegg.jp/get/C04348/image
+"2,3-dimethylmalate(aq)",kegg:C03652,"['2,3-dimethylmalate(aq)', '(2R,3S)-2,3-dimethylmalate(aq)']",,,chebi:15582,pubchem:6432,"images/rdkit/2,3-dimethylmalate(aq).gif",https://rest.kegg.jp/get/C03652/image
+propanoate(aq),kegg:C00163,[],,,chebi:17272,pubchem:3463,images/rdkit/propanoate(aq).gif,https://rest.kegg.jp/get/C00163/image
+L-tryptophan(aq),kegg:C00078,[],,,chebi:16828,pubchem:3378,images/rdkit/L-tryptophan(aq).gif,https://rest.kegg.jp/get/C00078/image
+indole(aq),kegg:C00463,[],,,chebi:16881,pubchem:3747,images/rdkit/indole(aq).gif,https://rest.kegg.jp/get/C00463/image
+cis-aconitate(aq),kegg:C00417,[],,,chebi:16383,pubchem:3707,images/rdkit/cis-aconitate(aq).gif,https://rest.kegg.jp/get/C00417/image
+3-dehydroquinate(aq),kegg:C00944,"['5-dehydroquinate(aq)', '3-dehydroquinate(aq)']",,,chebi:32364,pubchem:4196,images/rdkit/3-dehydroquinate(aq).gif,https://rest.kegg.jp/get/C00944/image
+2-phospho-D-glycerate(aq),kegg:C00631,[],,,chebi:17835,pubchem:3904,images/rdkit/2-phospho-D-glycerate(aq).gif,https://rest.kegg.jp/get/C00631/image
+(3R)-3-hydroxybutanoyl-CoA(aq),kegg:C03561,[],,,chebi:15452,pubchem:6354,images/rdkit/(3R)-3-hydroxybutanoyl-CoA(aq).gif,https://rest.kegg.jp/get/C03561/image
+cis-but-2-enoyl-CoA(aq),kegg:C00877,"['cis-but-2-enoyl-CoA(aq)', 'trans-but-2-enoyl-CoA(aq)', 'trans-but-2-enoyl-coenzyme A']",,,chebi:36926,pubchem:4133,images/rdkit/cis-but-2-enoyl-CoA(aq).gif,https://rest.kegg.jp/get/C00877/image
+(3S)-3-hydroxybutanoyl-CoA(aq),kegg:C01144,"['(S)-3-hydroxybutanoyl-CoA(aq)', '(3S)-3-hydroxybutanoyl-CoA(aq)', 'DL-3-hydroxybutanoyl-CoA(aq)', '(3S)-hydroxybutanoyl-coenzyme A(aq)']",,,chebi:15453,pubchem:4375,images/rdkit/(3S)-3-hydroxybutanoyl-CoA(aq).gif,https://rest.kegg.jp/get/C01144/image
+trans-but-2-enoyl-CoA(aq),kegg:C00877,"['cis-but-2-enoyl-CoA(aq)', 'trans-but-2-enoyl-CoA(aq)', 'trans-but-2-enoyl-coenzyme A']",,,chebi:36926,pubchem:4133,images/rdkit/trans-but-2-enoyl-CoA(aq).gif,https://rest.kegg.jp/get/C00877/image
 (3R)-3-hydroxyhexanoyl-CoA(aq),,[],,,,,images/rdkit/(3R)-3-hydroxyhexanoyl-CoA(aq).gif,
 cis-hex-2-enoyl-CoA(aq),,[],,,,,images/rdkit/cis-hex-2-enoyl-CoA(aq).gif,
-(3S)-3-hydroxyhexanoyl-CoA(aq),kegg:C05268,"['(S)-3-hydroxyhexanoyl-CoA(aq)', '(3S)-3-hydroxyhexanoyl-CoA(aq)']",,,chebi:28276,pubchem:7655,images/rdkit/(3S)-3-hydroxyhexanoyl-CoA(aq).gif,https://rest.kegg.jp/get/:/image
-trans-hex-2-enoyl-CoA(aq),kegg:C05271,[],,,chebi:28706,pubchem:7658,images/rdkit/trans-hex-2-enoyl-CoA(aq).gif,https://rest.kegg.jp/get/:/image
-1-(indol-3-yl)glycerol 3-phosphate(aq),kegg:C03506,[],,,chebi:18299,pubchem:6317,images/rdkit/1-(indol-3-yl)glycerol 3-phosphate(aq).gif,https://rest.kegg.jp/get/:/image
-(R)-malate(aq),kegg:C00497,[],,,chebi:15588,pubchem:3780,images/rdkit/(R)-malate(aq).gif,https://rest.kegg.jp/get/:/image
-maleate(aq),kegg:C01384,[],,,chebi:18300,pubchem:4579,images/rdkit/maleate(aq).gif,https://rest.kegg.jp/get/:/image
-2-methylfumarate(aq),kegg:C01732,[],,,chebi:36986,pubchem:4868,images/rdkit/2-methylfumarate(aq).gif,https://rest.kegg.jp/get/:/image
-(R)-2-methylmalate(aq),kegg:C02612,[],,,chebi:30934,pubchem:5597,images/rdkit/(R)-2-methylmalate(aq).gif,https://rest.kegg.jp/get/:/image
-2-methylmaleate(aq),kegg:C02226,[],,,chebi:30719,pubchem:5291,images/rdkit/2-methylmaleate(aq).gif,https://rest.kegg.jp/get/:/image
+(3S)-3-hydroxyhexanoyl-CoA(aq),kegg:C05268,"['(S)-3-hydroxyhexanoyl-CoA(aq)', '(3S)-3-hydroxyhexanoyl-CoA(aq)']",,,chebi:28276,pubchem:7655,images/rdkit/(3S)-3-hydroxyhexanoyl-CoA(aq).gif,https://rest.kegg.jp/get/C05268/image
+trans-hex-2-enoyl-CoA(aq),kegg:C05271,[],,,chebi:28706,pubchem:7658,images/rdkit/trans-hex-2-enoyl-CoA(aq).gif,https://rest.kegg.jp/get/C05271/image
+1-(indol-3-yl)glycerol 3-phosphate(aq),kegg:C03506,[],,,chebi:18299,pubchem:6317,images/rdkit/1-(indol-3-yl)glycerol 3-phosphate(aq).gif,https://rest.kegg.jp/get/C03506/image
+(R)-malate(aq),kegg:C00497,[],,,chebi:15588,pubchem:3780,images/rdkit/(R)-malate(aq).gif,https://rest.kegg.jp/get/C00497/image
+maleate(aq),kegg:C01384,[],,,chebi:18300,pubchem:4579,images/rdkit/maleate(aq).gif,https://rest.kegg.jp/get/C01384/image
+2-methylfumarate(aq),kegg:C01732,[],,,chebi:36986,pubchem:4868,images/rdkit/2-methylfumarate(aq).gif,https://rest.kegg.jp/get/C01732/image
+(R)-2-methylmalate(aq),kegg:C02612,[],,,chebi:30934,pubchem:5597,images/rdkit/(R)-2-methylmalate(aq).gif,https://rest.kegg.jp/get/C02612/image
+2-methylmaleate(aq),kegg:C02226,[],,,chebi:30719,pubchem:5291,images/rdkit/2-methylmaleate(aq).gif,https://rest.kegg.jp/get/C02226/image
 gamma-fluoroglutamate(aq),,[],,,,,images/rdkit/gamma-fluoroglutamate(aq).gif,
 cis-D-4-fluoro-5-oxopyrrolidine-2-carboxylate(aq),,[],,,,,,
 trans-D-4-fluoro-5-oxopyrrolidine-2-carboxylate(aq),,[],,,,,,
-5-oxo-D-proline(aq),kegg:C02237,[],,,chebi:16924,pubchem:5301,images/rdkit/5-oxo-D-proline(aq).gif,https://rest.kegg.jp/get/:/image
-urocanate(aq),kegg:C00785,[],,,chebi:27247,pubchem:4043,images/rdkit/urocanate(aq).gif,https://rest.kegg.jp/get/:/image
-"4,5-dihydro-4-oxo-5-imidazolepropanoate(aq)",kegg:C03680,[],,,chebi:27384,pubchem:6455,"images/rdkit/4,5-dihydro-4-oxo-5-imidazolepropanoate(aq).gif",https://rest.kegg.jp/get/:/image
-cis-but-2-enoyl-[acyl-carrier protein](aq),kegg:C04246,[],,,,pubchem:6911,,https://rest.kegg.jp/get/:/image
-"(2R,3S)-2,3-dimethylmalate(aq)",kegg:C03652,"['2,3-dimethylmalate(aq)', '(2R,3S)-2,3-dimethylmalate(aq)']",,,chebi:15582,pubchem:6432,"images/rdkit/(2R,3S)-2,3-dimethylmalate(aq).gif",https://rest.kegg.jp/get/:/image
-dimethylmaleate(aq),kegg:C00922,[],,,chebi:17081,pubchem:4176,images/rdkit/dimethylmaleate(aq).gif,https://rest.kegg.jp/get/:/image
-DL-3-hydroxybutanoyl-CoA(aq),kegg:C01144,"['(S)-3-hydroxybutanoyl-CoA(aq)', '(3S)-3-hydroxybutanoyl-CoA(aq)', 'DL-3-hydroxybutanoyl-CoA(aq)', '(3S)-hydroxybutanoyl-coenzyme A(aq)']",,,chebi:15453,pubchem:4375,,https://rest.kegg.jp/get/:/image
-L-threo-3-methylaspartate(aq),kegg:C03618,[],,,chebi:47980,pubchem:6402,images/rdkit/L-threo-3-methylaspartate(aq).gif,https://rest.kegg.jp/get/:/image
-L-histidine(aq),kegg:C00135,[],,,chebi:15971,pubchem:3435,images/rdkit/L-histidine(aq).gif,https://rest.kegg.jp/get/:/image
-L-phenylalanine(aq),kegg:C00079,[],,,chebi:17295,pubchem:3379,,https://rest.kegg.jp/get/:/image
-trans-cinnamate(aq),kegg:C00423,[],,,chebi:15669,pubchem:3713,,https://rest.kegg.jp/get/:/image
+5-oxo-D-proline(aq),kegg:C02237,[],,,chebi:16924,pubchem:5301,images/rdkit/5-oxo-D-proline(aq).gif,https://rest.kegg.jp/get/C02237/image
+urocanate(aq),kegg:C00785,[],,,chebi:27247,pubchem:4043,images/rdkit/urocanate(aq).gif,https://rest.kegg.jp/get/C00785/image
+"4,5-dihydro-4-oxo-5-imidazolepropanoate(aq)",kegg:C03680,[],,,chebi:27384,pubchem:6455,"images/rdkit/4,5-dihydro-4-oxo-5-imidazolepropanoate(aq).gif",https://rest.kegg.jp/get/C03680/image
+cis-but-2-enoyl-[acyl-carrier protein](aq),kegg:C04246,[],,,,pubchem:6911,,https://rest.kegg.jp/get/C04246/image
+"(2R,3S)-2,3-dimethylmalate(aq)",kegg:C03652,"['2,3-dimethylmalate(aq)', '(2R,3S)-2,3-dimethylmalate(aq)']",,,chebi:15582,pubchem:6432,"images/rdkit/(2R,3S)-2,3-dimethylmalate(aq).gif",https://rest.kegg.jp/get/C03652/image
+dimethylmaleate(aq),kegg:C00922,[],,,chebi:17081,pubchem:4176,images/rdkit/dimethylmaleate(aq).gif,https://rest.kegg.jp/get/C00922/image
+DL-3-hydroxybutanoyl-CoA(aq),kegg:C01144,"['(S)-3-hydroxybutanoyl-CoA(aq)', '(3S)-3-hydroxybutanoyl-CoA(aq)', 'DL-3-hydroxybutanoyl-CoA(aq)', '(3S)-hydroxybutanoyl-coenzyme A(aq)']",,,chebi:15453,pubchem:4375,,https://rest.kegg.jp/get/C01144/image
+L-threo-3-methylaspartate(aq),kegg:C03618,[],,,chebi:47980,pubchem:6402,images/rdkit/L-threo-3-methylaspartate(aq).gif,https://rest.kegg.jp/get/C03618/image
+L-histidine(aq),kegg:C00135,[],,,chebi:15971,pubchem:3435,images/rdkit/L-histidine(aq).gif,https://rest.kegg.jp/get/C00135/image
+L-phenylalanine(aq),kegg:C00079,[],,,chebi:17295,pubchem:3379,,https://rest.kegg.jp/get/C00079/image
+trans-cinnamate(aq),kegg:C00423,[],,,chebi:15669,pubchem:3713,,https://rest.kegg.jp/get/C00423/image
 beta-alanylpantetheine(aq),,[],,,,,,
 acrylylpantetheine(aq),,[],,,,,,
-N-(L-argino)succinate(aq),kegg:C03406,"['N-(L-argino)succinate(aq)', 'L-arginosuccinate(aq)']",,,chebi:15682,pubchem:6235,,https://rest.kegg.jp/get/:/image
-adenylosuccinate(aq),kegg:C03794,[],,,chebi:15919,pubchem:6543,,https://rest.kegg.jp/get/:/image
-1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole,kegg:C04823,[],,,chebi:18319,pubchem:7384,,https://rest.kegg.jp/get/:/image
-Fumarate,kegg:C00122,"['fumarate(aq)', 'Fumarate']",,,chebi:29806,pubchem:3422,,https://rest.kegg.jp/get/:/image
-1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide,kegg:C04677,[],,,chebi:18406,pubchem:7258,,https://rest.kegg.jp/get/:/image
-(R)-S-lactoylglutathione(aq),kegg:C03451,[],,,chebi:15694,pubchem:6272,,https://rest.kegg.jp/get/:/image
-glutathione (reduced)(aq),kegg:C00051,[],,,chebi:16856,pubchem:3353,,https://rest.kegg.jp/get/:/image
-methylglyoxal(aq),kegg:C00546,[],,,chebi:17158,pubchem:3827,,https://rest.kegg.jp/get/:/image
-L-lysine(aq),kegg:C00047,[],,,chebi:18019,pubchem:3349,,https://rest.kegg.jp/get/:/image
-D-lysine(aq),kegg:C00739,[],,,chebi:16855,pubchem:4002,,https://rest.kegg.jp/get/:/image
-"L,L-2,6-diaminoheptanedioate(aq)",kegg:C00666,[],,,chebi:47031,pubchem:3935,,https://rest.kegg.jp/get/:/image
-meso-diaminoheptanedioate(aq),kegg:C00680,[],,,chebi:30308,pubchem:3949,,https://rest.kegg.jp/get/:/image
-trans-4-hydroxy-L-proline(aq),kegg:C01157,[],,,chebi:18095,pubchem:4385,,https://rest.kegg.jp/get/:/image
-cis-4-hydroxy-D-proline(aq),kegg:C03440,[],,,chebi:16231,pubchem:6264,,https://rest.kegg.jp/get/:/image
-D-leucine(aq),kegg:C01570,[],,,chebi:28225,pubchem:4727,,https://rest.kegg.jp/get/:/image
+N-(L-argino)succinate(aq),kegg:C03406,"['N-(L-argino)succinate(aq)', 'L-arginosuccinate(aq)']",,,chebi:15682,pubchem:6235,,https://rest.kegg.jp/get/C03406/image
+adenylosuccinate(aq),kegg:C03794,[],,,chebi:15919,pubchem:6543,,https://rest.kegg.jp/get/C03794/image
+1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole,kegg:C04823,[],,,chebi:18319,pubchem:7384,,https://rest.kegg.jp/get/C04823/image
+Fumarate,kegg:C00122,"['fumarate(aq)', 'Fumarate']",,,chebi:29806,pubchem:3422,,https://rest.kegg.jp/get/C00122/image
+1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide,kegg:C04677,[],,,chebi:18406,pubchem:7258,,https://rest.kegg.jp/get/C04677/image
+(R)-S-lactoylglutathione(aq),kegg:C03451,[],,,chebi:15694,pubchem:6272,,https://rest.kegg.jp/get/C03451/image
+glutathione (reduced)(aq),kegg:C00051,[],,,chebi:16856,pubchem:3353,,https://rest.kegg.jp/get/C00051/image
+methylglyoxal(aq),kegg:C00546,[],,,chebi:17158,pubchem:3827,,https://rest.kegg.jp/get/C00546/image
+L-lysine(aq),kegg:C00047,[],,,chebi:18019,pubchem:3349,,https://rest.kegg.jp/get/C00047/image
+D-lysine(aq),kegg:C00739,[],,,chebi:16855,pubchem:4002,,https://rest.kegg.jp/get/C00739/image
+"L,L-2,6-diaminoheptanedioate(aq)",kegg:C00666,[],,,chebi:47031,pubchem:3935,,https://rest.kegg.jp/get/C00666/image
+meso-diaminoheptanedioate(aq),kegg:C00680,[],,,chebi:30308,pubchem:3949,,https://rest.kegg.jp/get/C00680/image
+trans-4-hydroxy-L-proline(aq),kegg:C01157,[],,,chebi:18095,pubchem:4385,,https://rest.kegg.jp/get/C01157/image
+cis-4-hydroxy-D-proline(aq),kegg:C03440,[],,,chebi:16231,pubchem:6264,,https://rest.kegg.jp/get/C03440/image
+D-leucine(aq),kegg:C01570,[],,,chebi:28225,pubchem:4727,,https://rest.kegg.jp/get/C01570/image
 L-alpha-amino-n-butyrate(aq),,[],,,,,,
 D-alpha-amino-n-butyrate(aq),,[],,,,,,
 UDP-D-quinovose(aq),,[],,,,,,
 UDP-D-fucose(aq),,[],,,,,,
-L-ribulose 5-phosphate(aq),kegg:C01101,[],,,chebi:17666,pubchem:4335,,https://rest.kegg.jp/get/:/image
-UDP-L-arabinose(aq),kegg:C00935,[],,,chebi:17983,pubchem:4187,,https://rest.kegg.jp/get/:/image
-UDP-D-xylose(aq),kegg:C00190,[],,,chebi:16082,pubchem:3490,,https://rest.kegg.jp/get/:/image
-UDP-D-galacturonate(aq),kegg:C00617,[],,,chebi:16085,pubchem:3891,,https://rest.kegg.jp/get/:/image
-N-acetyl-D-glucosamine(aq),kegg:C00140,[],,,chebi:506227,pubchem:3440,,https://rest.kegg.jp/get/:/image
-N-acetyl-D-glucosamine 6-phosphate(aq),kegg:C00357,[],,,chebi:15784,pubchem:3650,,https://rest.kegg.jp/get/:/image
-N-acetyl-D-mannosamine 6-phosphate(aq),kegg:C04257,[],,,chebi:62168,pubchem:6922,,https://rest.kegg.jp/get/:/image
-"CDP-3,6-dideoxy-D-glucose(aq)",kegg:C03598,[],,,chebi:70802,pubchem:6389,,https://rest.kegg.jp/get/:/image
-"CDP-3,6-dideoxy-D-mannose(aq)",kegg:C03599,[],,,chebi:88237,pubchem:6390,,https://rest.kegg.jp/get/:/image
-alpha-D-Glucose 6-phosphate(aq),kegg:C00668,[],,,chebi:17665,pubchem:3937,,https://rest.kegg.jp/get/:/image
-beta-D-Glucose 6-phosphate(aq),kegg:C01172,[],,,chebi:17719,pubchem:4399,,https://rest.kegg.jp/get/:/image
-GDP-L-galactose(aq),kegg:C02280,[],,,chebi:18038,pubchem:5337,,https://rest.kegg.jp/get/:/image
-(R)-methylmalonyl-CoA(aq),kegg:C01213,[],,,chebi:15465,pubchem:4435,,https://rest.kegg.jp/get/:/image
-(S)-methylmalonyl-CoA(aq),kegg:C00683,[],,,chebi:15466,pubchem:3952,,https://rest.kegg.jp/get/:/image
-all-trans-retinal(aq),kegg:C00376,"['vitamin A aldehyde(aq)', 'all-trans-retinal(aq)']",,,chebi:17898,pubchem:3666,images/rdkit/all-trans-retinal(aq).gif,https://rest.kegg.jp/get/:/image
-11-cis-retinal(aq),kegg:C02110,[],,,chebi:16066,pubchem:5192,images/rdkit/11-cis-retinal(aq).gif,https://rest.kegg.jp/get/:/image
-"9-cis,12-cis-octadecadienoate(aq)",kegg:C01595,[],,,chebi:30245,pubchem:4750,"images/rdkit/9-cis,12-cis-octadecadienoate(aq).gif",https://rest.kegg.jp/get/:/image
-"9-cis,11-trans-octadecadienoate(aq)",kegg:C04056,[],,,chebi:32798,pubchem:6756,"images/rdkit/9-cis,11-trans-octadecadienoate(aq).gif",https://rest.kegg.jp/get/:/image
-D-erythrose(aq),kegg:C01796,[],,,chebi:27904,pubchem:4923,images/rdkit/D-erythrose(aq).gif,https://rest.kegg.jp/get/:/image
-D-erythrulose(aq),kegg:C02022,[],,,chebi:23958,pubchem:5117,images/rdkit/D-erythrulose(aq).gif,https://rest.kegg.jp/get/:/image
-D-arabinose(aq),kegg:C00216,[],,,chebi:17108,pubchem:3516,images/rdkit/D-arabinose(aq).gif,https://rest.kegg.jp/get/:/image
-L-fucose(aq),kegg:C01019,[],,,chebi:2181,pubchem:4264,images/rdkit/L-fucose(aq).gif,https://rest.kegg.jp/get/:/image
-L-fuculose(aq),kegg:C01721,[],,,chebi:17617,pubchem:4858,images/rdkit/L-fuculose(aq).gif,https://rest.kegg.jp/get/:/image
-L-arabinose(aq),kegg:C00259,[],,,chebi:17535,pubchem:3558,images/rdkit/L-arabinose(aq).gif,https://rest.kegg.jp/get/:/image
-L-ribulose(aq),kegg:C00508,[],,,chebi:16880,pubchem:3791,images/rdkit/L-ribulose(aq).gif,https://rest.kegg.jp/get/:/image
--D-allose(aq),kegg:C01487,[],,,chebi:4093,pubchem:4657,,https://rest.kegg.jp/get/:/image
-D-altrose(aq),kegg:C06464,[],,,chebi:28385,pubchem:8696,images/rdkit/D-altrose(aq).gif,https://rest.kegg.jp/get/:/image
-D-lyxose(aq),kegg:C00476,[],,,chebi:16789,pubchem:3759,images/rdkit/D-lyxose(aq).gif,https://rest.kegg.jp/get/:/image
+L-ribulose 5-phosphate(aq),kegg:C01101,[],,,chebi:17666,pubchem:4335,,https://rest.kegg.jp/get/C01101/image
+UDP-L-arabinose(aq),kegg:C00935,[],,,chebi:17983,pubchem:4187,,https://rest.kegg.jp/get/C00935/image
+UDP-D-xylose(aq),kegg:C00190,[],,,chebi:16082,pubchem:3490,,https://rest.kegg.jp/get/C00190/image
+UDP-D-galacturonate(aq),kegg:C00617,[],,,chebi:16085,pubchem:3891,,https://rest.kegg.jp/get/C00617/image
+N-acetyl-D-glucosamine(aq),kegg:C00140,[],,,chebi:506227,pubchem:3440,,https://rest.kegg.jp/get/C00140/image
+N-acetyl-D-glucosamine 6-phosphate(aq),kegg:C00357,[],,,chebi:15784,pubchem:3650,,https://rest.kegg.jp/get/C00357/image
+N-acetyl-D-mannosamine 6-phosphate(aq),kegg:C04257,[],,,chebi:62168,pubchem:6922,,https://rest.kegg.jp/get/C04257/image
+"CDP-3,6-dideoxy-D-glucose(aq)",kegg:C03598,[],,,chebi:70802,pubchem:6389,,https://rest.kegg.jp/get/C03598/image
+"CDP-3,6-dideoxy-D-mannose(aq)",kegg:C03599,[],,,chebi:88237,pubchem:6390,,https://rest.kegg.jp/get/C03599/image
+alpha-D-Glucose 6-phosphate(aq),kegg:C00668,[],,,chebi:17665,pubchem:3937,,https://rest.kegg.jp/get/C00668/image
+beta-D-Glucose 6-phosphate(aq),kegg:C01172,[],,,chebi:17719,pubchem:4399,,https://rest.kegg.jp/get/C01172/image
+GDP-L-galactose(aq),kegg:C02280,[],,,chebi:18038,pubchem:5337,,https://rest.kegg.jp/get/C02280/image
+(R)-methylmalonyl-CoA(aq),kegg:C01213,[],,,chebi:15465,pubchem:4435,,https://rest.kegg.jp/get/C01213/image
+(S)-methylmalonyl-CoA(aq),kegg:C00683,[],,,chebi:15466,pubchem:3952,,https://rest.kegg.jp/get/C00683/image
+all-trans-retinal(aq),kegg:C00376,"['vitamin A aldehyde(aq)', 'all-trans-retinal(aq)']",,,chebi:17898,pubchem:3666,images/rdkit/all-trans-retinal(aq).gif,https://rest.kegg.jp/get/C00376/image
+11-cis-retinal(aq),kegg:C02110,[],,,chebi:16066,pubchem:5192,images/rdkit/11-cis-retinal(aq).gif,https://rest.kegg.jp/get/C02110/image
+"9-cis,12-cis-octadecadienoate(aq)",kegg:C01595,[],,,chebi:30245,pubchem:4750,"images/rdkit/9-cis,12-cis-octadecadienoate(aq).gif",https://rest.kegg.jp/get/C01595/image
+"9-cis,11-trans-octadecadienoate(aq)",kegg:C04056,[],,,chebi:32798,pubchem:6756,"images/rdkit/9-cis,11-trans-octadecadienoate(aq).gif",https://rest.kegg.jp/get/C04056/image
+D-erythrose(aq),kegg:C01796,[],,,chebi:27904,pubchem:4923,images/rdkit/D-erythrose(aq).gif,https://rest.kegg.jp/get/C01796/image
+D-erythrulose(aq),kegg:C02022,[],,,chebi:23958,pubchem:5117,images/rdkit/D-erythrulose(aq).gif,https://rest.kegg.jp/get/C02022/image
+D-arabinose(aq),kegg:C00216,[],,,chebi:17108,pubchem:3516,images/rdkit/D-arabinose(aq).gif,https://rest.kegg.jp/get/C00216/image
+L-fucose(aq),kegg:C01019,[],,,chebi:2181,pubchem:4264,images/rdkit/L-fucose(aq).gif,https://rest.kegg.jp/get/C01019/image
+L-fuculose(aq),kegg:C01721,[],,,chebi:17617,pubchem:4858,images/rdkit/L-fuculose(aq).gif,https://rest.kegg.jp/get/C01721/image
+L-arabinose(aq),kegg:C00259,[],,,chebi:17535,pubchem:3558,images/rdkit/L-arabinose(aq).gif,https://rest.kegg.jp/get/C00259/image
+L-ribulose(aq),kegg:C00508,[],,,chebi:16880,pubchem:3791,images/rdkit/L-ribulose(aq).gif,https://rest.kegg.jp/get/C00508/image
+-D-allose(aq),kegg:C01487,[],,,chebi:4093,pubchem:4657,,https://rest.kegg.jp/get/C01487/image
+D-altrose(aq),kegg:C06464,[],,,chebi:28385,pubchem:8696,images/rdkit/D-altrose(aq).gif,https://rest.kegg.jp/get/C06464/image
+D-lyxose(aq),kegg:C00476,[],,,chebi:16789,pubchem:3759,images/rdkit/D-lyxose(aq).gif,https://rest.kegg.jp/get/C00476/image
 D-rhamnose(aq),,[],,,,,images/rdkit/D-rhamnose(aq).gif,
 D-rhamnulose(aq),,[],,,,,images/rdkit/D-rhamnulose(aq).gif,
 6-amino-D-fructose 6-phosphate(aq),,[],,,,,images/rdkit/6-amino-D-fructose 6-phosphate(aq).gif,
-D-glucosamine 6-phosphate(aq),kegg:C00352,[],,,chebi:47987,pubchem:3645,images/rdkit/D-glucosamine 6-phosphate(aq).gif,https://rest.kegg.jp/get/:/image
-D-galacturonate(aq),kegg:C00333,[],,,chebi:12952,pubchem:3627,images/rdkit/D-galacturonate(aq).gif,https://rest.kegg.jp/get/:/image
-D-tagaturonate(aq),kegg:C00558,[],,,chebi:17886,pubchem:3838,images/rdkit/D-tagaturonate(aq).gif,https://rest.kegg.jp/get/:/image
-D-glucuronate(aq),kegg:C00191,[],,,chebi:15748,pubchem:3491,images/rdkit/D-glucuronate(aq).gif,https://rest.kegg.jp/get/:/image
-D-fructuronate(aq),kegg:C00905,[],,,chebi:4126,pubchem:4160,images/rdkit/D-fructuronate(aq).gif,https://rest.kegg.jp/get/:/image
-D-arabinose 5-phosphate(aq),kegg:C01112,[],,,chebi:16241,pubchem:4344,images/rdkit/D-arabinose 5-phosphate(aq).gif,https://rest.kegg.jp/get/:/image
-L-rhamnose(aq),kegg:C00507,[],,,chebi:62345,pubchem:3790,,https://rest.kegg.jp/get/:/image
-L-rhamnulose(aq),kegg:C00861,[],,,chebi:17897,pubchem:4118,images/rdkit/L-rhamnulose(aq).gif,https://rest.kegg.jp/get/:/image
+D-glucosamine 6-phosphate(aq),kegg:C00352,[],,,chebi:47987,pubchem:3645,images/rdkit/D-glucosamine 6-phosphate(aq).gif,https://rest.kegg.jp/get/C00352/image
+D-galacturonate(aq),kegg:C00333,[],,,chebi:12952,pubchem:3627,images/rdkit/D-galacturonate(aq).gif,https://rest.kegg.jp/get/C00333/image
+D-tagaturonate(aq),kegg:C00558,[],,,chebi:17886,pubchem:3838,images/rdkit/D-tagaturonate(aq).gif,https://rest.kegg.jp/get/C00558/image
+D-glucuronate(aq),kegg:C00191,[],,,chebi:15748,pubchem:3491,images/rdkit/D-glucuronate(aq).gif,https://rest.kegg.jp/get/C00191/image
+D-fructuronate(aq),kegg:C00905,[],,,chebi:4126,pubchem:4160,images/rdkit/D-fructuronate(aq).gif,https://rest.kegg.jp/get/C00905/image
+D-arabinose 5-phosphate(aq),kegg:C01112,[],,,chebi:16241,pubchem:4344,images/rdkit/D-arabinose 5-phosphate(aq).gif,https://rest.kegg.jp/get/C01112/image
+L-rhamnose(aq),kegg:C00507,[],,,chebi:62345,pubchem:3790,,https://rest.kegg.jp/get/C00507/image
+L-rhamnulose(aq),kegg:C00861,[],,,chebi:17897,pubchem:4118,images/rdkit/L-rhamnulose(aq).gif,https://rest.kegg.jp/get/C00861/image
 L-mannose(aq),,[],,,,,images/rdkit/L-mannose(aq).gif,
 L-fructose(aq),,[],,,,,images/rdkit/L-fructose(aq).gif,
-keto-phenylpyruvate(aq),kegg:C00166,"['keto-phenylpyruvate(aq)', 'phenylpyruvate(aq)']",,,chebi:18005,pubchem:3466,images/rdkit/keto-phenylpyruvate(aq).gif,https://rest.kegg.jp/get/:/image
-enol-phenylpyruvate(aq),kegg:C02763,[],,,chebi:16815,pubchem:5719,images/rdkit/enol-phenylpyruvate(aq).gif,https://rest.kegg.jp/get/:/image
-keto-oxaloacetate(aq),kegg:C00036,"['oxaloacetate(aq)', 'keto-oxaloacetate(aq)']",,,chebi:16452,pubchem:3338,images/rdkit/keto-oxaloacetate(aq).gif,https://rest.kegg.jp/get/:/image
-enol-oxaloacetate(aq),kegg:C03981,[],,,chebi:28394,pubchem:6698,images/rdkit/enol-oxaloacetate(aq).gif,https://rest.kegg.jp/get/:/image
-isopentenyl diphosphate(aq),kegg:C00129,[],,,chebi:16584,pubchem:3429,images/rdkit/isopentenyl diphosphate(aq).gif,https://rest.kegg.jp/get/:/image
-dimethylallyl diphosphate(aq),kegg:C00235,[],,,chebi:16057,pubchem:3534,images/rdkit/dimethylallyl diphosphate(aq).gif,https://rest.kegg.jp/get/:/image
-methylitaconate(aq),kegg:C02295,[],,,chebi:16093,pubchem:5351,images/rdkit/methylitaconate(aq).gif,https://rest.kegg.jp/get/:/image
-D-glucosamine 1-phosphate(aq),kegg:C06156,[],,,chebi:27625,pubchem:8412,images/rdkit/D-glucosamine 1-phosphate(aq).gif,https://rest.kegg.jp/get/:/image
-"D-glucose 1,6-diphosphate(aq)",kegg:C01231,[],,,chebi:18148,pubchem:4453,"images/rdkit/D-glucose 1,6-diphosphate(aq).gif",https://rest.kegg.jp/get/:/image
--D-glucose 6-phosphate(aq),kegg:C00092,"['D-glucose 6-phosphate(aq)', 'D-glucose 6-phosphate', '-D-glucose 6-phosphate(aq)']",,,chebi:4170,pubchem:3392,,https://rest.kegg.jp/get/:/image
+keto-phenylpyruvate(aq),kegg:C00166,"['keto-phenylpyruvate(aq)', 'phenylpyruvate(aq)']",,,chebi:18005,pubchem:3466,images/rdkit/keto-phenylpyruvate(aq).gif,https://rest.kegg.jp/get/C00166/image
+enol-phenylpyruvate(aq),kegg:C02763,[],,,chebi:16815,pubchem:5719,images/rdkit/enol-phenylpyruvate(aq).gif,https://rest.kegg.jp/get/C02763/image
+keto-oxaloacetate(aq),kegg:C00036,"['oxaloacetate(aq)', 'keto-oxaloacetate(aq)']",,,chebi:16452,pubchem:3338,images/rdkit/keto-oxaloacetate(aq).gif,https://rest.kegg.jp/get/C00036/image
+enol-oxaloacetate(aq),kegg:C03981,[],,,chebi:28394,pubchem:6698,images/rdkit/enol-oxaloacetate(aq).gif,https://rest.kegg.jp/get/C03981/image
+isopentenyl diphosphate(aq),kegg:C00129,[],,,chebi:16584,pubchem:3429,images/rdkit/isopentenyl diphosphate(aq).gif,https://rest.kegg.jp/get/C00129/image
+dimethylallyl diphosphate(aq),kegg:C00235,[],,,chebi:16057,pubchem:3534,images/rdkit/dimethylallyl diphosphate(aq).gif,https://rest.kegg.jp/get/C00235/image
+methylitaconate(aq),kegg:C02295,[],,,chebi:16093,pubchem:5351,images/rdkit/methylitaconate(aq).gif,https://rest.kegg.jp/get/C02295/image
+D-glucosamine 1-phosphate(aq),kegg:C06156,[],,,chebi:27625,pubchem:8412,images/rdkit/D-glucosamine 1-phosphate(aq).gif,https://rest.kegg.jp/get/C06156/image
+"D-glucose 1,6-diphosphate(aq)",kegg:C01231,[],,,chebi:18148,pubchem:4453,"images/rdkit/D-glucose 1,6-diphosphate(aq).gif",https://rest.kegg.jp/get/C01231/image
+-D-glucose 6-phosphate(aq),kegg:C00092,"['D-glucose 6-phosphate(aq)', 'D-glucose 6-phosphate', '-D-glucose 6-phosphate(aq)']",,,chebi:4170,pubchem:3392,,https://rest.kegg.jp/get/C00092/image
 6-thioglucose 6-phosphate(aq),,[],,,,,,
 6-thioglucose I-phosphate(aq),,[],,,,,,
-N-acetyl-D-glucosamine 1-phosphate(aq),kegg:C04256,"['N-acetyl--D-glucosamine 1-phosphate(aq)', 'N-acetyl-D-glucosamine 1-phosphate(aq)']",,,chebi:7125,pubchem:6921,images/rdkit/N-acetyl-D-glucosamine 1-phosphate(aq).gif,https://rest.kegg.jp/get/:/image
-"(3S)-3,6-diaminohexanoate(aq)",kegg:C01142,[],,,chebi:15613,pubchem:4373,"images/rdkit/(3S)-3,6-diaminohexanoate(aq).gif",https://rest.kegg.jp/get/:/image
-D-ornithine(aq),kegg:C00515,[],,,chebi:16176,pubchem:3798,images/rdkit/D-ornithine(aq).gif,https://rest.kegg.jp/get/:/image
-"D-threo-2,4-diaminopentanoate(aq)",kegg:C03943,"['2,4-diaminopentanoate(aq)', 'D-threo-2,4-diaminopentanoate(aq)']",,,chebi:4280,pubchem:6667,"images/rdkit/D-threo-2,4-diaminopentanoate(aq).gif",https://rest.kegg.jp/get/:/image
-2-methyleneglutarate(aq),kegg:C02930,[],,,chebi:17207,pubchem:5852,images/rdkit/2-methyleneglutarate(aq).gif,https://rest.kegg.jp/get/:/image
-"2,5-dihydro-5-oxofuran-2-acetate(aq)",kegg:C04105,[],,,chebi:18080,pubchem:6796,"images/rdkit/2,5-dihydro-5-oxofuran-2-acetate(aq).gif",https://rest.kegg.jp/get/:/image
-cis-cis-hexadienedioate(aq),kegg:C02480,[],,,chebi:16508,pubchem:5495,images/rdkit/cis-cis-hexadienedioate(aq).gif,https://rest.kegg.jp/get/:/image
-tetrahydroxypteridine(aq),kegg:C03178,[],,,chebi:17410,pubchem:6060,images/rdkit/tetrahydroxypteridine(aq).gif,https://rest.kegg.jp/get/:/image
-xanthine-8-carboxylate(aq),kegg:C03314,[],,,chebi:16806,pubchem:6167,images/rdkit/xanthine-8-carboxylate(aq).gif,https://rest.kegg.jp/get/:/image
-L-valine,kegg:C00183,"['L-valine', 'L-valine(aq)']",,,chebi:16414,pubchem:3483,images/rdkit/L-valine.gif,https://rest.kegg.jp/get/:/image
+N-acetyl-D-glucosamine 1-phosphate(aq),kegg:C04256,"['N-acetyl--D-glucosamine 1-phosphate(aq)', 'N-acetyl-D-glucosamine 1-phosphate(aq)']",,,chebi:7125,pubchem:6921,images/rdkit/N-acetyl-D-glucosamine 1-phosphate(aq).gif,https://rest.kegg.jp/get/C04256/image
+"(3S)-3,6-diaminohexanoate(aq)",kegg:C01142,[],,,chebi:15613,pubchem:4373,"images/rdkit/(3S)-3,6-diaminohexanoate(aq).gif",https://rest.kegg.jp/get/C01142/image
+D-ornithine(aq),kegg:C00515,[],,,chebi:16176,pubchem:3798,images/rdkit/D-ornithine(aq).gif,https://rest.kegg.jp/get/C00515/image
+"D-threo-2,4-diaminopentanoate(aq)",kegg:C03943,"['2,4-diaminopentanoate(aq)', 'D-threo-2,4-diaminopentanoate(aq)']",,,chebi:4280,pubchem:6667,"images/rdkit/D-threo-2,4-diaminopentanoate(aq).gif",https://rest.kegg.jp/get/C03943/image
+2-methyleneglutarate(aq),kegg:C02930,[],,,chebi:17207,pubchem:5852,images/rdkit/2-methyleneglutarate(aq).gif,https://rest.kegg.jp/get/C02930/image
+"2,5-dihydro-5-oxofuran-2-acetate(aq)",kegg:C04105,[],,,chebi:18080,pubchem:6796,"images/rdkit/2,5-dihydro-5-oxofuran-2-acetate(aq).gif",https://rest.kegg.jp/get/C04105/image
+cis-cis-hexadienedioate(aq),kegg:C02480,[],,,chebi:16508,pubchem:5495,images/rdkit/cis-cis-hexadienedioate(aq).gif,https://rest.kegg.jp/get/C02480/image
+tetrahydroxypteridine(aq),kegg:C03178,[],,,chebi:17410,pubchem:6060,images/rdkit/tetrahydroxypteridine(aq).gif,https://rest.kegg.jp/get/C03178/image
+xanthine-8-carboxylate(aq),kegg:C03314,[],,,chebi:16806,pubchem:6167,images/rdkit/xanthine-8-carboxylate(aq).gif,https://rest.kegg.jp/get/C03314/image
+L-valine,kegg:C00183,"['L-valine', 'L-valine(aq)']",,,chebi:16414,pubchem:3483,images/rdkit/L-valine.gif,https://rest.kegg.jp/get/C00183/image
 tRNA(Val),kegg:C01653,[],,,chebi:29183,pubchem:4802,,
-AMP,kegg:C00020,"['AMP(aq)', 'AMP-2--(aq)', 'AMP']",,,chebi:16027,pubchem:3322,images/rdkit/AMP.gif,https://rest.kegg.jp/get/:/image
-diphosphate,kegg:C00013,"['pyrophosphate(aq)', 'pyrophosphate', 'diphosphate(aq)', 'diphosphate']",,,chebi:18361,pubchem:3315,images/rdkit/diphosphate.gif,https://rest.kegg.jp/get/:/image
-L-Valyl-tRNA(Val),kegg:C02554,[],,,chebi:29164,pubchem:5555,,https://rest.kegg.jp/get/:/image
-propanonyl-CoA(aq),kegg:C00100,"['propanoyl-CoA(aq)', 'propionyl-CoA(aq)', 'propanonyl-CoA(aq)']",,,chebi:15539,pubchem:3400,,https://rest.kegg.jp/get/:/image
-L-arginosuccinate(aq),kegg:C03406,"['N-(L-argino)succinate(aq)', 'L-arginosuccinate(aq)']",,,chebi:15682,pubchem:6235,,https://rest.kegg.jp/get/:/image
-D-arabitol(aq),kegg:C01904,[],,,chebi:18333,pubchem:5013,,https://rest.kegg.jp/get/:/image
-D-carnitine(aq),kegg:C15025,[],,,chebi:11060,pubchem:17396022,,https://rest.kegg.jp/get/:/image
-prostaglandin E2(aq),kegg:C00584,[],,,chebi:15551,pubchem:3863,,https://rest.kegg.jp/get/:/image
-15-oxo-prostaglandin E2(aq),kegg:C04707,[],,,chebi:15547,pubchem:7280,,https://rest.kegg.jp/get/:/image
-H2O2(aq),kegg:C00027,"['H2O2(aq)', 'H2O2']",,,chebi:16240,pubchem:3329,,https://rest.kegg.jp/get/:/image
+AMP,kegg:C00020,"['AMP(aq)', 'AMP-2--(aq)', 'AMP']",,,chebi:16027,pubchem:3322,images/rdkit/AMP.gif,https://rest.kegg.jp/get/C00020/image
+diphosphate,kegg:C00013,"['pyrophosphate(aq)', 'pyrophosphate', 'diphosphate(aq)', 'diphosphate']",,,chebi:18361,pubchem:3315,images/rdkit/diphosphate.gif,https://rest.kegg.jp/get/C00013/image
+L-Valyl-tRNA(Val),kegg:C02554,[],,,chebi:29164,pubchem:5555,,https://rest.kegg.jp/get/C02554/image
+propanonyl-CoA(aq),kegg:C00100,"['propanoyl-CoA(aq)', 'propionyl-CoA(aq)', 'propanonyl-CoA(aq)']",,,chebi:15539,pubchem:3400,,https://rest.kegg.jp/get/C00100/image
+L-arginosuccinate(aq),kegg:C03406,"['N-(L-argino)succinate(aq)', 'L-arginosuccinate(aq)']",,,chebi:15682,pubchem:6235,,https://rest.kegg.jp/get/C03406/image
+D-arabitol(aq),kegg:C01904,[],,,chebi:18333,pubchem:5013,,https://rest.kegg.jp/get/C01904/image
+D-carnitine(aq),kegg:C15025,[],,,chebi:11060,pubchem:17396022,,https://rest.kegg.jp/get/C15025/image
+prostaglandin E2(aq),kegg:C00584,[],,,chebi:15551,pubchem:3863,,https://rest.kegg.jp/get/C00584/image
+15-oxo-prostaglandin E2(aq),kegg:C04707,[],,,chebi:15547,pubchem:7280,,https://rest.kegg.jp/get/C04707/image
+H2O2(aq),kegg:C00027,"['H2O2(aq)', 'H2O2']",,,chebi:16240,pubchem:3329,,https://rest.kegg.jp/get/C00027/image
 beta-D-glucose(aq),,[],,,,,,
-1/2 O2(aq),0.5 kegg:C00007,[],,,chebi:15379,pubchem:3309,,https://rest.kegg.jp/get/:/image
-cholesterol(aq),kegg:C00187,[],,,chebi:16113,pubchem:3487,,https://rest.kegg.jp/get/:/image
-cholest-4-en-3-one(aq),kegg:C00599,[],,,chebi:16175,pubchem:3875,,https://rest.kegg.jp/get/:/image
-prephenate(aq),kegg:C00254,[],,,chebi:29934,pubchem:3553,,https://rest.kegg.jp/get/:/image
-4-hydroxyphenylpyruvate(aq),kegg:C01179,[],,,chebi:36242,pubchem:4406,,https://rest.kegg.jp/get/:/image
+1/2 O2(aq),0.5 kegg:C00007,[],,,chebi:15379,pubchem:3309,,https://rest.kegg.jp/get/C00007/image
+cholesterol(aq),kegg:C00187,[],,,chebi:16113,pubchem:3487,,https://rest.kegg.jp/get/C00187/image
+cholest-4-en-3-one(aq),kegg:C00599,[],,,chebi:16175,pubchem:3875,,https://rest.kegg.jp/get/C00599/image
+prephenate(aq),kegg:C00254,[],,,chebi:29934,pubchem:3553,,https://rest.kegg.jp/get/C00254/image
+4-hydroxyphenylpyruvate(aq),kegg:C01179,[],,,chebi:36242,pubchem:4406,,https://rest.kegg.jp/get/C01179/image
 oxonic acid(aq),,[],,,,,,
 dihydroxonic acid(aq),,[],,,,,,
-lipoate(aq),kegg:C00725,"['-lipoate(aq)', 'lipoate(aq)']",,,chebi:16494,pubchem:3990,,https://rest.kegg.jp/get/:/image
+lipoate(aq),kegg:C00725,"['-lipoate(aq)', 'lipoate(aq)']",,,chebi:16494,pubchem:3990,,https://rest.kegg.jp/get/C00725/image
 S-aminomethyldihydro--lipoate(aq),metanetx.chemical:MNXM39260,[],,,,,,
-urate(aq),kegg:C00366,[],,,chebi:17775,pubchem:3657,,https://rest.kegg.jp/get/:/image
-allantoin(aq),kegg:C01551,[],,,chebi:15676,pubchem:4709,,https://rest.kegg.jp/get/:/image
-H2O2,kegg:C00027,"['H2O2(aq)', 'H2O2']",,,chebi:16240,pubchem:3329,,https://rest.kegg.jp/get/:/image
+urate(aq),kegg:C00366,[],,,chebi:17775,pubchem:3657,,https://rest.kegg.jp/get/C00366/image
+allantoin(aq),kegg:C01551,[],,,chebi:15676,pubchem:4709,,https://rest.kegg.jp/get/C01551/image
+H2O2,kegg:C00027,"['H2O2(aq)', 'H2O2']",,,chebi:16240,pubchem:3329,,https://rest.kegg.jp/get/C00027/image
 reduced thiocyanate,,[],,,,,,
 oxidized thiocyanate,,[],,,,,,
-dodecanal(aq),kegg:C02278,[],,,chebi:27836,pubchem:5336,,https://rest.kegg.jp/get/:/image
-FMN(reduced),kegg:C01847,[],,,chebi:16048,pubchem:4964,,https://rest.kegg.jp/get/:/image
-dodecanoic acid(aq),kegg:C02679,[],,,chebi:18262,pubchem:5649,,https://rest.kegg.jp/get/:/image
-FMN(oxidized),kegg:C00061,[],,,chebi:17621,pubchem:3361,,https://rest.kegg.jp/get/:/image
-(+)-camphor(aq),kegg:C00808,[],,,chebi:15396,pubchem:4066,,https://rest.kegg.jp/get/:/image
-(+)-5-exo-hydroxycamphor(aq),kegg:C03448,[],,,chebi:20570,pubchem:6270,,https://rest.kegg.jp/get/:/image
-CH2-H4PteGlu4(aq),kegg:C04377,[],,,chebi:16568,pubchem:7018,,https://rest.kegg.jp/get/:/image
-H4PteGlu4(aq),kegg:C01217,[],,,chebi:17321,pubchem:4439,,https://rest.kegg.jp/get/:/image
-O-acetyl-L-serine(aq),kegg:C00979,[],,,chebi:17981,pubchem:4228,,https://rest.kegg.jp/get/:/image
-phenylpyruvate(aq),kegg:C00166,"['keto-phenylpyruvate(aq)', 'phenylpyruvate(aq)']",,,chebi:18005,pubchem:3466,,https://rest.kegg.jp/get/:/image
-L-tyrosine(aq),kegg:C00082,[],,,chebi:17895,pubchem:3382,,https://rest.kegg.jp/get/:/image
-4-methyl-2-oxopentanooate(aq),kegg:C00233,"['4-methyl-2-oxopentanoate(aq)', '4-methyl-2-oxopentanooate(aq)', '2-oxoisocaproate(aq)']",,,chebi:17865,pubchem:3532,,https://rest.kegg.jp/get/:/image
-3-aminopropionaldehyde(aq),kegg:C05665,[],,,chebi:18090,pubchem:7975,,https://rest.kegg.jp/get/:/image
-"1,3-diaminopropane(aq)",kegg:C00986,[],,,chebi:15725,pubchem:4233,,https://rest.kegg.jp/get/:/image
--isomaltose(aq),kegg:C00252,"['isomaltose(aq)', '-isomaltose(aq)']",,,chebi:28189,pubchem:3551,,https://rest.kegg.jp/get/:/image
-amoxicillin(aq),kegg:C06827,[],,,chebi:2676,pubchem:9045,,https://rest.kegg.jp/get/:/image
-D-4-hydroxyphenylglycine(aq),kegg:C03493,"['D-4-hydroxyphenylglycine(aq)', 'D-(4-hydroxyphenyl)glycine(aq)']",,,chebi:15695,pubchem:6305,,https://rest.kegg.jp/get/:/image
-N-glycolylneuraminate(aq),kegg:C03410,[],,,chebi:29025,pubchem:6239,,https://rest.kegg.jp/get/:/image
-N-glycolyl-D-mannosamine(aq),kegg:C03521,[],,,chebi:28255,pubchem:6329,,https://rest.kegg.jp/get/:/image
-chorismate(aq),kegg:C00251,[],,,chebi:17333,pubchem:3550,,https://rest.kegg.jp/get/:/image
-4-hydroxybenzoate(aq),kegg:C00156,[],,,chebi:17879,pubchem:3456,,https://rest.kegg.jp/get/:/image
-"cyclohexa-1,5-diene-1-carboxyl-CoA(aq)",kegg:C06322,[],,,chebi:15520,pubchem:8558,,https://rest.kegg.jp/get/:/image
-6-hydroxycyclohex-1-ene-carboxyl-CoA(aq),kegg:C06749,[],,,chebi:15505,pubchem:8970,,https://rest.kegg.jp/get/:/image
+dodecanal(aq),kegg:C02278,[],,,chebi:27836,pubchem:5336,,https://rest.kegg.jp/get/C02278/image
+FMN(reduced),kegg:C01847,[],,,chebi:16048,pubchem:4964,,https://rest.kegg.jp/get/C01847/image
+dodecanoic acid(aq),kegg:C02679,[],,,chebi:18262,pubchem:5649,,https://rest.kegg.jp/get/C02679/image
+FMN(oxidized),kegg:C00061,[],,,chebi:17621,pubchem:3361,,https://rest.kegg.jp/get/C00061/image
+(+)-camphor(aq),kegg:C00808,[],,,chebi:15396,pubchem:4066,,https://rest.kegg.jp/get/C00808/image
+(+)-5-exo-hydroxycamphor(aq),kegg:C03448,[],,,chebi:20570,pubchem:6270,,https://rest.kegg.jp/get/C03448/image
+CH2-H4PteGlu4(aq),kegg:C04377,[],,,chebi:16568,pubchem:7018,,https://rest.kegg.jp/get/C04377/image
+H4PteGlu4(aq),kegg:C01217,[],,,chebi:17321,pubchem:4439,,https://rest.kegg.jp/get/C01217/image
+O-acetyl-L-serine(aq),kegg:C00979,[],,,chebi:17981,pubchem:4228,,https://rest.kegg.jp/get/C00979/image
+phenylpyruvate(aq),kegg:C00166,"['keto-phenylpyruvate(aq)', 'phenylpyruvate(aq)']",,,chebi:18005,pubchem:3466,,https://rest.kegg.jp/get/C00166/image
+L-tyrosine(aq),kegg:C00082,[],,,chebi:17895,pubchem:3382,,https://rest.kegg.jp/get/C00082/image
+4-methyl-2-oxopentanooate(aq),kegg:C00233,"['4-methyl-2-oxopentanoate(aq)', '4-methyl-2-oxopentanooate(aq)', '2-oxoisocaproate(aq)']",,,chebi:17865,pubchem:3532,,https://rest.kegg.jp/get/C00233/image
+3-aminopropionaldehyde(aq),kegg:C05665,[],,,chebi:18090,pubchem:7975,,https://rest.kegg.jp/get/C05665/image
+"1,3-diaminopropane(aq)",kegg:C00986,[],,,chebi:15725,pubchem:4233,,https://rest.kegg.jp/get/C00986/image
+-isomaltose(aq),kegg:C00252,"['isomaltose(aq)', '-isomaltose(aq)']",,,chebi:28189,pubchem:3551,,https://rest.kegg.jp/get/C00252/image
+amoxicillin(aq),kegg:C06827,[],,,chebi:2676,pubchem:9045,,https://rest.kegg.jp/get/C06827/image
+D-4-hydroxyphenylglycine(aq),kegg:C03493,"['D-4-hydroxyphenylglycine(aq)', 'D-(4-hydroxyphenyl)glycine(aq)']",,,chebi:15695,pubchem:6305,,https://rest.kegg.jp/get/C03493/image
+N-glycolylneuraminate(aq),kegg:C03410,[],,,chebi:29025,pubchem:6239,,https://rest.kegg.jp/get/C03410/image
+N-glycolyl-D-mannosamine(aq),kegg:C03521,[],,,chebi:28255,pubchem:6329,,https://rest.kegg.jp/get/C03521/image
+chorismate(aq),kegg:C00251,[],,,chebi:17333,pubchem:3550,,https://rest.kegg.jp/get/C00251/image
+4-hydroxybenzoate(aq),kegg:C00156,[],,,chebi:17879,pubchem:3456,,https://rest.kegg.jp/get/C00156/image
+"cyclohexa-1,5-diene-1-carboxyl-CoA(aq)",kegg:C06322,[],,,chebi:15520,pubchem:8558,,https://rest.kegg.jp/get/C06322/image
+6-hydroxycyclohex-1-ene-carboxyl-CoA(aq),kegg:C06749,[],,,chebi:15505,pubchem:8970,,https://rest.kegg.jp/get/C06749/image
 indol-3-yl-glycerol-3-phosphate(aq),,[],,,,,,
-H2o(l),kegg:C00001,"['H2O(l)', 'H2O', 'H2o(l)']",,,chebi:15377,pubchem:3303,,https://rest.kegg.jp/get/:/image
-4-amino-4-deoxychorismate(aq),kegg:C11355,[],,,chebi:35181,pubchem:13530,,https://rest.kegg.jp/get/:/image
-isochorismate(aq),kegg:C00885,[],,,chebi:29780,pubchem:4141,,https://rest.kegg.jp/get/:/image
-2-amino-2-deoxyisochorismate(aq),kegg:C18054,[],,,chebi:49197,pubchem:96024274,,https://rest.kegg.jp/get/:/image
+H2o(l),kegg:C00001,"['H2O(l)', 'H2O', 'H2o(l)']",,,chebi:15377,pubchem:3303,,https://rest.kegg.jp/get/C00001/image
+4-amino-4-deoxychorismate(aq),kegg:C11355,[],,,chebi:35181,pubchem:13530,,https://rest.kegg.jp/get/C11355/image
+isochorismate(aq),kegg:C00885,[],,,chebi:29780,pubchem:4141,,https://rest.kegg.jp/get/C00885/image
+2-amino-2-deoxyisochorismate(aq),kegg:C18054,[],,,chebi:49197,pubchem:96024274,,https://rest.kegg.jp/get/C18054/image
 2-benzyl-1-cyclohexanone(sln),,[],,,,,,
 2-propanol(sln),,[],,,,,,
 (±)-cis-2-benzyl-1-cyclohexanol(sln),,[],,,,,,
@@ -843,66 +843,66 @@ cyclopentanol(sln),,[],,,,,images/rdkit/cyclopentanol(sln).gif,
 (±)-cis-2-phenyl-1-pentanol(sln),,[],,,,,,
 1-phenyl-1-propanone(sln),,[],,,,,images/rdkit/1-phenyl-1-propanone(sln).gif,
 (±)-cis-2-phenyl-1-propanol(sln),,[],,,,,,
-NADP(ox)(aq),kegg:C00006,"['NADP(aq)', 'NADP(ox)(aq)', 'NADP(ox)']",,,chebi:18009,pubchem:3308,,https://rest.kegg.jp/get/:/image
-NADP(red)(aq),kegg:C00005,"['NADPH(aq)', 'NADP(red)(aq)']",,,chebi:16474,pubchem:3307,,https://rest.kegg.jp/get/:/image
-D-mannitol-1-phosphate(aq),kegg:C00644,"['D-mannitol 1-phosphate(aq)', 'D-mannitol-1-phosphate(aq)']",,,chebi:16298,pubchem:3917,,https://rest.kegg.jp/get/:/image
-NAD(ox)(aq),kegg:C00003,"['NAD(aq)', 'NAD', 'NAD(ox)(aq)', 'NAD(ox)', 'NAD+(aq)']",,,chebi:15846,pubchem:3305,,https://rest.kegg.jp/get/:/image
-NAD(red)(aq),kegg:C00004,"['NADH(aq)', 'NAD(red)(aq)', 'NAD(red)']",,,chebi:16908,pubchem:3306,,https://rest.kegg.jp/get/:/image
-D-2-hydroxy-n-butanoate(aq),kegg:C05984,"['2-hydroxybutanoate(aq)', 'D-2-hydroxy-n-butanoate(aq)']",,,chebi:1148,pubchem:8262,,https://rest.kegg.jp/get/:/image
+NADP(ox)(aq),kegg:C00006,"['NADP(aq)', 'NADP(ox)(aq)', 'NADP(ox)']",,,chebi:18009,pubchem:3308,,https://rest.kegg.jp/get/C00006/image
+NADP(red)(aq),kegg:C00005,"['NADPH(aq)', 'NADP(red)(aq)']",,,chebi:16474,pubchem:3307,,https://rest.kegg.jp/get/C00005/image
+D-mannitol-1-phosphate(aq),kegg:C00644,"['D-mannitol 1-phosphate(aq)', 'D-mannitol-1-phosphate(aq)']",,,chebi:16298,pubchem:3917,,https://rest.kegg.jp/get/C00644/image
+NAD(ox)(aq),kegg:C00003,"['NAD(aq)', 'NAD', 'NAD(ox)(aq)', 'NAD(ox)', 'NAD+(aq)']",,,chebi:15846,pubchem:3305,,https://rest.kegg.jp/get/C00003/image
+NAD(red)(aq),kegg:C00004,"['NADH(aq)', 'NAD(red)(aq)', 'NAD(red)']",,,chebi:16908,pubchem:3306,,https://rest.kegg.jp/get/C00004/image
+D-2-hydroxy-n-butanoate(aq),kegg:C05984,"['2-hydroxybutanoate(aq)', 'D-2-hydroxy-n-butanoate(aq)']",,,chebi:1148,pubchem:8262,,https://rest.kegg.jp/get/C05984/image
 "(2R,3R)-erythro-fluoromalate(aq)",,[],,,,,,
 (3R)-fluorooxaloacetate(aq),,[],,,,,,
 3-acetylpyridine adenine dinucleotide(ox)(aq),,[],,,,,,
 3-acetylpyridine adenine dinucleotide(red)(aq),,[],,,,,,
-pyridoxine(aq),kegg:C00314,[],,,chebi:16709,pubchem:3608,,https://rest.kegg.jp/get/:/image
-"(1R,2S)-1-hydroxybutane-1,2,4-tricarboxylate(aq)",kegg:C05662,[],,,chebi:30904,pubchem:7972,,https://rest.kegg.jp/get/:/image
-NAD(ox),kegg:C00003,"['NAD(aq)', 'NAD', 'NAD(ox)(aq)', 'NAD(ox)', 'NAD+(aq)']",,,chebi:15846,pubchem:3305,,https://rest.kegg.jp/get/:/image
-NAD(red),kegg:C00004,"['NADH(aq)', 'NAD(red)(aq)', 'NAD(red)']",,,chebi:16908,pubchem:3306,,https://rest.kegg.jp/get/:/image
+pyridoxine(aq),kegg:C00314,[],,,chebi:16709,pubchem:3608,,https://rest.kegg.jp/get/C00314/image
+"(1R,2S)-1-hydroxybutane-1,2,4-tricarboxylate(aq)",kegg:C05662,[],,,chebi:30904,pubchem:7972,,https://rest.kegg.jp/get/C05662/image
+NAD(ox),kegg:C00003,"['NAD(aq)', 'NAD', 'NAD(ox)(aq)', 'NAD(ox)', 'NAD+(aq)']",,,chebi:15846,pubchem:3305,,https://rest.kegg.jp/get/C00003/image
+NAD(red),kegg:C00004,"['NADH(aq)', 'NAD(red)(aq)', 'NAD(red)']",,,chebi:16908,pubchem:3306,,https://rest.kegg.jp/get/C00004/image
 dTDP-6-deoxy-L-lyxo-4-hexulose(aq),,[],,,,,,
 dTDP-L-rhamnose(aq),,[],,,,,,
 dTDP-6-deoxy-D-lyxo-4-hexulose(aq),,[],,,,,,
-(R)-pantoate(aq),kegg:C00522,"['pantoic acid', '(R)-pantoate(aq)']",,,chebi:15980,pubchem:3805,,https://rest.kegg.jp/get/:/image
-NADP(ox),kegg:C00006,"['NADP(aq)', 'NADP(ox)(aq)', 'NADP(ox)']",,,chebi:18009,pubchem:3308,,https://rest.kegg.jp/get/:/image
-2-dehydropantoate(aq),kegg:C00966,[],,,chebi:11561,pubchem:4217,,https://rest.kegg.jp/get/:/image
-2-keto-L-gulonate(aq),kegg:C15673,[],,,chebi:36602,pubchem:47204999,,https://rest.kegg.jp/get/:/image
-"2,5-diketo-D-gluconate(aq)",kegg:C02780,[],,,chebi:18281,pubchem:5731,,https://rest.kegg.jp/get/:/image
+(R)-pantoate(aq),kegg:C00522,"['pantoic acid', '(R)-pantoate(aq)']",,,chebi:15980,pubchem:3805,,https://rest.kegg.jp/get/C00522/image
+NADP(ox),kegg:C00006,"['NADP(aq)', 'NADP(ox)(aq)', 'NADP(ox)']",,,chebi:18009,pubchem:3308,,https://rest.kegg.jp/get/C00006/image
+2-dehydropantoate(aq),kegg:C00966,[],,,chebi:11561,pubchem:4217,,https://rest.kegg.jp/get/C00966/image
+2-keto-L-gulonate(aq),kegg:C15673,[],,,chebi:36602,pubchem:47204999,,https://rest.kegg.jp/get/C15673/image
+"2,5-diketo-D-gluconate(aq)",kegg:C02780,[],,,chebi:18281,pubchem:5731,,https://rest.kegg.jp/get/C02780/image
 4-dimethylaminomethylbenzylamine(aq),,[],,,,,,
 4-dimethylaminomethylbenzaldehyde(aq),,[],,,,,,
-"N6-(L-1,3-dicarboxypropyl)-L-lysine",kegg:C00449,[],,,chebi:16927,pubchem:3737,,https://rest.kegg.jp/get/:/image
-glutathoine(red)(aq),2 kegg:C00051,"['reduced glutathione(aq)', 'glutathoine(red)(aq)']",,,chebi:16856,pubchem:3353,,https://rest.kegg.jp/get/:/image
-glutathoine(ox)(aq),kegg:C00127,"['oxidized glutathione(aq)', 'glutathoine(ox)(aq)']",,,chebi:17858,pubchem:3427,,https://rest.kegg.jp/get/:/image
+"N6-(L-1,3-dicarboxypropyl)-L-lysine",kegg:C00449,[],,,chebi:16927,pubchem:3737,,https://rest.kegg.jp/get/C00449/image
+glutathoine(red)(aq),2 kegg:C00051,"['reduced glutathione(aq)', 'glutathoine(red)(aq)']",,,chebi:16856,pubchem:3353,,https://rest.kegg.jp/get/C00051/image
+glutathoine(ox)(aq),kegg:C00127,"['oxidized glutathione(aq)', 'glutathoine(ox)(aq)']",,,chebi:17858,pubchem:3427,,https://rest.kegg.jp/get/C00127/image
 glutathione(red)(ox),,[],,,,,,
 glutathione(ox)(aq),,[],,,,,,
-O2-,2 kegg:C00704,[],,,chebi:18421,pubchem:3971,,https://rest.kegg.jp/get/:/image
-O2,kegg:C00007,"['O2(aq)', 'O2']",,,chebi:15379,pubchem:3309,,https://rest.kegg.jp/get/:/image
+O2-,2 kegg:C00704,[],,,chebi:18421,pubchem:3971,,https://rest.kegg.jp/get/C00704/image
+O2,kegg:C00007,"['O2(aq)', 'O2']",,,chebi:15379,pubchem:3309,,https://rest.kegg.jp/get/C00007/image
 methyl viologen(red)(aq),,[],,,,,,
 methyl viologen(ox)(aq),,[],,,,,,
 H2(g),,[],,,,,,
-(R)-3-hydroxytetradecanoyl-[acyl-carrier-protein](aq),kegg:C04688,[],,,,pubchem:7269,,https://rest.kegg.jp/get/:/image
+(R)-3-hydroxytetradecanoyl-[acyl-carrier-protein](aq),kegg:C04688,[],,,,pubchem:7269,,https://rest.kegg.jp/get/C04688/image
 acyl-carrier-protein(aq),kegg:C03688,[],,,chebi:16139,pubchem:6463,,
-UDP-3-O-(3-hydroxytetradecanoyl)-N-acetyl-D-glucosamine(aq),kegg:C04738,[],,,chebi:61537,pubchem:7309,,https://rest.kegg.jp/get/:/image
-corrinoid protein(aq),kegg:C06021,[],,,chebi:33913,pubchem:8293,,https://rest.kegg.jp/get/:/image
-carbon monoxide(aq),kegg:C00237,[],,,chebi:17245,pubchem:3536,,https://rest.kegg.jp/get/:/image
-methylcorrinoid protein(aq),kegg:C06020,[],,,,pubchem:8292,,https://rest.kegg.jp/get/:/image
-'-deoxyinosine(aq),kegg:C05512,"[""2'-deoxyinosine(aq)"", ""'-deoxyinosine(aq)""]",,,chebi:28997,pubchem:7859,,https://rest.kegg.jp/get/:/image
-orotidine 5 '-phosphate(aq),kegg:C01103,"[""orotidine 5'-phosphate(aq)"", ""orotidine 5 '-phosphate(aq)""]",,,chebi:15842,pubchem:4337,,https://rest.kegg.jp/get/:/image
-Nicotinate D-ribonucleotide(aq),kegg:C01185,[],,,chebi:15763,pubchem:4411,,https://rest.kegg.jp/get/:/image
-nicotinic acid(aq),kegg:C00253,[],,,chebi:32544,pubchem:3552,,https://rest.kegg.jp/get/:/image
-5-Phospho-alpha-D-ribose 1-diphosphate(aq),kegg:C00119,"['5-phospho--D-ribose 1-diphosphate(aq)', '5-Phospho-alpha-D-ribose 1-diphosphate(aq)']",,,chebi:17111,pubchem:3419,,https://rest.kegg.jp/get/:/image
-'-methylthioadenosine(aq),kegg:C00170,[],,,chebi:17509,pubchem:3470,,https://rest.kegg.jp/get/:/image
-5-methylthio-D-ribose 1-phosphate(aq),kegg:C04188,[],,,chebi:27859,pubchem:6864,,https://rest.kegg.jp/get/:/image
-(2-aminoethyl)phosphonate(aq),kegg:C03557,[],,,chebi:15573,pubchem:6353,,https://rest.kegg.jp/get/:/image
-2-phosphonoacetaldehyde(aq),kegg:C03167,[],,,chebi:18124,pubchem:6050,,https://rest.kegg.jp/get/:/image
-2-oxoisocaproate(aq),kegg:C00233,"['4-methyl-2-oxopentanoate(aq)', '4-methyl-2-oxopentanooate(aq)', '2-oxoisocaproate(aq)']",,,chebi:17865,pubchem:3532,,https://rest.kegg.jp/get/:/image
+UDP-3-O-(3-hydroxytetradecanoyl)-N-acetyl-D-glucosamine(aq),kegg:C04738,[],,,chebi:61537,pubchem:7309,,https://rest.kegg.jp/get/C04738/image
+corrinoid protein(aq),kegg:C06021,[],,,chebi:33913,pubchem:8293,,https://rest.kegg.jp/get/C06021/image
+carbon monoxide(aq),kegg:C00237,[],,,chebi:17245,pubchem:3536,,https://rest.kegg.jp/get/C00237/image
+methylcorrinoid protein(aq),kegg:C06020,[],,,,pubchem:8292,,https://rest.kegg.jp/get/C06020/image
+'-deoxyinosine(aq),kegg:C05512,"[""2'-deoxyinosine(aq)"", ""'-deoxyinosine(aq)""]",,,chebi:28997,pubchem:7859,,https://rest.kegg.jp/get/C05512/image
+orotidine 5 '-phosphate(aq),kegg:C01103,"[""orotidine 5'-phosphate(aq)"", ""orotidine 5 '-phosphate(aq)""]",,,chebi:15842,pubchem:4337,,https://rest.kegg.jp/get/C01103/image
+Nicotinate D-ribonucleotide(aq),kegg:C01185,[],,,chebi:15763,pubchem:4411,,https://rest.kegg.jp/get/C01185/image
+nicotinic acid(aq),kegg:C00253,[],,,chebi:32544,pubchem:3552,,https://rest.kegg.jp/get/C00253/image
+5-Phospho-alpha-D-ribose 1-diphosphate(aq),kegg:C00119,"['5-phospho--D-ribose 1-diphosphate(aq)', '5-Phospho-alpha-D-ribose 1-diphosphate(aq)']",,,chebi:17111,pubchem:3419,,https://rest.kegg.jp/get/C00119/image
+'-methylthioadenosine(aq),kegg:C00170,[],,,chebi:17509,pubchem:3470,,https://rest.kegg.jp/get/C00170/image
+5-methylthio-D-ribose 1-phosphate(aq),kegg:C04188,[],,,chebi:27859,pubchem:6864,,https://rest.kegg.jp/get/C04188/image
+(2-aminoethyl)phosphonate(aq),kegg:C03557,[],,,chebi:15573,pubchem:6353,,https://rest.kegg.jp/get/C03557/image
+2-phosphonoacetaldehyde(aq),kegg:C03167,[],,,chebi:18124,pubchem:6050,,https://rest.kegg.jp/get/C03167/image
+2-oxoisocaproate(aq),kegg:C00233,"['4-methyl-2-oxopentanoate(aq)', '4-methyl-2-oxopentanooate(aq)', '2-oxoisocaproate(aq)']",,,chebi:17865,pubchem:3532,,https://rest.kegg.jp/get/C00233/image
 L-tert-leucine(aq),,[],,,,,,
 "3,3-dimethyl-2-oxobutanoate(aq)",,[],,,,,,
-L-valine(aq),kegg:C00183,"['L-valine', 'L-valine(aq)']",,,chebi:16414,pubchem:3483,,https://rest.kegg.jp/get/:/image
-2-oxovalerate(aq),kegg:C06255,[],,,chebi:33033,pubchem:8494,,https://rest.kegg.jp/get/:/image
+L-valine(aq),kegg:C00183,"['L-valine', 'L-valine(aq)']",,,chebi:16414,pubchem:3483,,https://rest.kegg.jp/get/C00183/image
+2-oxovalerate(aq),kegg:C06255,[],,,chebi:33033,pubchem:8494,,https://rest.kegg.jp/get/C06255/image
 serpeptide(aq),,[],,,,,,
 phosphorylated serpeptide(aq),,[],,,,,,
 syntide 2(aq),,[],,,,,,
 phosphosyntide(aq),,[],,,,,,
-myosin light chain(aq),kegg:C01003,[],,,,pubchem:4249,,https://rest.kegg.jp/get/:/image
-myosin light chain phosphate(aq),kegg:C03875,[],,,,pubchem:6609,,https://rest.kegg.jp/get/:/image
+myosin light chain(aq),kegg:C01003,[],,,,pubchem:4249,,https://rest.kegg.jp/get/C01003/image
+myosin light chain phosphate(aq),kegg:C03875,[],,,,pubchem:6609,,https://rest.kegg.jp/get/C03875/image
 2-aminobenzoic acid(aq) ,,[],,,,,,
 2-aminobenzoic acid adenylate(aq),,[],,,,,,
 3-aminobenzoic acid(aq) ,,[],,,,,,
@@ -925,8 +925,8 @@ benzoic acid adenylate(aq),,[],,,,,,
 3-methylbenzoic acid adenylate(aq),,[],,,,,,
 4-methylbenzoic acid(aq),,[],,,,,images/rdkit/4-methylbenzoic acid(aq).gif,
 4-methylbenzoic acid adenylate(aq),,[],,,,,,
-Nomega-phospho-L-arginine(aq),kegg:C05945,"['N-w-phospho-L-arginine(aq)', 'Nomega-phospho-L-arginine(aq)']",,,chebi:18412,pubchem:8229,images/rdkit/Nomega-phospho-L-arginine(aq).gif,https://rest.kegg.jp/get/:/image
-adenylylsulfate(aq),kegg:C00224,"[""adenosine 5'-phosphosulfate(aq)"", 'adenylyl sulfate(aq)', 'adenylylsulfate(aq)']",,,chebi:17709,pubchem:3524,images/rdkit/adenylylsulfate(aq).gif,https://rest.kegg.jp/get/:/image
+Nomega-phospho-L-arginine(aq),kegg:C05945,"['N-w-phospho-L-arginine(aq)', 'Nomega-phospho-L-arginine(aq)']",,,chebi:18412,pubchem:8229,images/rdkit/Nomega-phospho-L-arginine(aq).gif,https://rest.kegg.jp/get/C05945/image
+adenylylsulfate(aq),kegg:C00224,"[""adenosine 5'-phosphosulfate(aq)"", 'adenylyl sulfate(aq)', 'adenylylsulfate(aq)']",,,chebi:17709,pubchem:3524,images/rdkit/adenylylsulfate(aq).gif,https://rest.kegg.jp/get/C00224/image
 deoxynucleoside triphosphate(aq),,[],,,,,,
 polyd-A-Tn(aq),,[],,,,,,
 polyd-A-Tn+1(aq),,[],,,,,,
@@ -967,8 +967,8 @@ trans-2-hydroxycyclopentanemethanol-phosphate(aq),,[],,,,,,
 2-methoxy-3-hydroxypropyl phosphate(aq),,[],,,,,,
 5-methyltrimethylene phosphate(aq),,[],,,,,,
 2-methyl-3-hydroxypropyl phosphate(aq),,[],,,,,,
-"guanosine 3 ',5 '-cyclic phosphate(aq)",kegg:C00942,"[""guanosine 3':5'-(cyclic)phosphate(aq)"", ""guanosine 3 ',5 '-cyclic phosphate(aq)""]",,,chebi:16356,pubchem:4194,,https://rest.kegg.jp/get/:/image
-guanosine 5 '-phosphate(aq),kegg:C00144,"['GMP(aq)', ""guanosine 5 '-phosphate(aq)""]",,,chebi:17345,pubchem:3444,,https://rest.kegg.jp/get/:/image
+"guanosine 3 ',5 '-cyclic phosphate(aq)",kegg:C00942,"[""guanosine 3':5'-(cyclic)phosphate(aq)"", ""guanosine 3 ',5 '-cyclic phosphate(aq)""]",,,chebi:16356,pubchem:4194,,https://rest.kegg.jp/get/C00942/image
+guanosine 5 '-phosphate(aq),kegg:C00144,"['GMP(aq)', ""guanosine 5 '-phosphate(aq)""]",,,chebi:17345,pubchem:3444,,https://rest.kegg.jp/get/C00144/image
 4-nitrophenyl acetate(aq),,[],,,,,,
 succinylAla-Ala-Pro-Leu-4-nitrophenylanalide(aq),,[],,,,,,
 succinylAla-Ala-Pro-Leu(aq),,[],,,,,,
@@ -976,7 +976,7 @@ succinylAla-Ala-Pro-Leu(aq),,[],,,,,,
 succinylAla-Ala-Pro-Phe-4-nitrophenylanalide(aq),,[],,,,,,
 succinylAla-Ala-Pro-Phe(aq),,[],,,,,,
 4-nitrophenylanalide(aq),,[],,,,,,
-D-(4-hydroxyphenyl)glycine(aq),kegg:C03493,"['D-4-hydroxyphenylglycine(aq)', 'D-(4-hydroxyphenyl)glycine(aq)']",,,chebi:15695,pubchem:6305,,https://rest.kegg.jp/get/:/image
+D-(4-hydroxyphenyl)glycine(aq),kegg:C03493,"['D-4-hydroxyphenylglycine(aq)', 'D-(4-hydroxyphenyl)glycine(aq)']",,,chebi:15695,pubchem:6305,,https://rest.kegg.jp/get/C03493/image
 cefamandole(aq),,[],,,,,,
 7-amino-3-1-methyl-IIItetrazol-5-yl-thiomethyl-cephalosporanic acid(aq),,[],,,,,,
 D-mandelic acid(aq),,[],,,,,,
@@ -988,66 +988,66 @@ L-cysteine(aq),,[],,,,,,
 N-acetyl-L-norleucine(aq),,[],,,,,,
 L-norleucine(aq),,[],,,,,,
 N-acetyl-L-valine(aq),,[],,,,,,
-N-acetyl-L-phenylalanine(aq),kegg:C03519,[],,,chebi:16259,pubchem:6328,,https://rest.kegg.jp/get/:/image
-anandamide(aq),kegg:C11695,[],,,chebi:2700,pubchem:13860,,https://rest.kegg.jp/get/:/image
-ethanolamine(aq),kegg:C00189,[],,,chebi:16000,pubchem:3489,,https://rest.kegg.jp/get/:/image
-arachidonic acid(aq),kegg:C00219,[],,,chebi:15843,pubchem:3519,,https://rest.kegg.jp/get/:/image
-palmitoylethanolamide(aq),kegg:C16512,[],,,chebi:71464,pubchem:49661772,,https://rest.kegg.jp/get/:/image
-palmitic acid(aq),kegg:C00249,"['palmitate(aq)', 'palmitic acid(aq)']",,,chebi:15756,pubchem:3548,,https://rest.kegg.jp/get/:/image
-"5,6-dihydrouracil(aq)",kegg:C00429,[],,,chebi:15901,pubchem:3718,,https://rest.kegg.jp/get/:/image
-3-ureidopropanoic acid(aq),kegg:C02642,[],,,chebi:18261,pubchem:5621,,https://rest.kegg.jp/get/:/image
-"((2R,3S,4R,5R)-5-(2-amino-5-formamido-6-oxo-3,6-dihydropyrimidin-4-ylamino)-3,4-dihydroxytetrahydrofuran-2-yl)methyl tetrahydrogen triphosphate(aq)",kegg:C05922,[],,,,pubchem:8210,,https://rest.kegg.jp/get/:/image
-benzonitrile(aq),kegg:C09814,[],,,chebi:27991,pubchem:12002,,https://rest.kegg.jp/get/:/image
-H2O(aq),2 kegg:C00001,[],,,chebi:15377,pubchem:3303,,https://rest.kegg.jp/get/:/image
-benzoic acid(aq),kegg:C00180,[],,,chebi:16150,pubchem:3480,,https://rest.kegg.jp/get/:/image
-benzyl cyanide(aq),kegg:C16074,[],,,chebi:25979,pubchem:47205384,,https://rest.kegg.jp/get/:/image
-3-indoleacetonitrile(aq),kegg:C02938,[],,,chebi:17566,pubchem:5857,,https://rest.kegg.jp/get/:/image
-indole-3-acetic acid(aq),kegg:C00954,[],,,chebi:16411,pubchem:4205,,https://rest.kegg.jp/get/:/image
-"D-ribulose 1,5-bisphosphate(aq)",kegg:C01182,"['D-ribulose 1,5-biphosphate(aq)', 'D-ribulose 1,5-bisphosphate(aq)']",,,chebi:16710,pubchem:4409,,https://rest.kegg.jp/get/:/image
-2-dehydro-3-deoxy-D-arabino-heptonate 7-phosphate(aq),kegg:C04691,[],,,chebi:18150,pubchem:7271,,https://rest.kegg.jp/get/:/image
-2-oxo-3-deoxy-D-gluconate(aq),kegg:C00204,[],,,chebi:17032,pubchem:3504,,https://rest.kegg.jp/get/:/image
-anthranilate(aq),kegg:C00108,[],,,chebi:16567,pubchem:3408,,https://rest.kegg.jp/get/:/image
-(3S)-hydroxybutanoyl-coenzyme A(aq),kegg:C01144,"['(S)-3-hydroxybutanoyl-CoA(aq)', '(3S)-3-hydroxybutanoyl-CoA(aq)', 'DL-3-hydroxybutanoyl-CoA(aq)', '(3S)-hydroxybutanoyl-coenzyme A(aq)']",,,chebi:15453,pubchem:4375,,https://rest.kegg.jp/get/:/image
-trans-but-2-enoyl-coenzyme A,kegg:C00877,"['cis-but-2-enoyl-CoA(aq)', 'trans-but-2-enoyl-CoA(aq)', 'trans-but-2-enoyl-coenzyme A']",,,chebi:36926,pubchem:4133,images/rdkit/trans-but-2-enoyl-coenzyme A.gif,https://rest.kegg.jp/get/:/image
-4-(trimethylammonio)but-2-enoate(aq),kegg:C04114,[],,,chebi:17237,pubchem:6803,images/rdkit/4-(trimethylammonio)but-2-enoate(aq).gif,https://rest.kegg.jp/get/:/image
-UDP-N-acetyl-D-galactosamine(aq),kegg:C00203,[],,,chebi:67168,pubchem:3503,images/rdkit/UDP-N-acetyl-D-galactosamine(aq).gif,https://rest.kegg.jp/get/:/image
-D-threose(aq),kegg:C06463,[],,,chebi:28587,pubchem:8695,images/rdkit/D-threose(aq).gif,https://rest.kegg.jp/get/:/image
-"(3,5)-cholesta-7,24-diene-3-ol(aq)",kegg:C05439,[],,,chebi:16290,pubchem:7801,,https://rest.kegg.jp/get/:/image
-"(3,5)-cholesta-8,24-diene-3-ol(aq)",kegg:C05437,[],,,chebi:18252,pubchem:7800,,https://rest.kegg.jp/get/:/image
-3-phosphonopyruvate(aq),kegg:C02798,[],,,chebi:30935,pubchem:5748,images/rdkit/3-phosphonopyruvate(aq).gif,https://rest.kegg.jp/get/:/image
+N-acetyl-L-phenylalanine(aq),kegg:C03519,[],,,chebi:16259,pubchem:6328,,https://rest.kegg.jp/get/C03519/image
+anandamide(aq),kegg:C11695,[],,,chebi:2700,pubchem:13860,,https://rest.kegg.jp/get/C11695/image
+ethanolamine(aq),kegg:C00189,[],,,chebi:16000,pubchem:3489,,https://rest.kegg.jp/get/C00189/image
+arachidonic acid(aq),kegg:C00219,[],,,chebi:15843,pubchem:3519,,https://rest.kegg.jp/get/C00219/image
+palmitoylethanolamide(aq),kegg:C16512,[],,,chebi:71464,pubchem:49661772,,https://rest.kegg.jp/get/C16512/image
+palmitic acid(aq),kegg:C00249,"['palmitate(aq)', 'palmitic acid(aq)']",,,chebi:15756,pubchem:3548,,https://rest.kegg.jp/get/C00249/image
+"5,6-dihydrouracil(aq)",kegg:C00429,[],,,chebi:15901,pubchem:3718,,https://rest.kegg.jp/get/C00429/image
+3-ureidopropanoic acid(aq),kegg:C02642,[],,,chebi:18261,pubchem:5621,,https://rest.kegg.jp/get/C02642/image
+"((2R,3S,4R,5R)-5-(2-amino-5-formamido-6-oxo-3,6-dihydropyrimidin-4-ylamino)-3,4-dihydroxytetrahydrofuran-2-yl)methyl tetrahydrogen triphosphate(aq)",kegg:C05922,[],,,,pubchem:8210,,https://rest.kegg.jp/get/C05922/image
+benzonitrile(aq),kegg:C09814,[],,,chebi:27991,pubchem:12002,,https://rest.kegg.jp/get/C09814/image
+H2O(aq),2 kegg:C00001,[],,,chebi:15377,pubchem:3303,,https://rest.kegg.jp/get/C00001/image
+benzoic acid(aq),kegg:C00180,[],,,chebi:16150,pubchem:3480,,https://rest.kegg.jp/get/C00180/image
+benzyl cyanide(aq),kegg:C16074,[],,,chebi:25979,pubchem:47205384,,https://rest.kegg.jp/get/C16074/image
+3-indoleacetonitrile(aq),kegg:C02938,[],,,chebi:17566,pubchem:5857,,https://rest.kegg.jp/get/C02938/image
+indole-3-acetic acid(aq),kegg:C00954,[],,,chebi:16411,pubchem:4205,,https://rest.kegg.jp/get/C00954/image
+"D-ribulose 1,5-bisphosphate(aq)",kegg:C01182,"['D-ribulose 1,5-biphosphate(aq)', 'D-ribulose 1,5-bisphosphate(aq)']",,,chebi:16710,pubchem:4409,,https://rest.kegg.jp/get/C01182/image
+2-dehydro-3-deoxy-D-arabino-heptonate 7-phosphate(aq),kegg:C04691,[],,,chebi:18150,pubchem:7271,,https://rest.kegg.jp/get/C04691/image
+2-oxo-3-deoxy-D-gluconate(aq),kegg:C00204,[],,,chebi:17032,pubchem:3504,,https://rest.kegg.jp/get/C00204/image
+anthranilate(aq),kegg:C00108,[],,,chebi:16567,pubchem:3408,,https://rest.kegg.jp/get/C00108/image
+(3S)-hydroxybutanoyl-coenzyme A(aq),kegg:C01144,"['(S)-3-hydroxybutanoyl-CoA(aq)', '(3S)-3-hydroxybutanoyl-CoA(aq)', 'DL-3-hydroxybutanoyl-CoA(aq)', '(3S)-hydroxybutanoyl-coenzyme A(aq)']",,,chebi:15453,pubchem:4375,,https://rest.kegg.jp/get/C01144/image
+trans-but-2-enoyl-coenzyme A,kegg:C00877,"['cis-but-2-enoyl-CoA(aq)', 'trans-but-2-enoyl-CoA(aq)', 'trans-but-2-enoyl-coenzyme A']",,,chebi:36926,pubchem:4133,images/rdkit/trans-but-2-enoyl-coenzyme A.gif,https://rest.kegg.jp/get/C00877/image
+4-(trimethylammonio)but-2-enoate(aq),kegg:C04114,[],,,chebi:17237,pubchem:6803,images/rdkit/4-(trimethylammonio)but-2-enoate(aq).gif,https://rest.kegg.jp/get/C04114/image
+UDP-N-acetyl-D-galactosamine(aq),kegg:C00203,[],,,chebi:67168,pubchem:3503,images/rdkit/UDP-N-acetyl-D-galactosamine(aq).gif,https://rest.kegg.jp/get/C00203/image
+D-threose(aq),kegg:C06463,[],,,chebi:28587,pubchem:8695,images/rdkit/D-threose(aq).gif,https://rest.kegg.jp/get/C06463/image
+"(3,5)-cholesta-7,24-diene-3-ol(aq)",kegg:C05439,[],,,chebi:16290,pubchem:7801,,https://rest.kegg.jp/get/C05439/image
+"(3,5)-cholesta-8,24-diene-3-ol(aq)",kegg:C05437,[],,,chebi:18252,pubchem:7800,,https://rest.kegg.jp/get/C05437/image
+3-phosphonopyruvate(aq),kegg:C02798,[],,,chebi:30935,pubchem:5748,images/rdkit/3-phosphonopyruvate(aq).gif,https://rest.kegg.jp/get/C02798/image
 tRNA-Tyr(aq),kegg:C00787,[],,,chebi:29182,pubchem:4045,,
-L-tyrosyl-tRNA-Tyr(aq),kegg:C02839,[],,,chebi:29161,pubchem:5781,,https://rest.kegg.jp/get/:/image
+L-tyrosyl-tRNA-Tyr(aq),kegg:C02839,[],,,chebi:29161,pubchem:5781,,https://rest.kegg.jp/get/C02839/image
 tRNA-Thr(aq),kegg:C01651,[],,,chebi:29180,pubchem:4800,,
-L-threonyl-tRNA-Thr(aq),kegg:C02992,[],,,chebi:29163,pubchem:5901,,https://rest.kegg.jp/get/:/image
-L-isoleusine(aq),kegg:C00407,[],,,chebi:17191,pubchem:3697,,https://rest.kegg.jp/get/:/image
+L-threonyl-tRNA-Thr(aq),kegg:C02992,[],,,chebi:29163,pubchem:5901,,https://rest.kegg.jp/get/C02992/image
+L-isoleusine(aq),kegg:C00407,[],,,chebi:17191,pubchem:3697,,https://rest.kegg.jp/get/C00407/image
 tRNA-Ile(aq),kegg:C01644,[],,,chebi:29174,pubchem:4793,,
-L-isoleucyl-tRNA-Ile(aq),kegg:C03127,[],,,chebi:29160,pubchem:6020,,https://rest.kegg.jp/get/:/image
+L-isoleucyl-tRNA-Ile(aq),kegg:C03127,[],,,chebi:29160,pubchem:6020,,https://rest.kegg.jp/get/C03127/image
 tRNA-Lys(aq),kegg:C01646,[],,,chebi:29185,pubchem:4795,,
-L-lysyl-tRNA-Lys(aq),kegg:C01931,[],,,chebi:16047,pubchem:5037,,https://rest.kegg.jp/get/:/image
+L-lysyl-tRNA-Lys(aq),kegg:C01931,[],,,chebi:16047,pubchem:5037,,https://rest.kegg.jp/get/C01931/image
 tRNA-Ser(aq),kegg:C01650,[],,,chebi:29179,pubchem:4799,,
-L-seryl-tRNA-Ser(aq),kegg:C02553,[],,,chebi:29162,pubchem:5554,,https://rest.kegg.jp/get/:/image
+L-seryl-tRNA-Ser(aq),kegg:C02553,[],,,chebi:29162,pubchem:5554,,https://rest.kegg.jp/get/C02553/image
 tRNA-Arg(aq),kegg:C01636,[],,,chebi:29171,pubchem:4785,,
-L-arginyl-tRNA-Arg(aq),kegg:C02163,[],,,chebi:18366,pubchem:5239,,https://rest.kegg.jp/get/:/image
+L-arginyl-tRNA-Arg(aq),kegg:C02163,[],,,chebi:18366,pubchem:5239,,https://rest.kegg.jp/get/C02163/image
 tRNA-Phe(aq),kegg:C01648,[],,,chebi:29184,pubchem:4797,,
-L-phenylalanyl-tRNA-Phe(aq),kegg:C03511,[],,,chebi:29153,pubchem:6321,,https://rest.kegg.jp/get/:/image
+L-phenylalanyl-tRNA-Phe(aq),kegg:C03511,[],,,chebi:29153,pubchem:6321,,https://rest.kegg.jp/get/C03511/image
 tRNA-His(aq),kegg:C01643,[],,,chebi:29178,pubchem:4792,,
-L-histidyl-tRNA-His(aq),kegg:C02988,[],,,chebi:29155,pubchem:5897,,https://rest.kegg.jp/get/:/image
+L-histidyl-tRNA-His(aq),kegg:C02988,[],,,chebi:29155,pubchem:5897,,https://rest.kegg.jp/get/C02988/image
 (deoxyribonucleotide)_n(aq),,[],,,chebi:16991,pubchem:3341,,
 (deoxyribonucleotide)_m(aq),,[],,,chebi:16991,pubchem:3341,,
 (deoxyribonucleotide)_m+n(aq),,[],,,chebi:16991,pubchem:3341,,
-NAD+(aq),kegg:C00003,"['NAD(aq)', 'NAD', 'NAD(ox)(aq)', 'NAD(ox)', 'NAD+(aq)']",,,chebi:15846,pubchem:3305,,https://rest.kegg.jp/get/:/image
-THF(aq),kegg:C00101,"['5,6,7,8-tetrahydrofolate(aq)', 'tetrahydrofolate(aq)', 'THF(aq)', 'Tetrahydrofolate']",,,chebi:20506,pubchem:3401,,https://rest.kegg.jp/get/:/image
-"5,10-CH2-THF(aq)",kegg:C00143,"['5,10-methylenetetrahydrofolate(aq)', '5,10-CH2-THF(aq)']",,,chebi:1989,pubchem:3443,,https://rest.kegg.jp/get/:/image
-NH3(aq),kegg:C00014,"['ammonia(aq)', 'NH3(aq)']",,,chebi:16134,pubchem:3316,,https://rest.kegg.jp/get/:/image
-CO2(aq),kegg:C00288,"['carbon dioxide(aq)', 'CO2(aq)', 'CO2']",,,chebi:17544,pubchem:3583,,https://rest.kegg.jp/get/:/image
-Aminoimidazole ribotide,kegg:C03373,[],,,chebi:138560,pubchem:6208,,https://rest.kegg.jp/get/:/image
-CO2,kegg:C00288,"['carbon dioxide(aq)', 'CO2(aq)', 'CO2']",,,chebi:17544,pubchem:3583,,https://rest.kegg.jp/get/:/image
-1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate,kegg:C04751,[],,,chebi:28413,pubchem:7321,,https://rest.kegg.jp/get/:/image
-10-Formyltetrahydrofolate,kegg:C00234,"['10-formyltetrahydrofolate(aq)', '10-Formyltetrahydrofolate']",,,chebi:15637,pubchem:3533,,https://rest.kegg.jp/get/:/image
-Tetrahydrofolate,kegg:C00101,"['5,6,7,8-tetrahydrofolate(aq)', 'tetrahydrofolate(aq)', 'THF(aq)', 'Tetrahydrofolate']",,,chebi:20506,pubchem:3401,,https://rest.kegg.jp/get/:/image
-1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide,kegg:C04734,[],,,chebi:18381,pubchem:7305,,https://rest.kegg.jp/get/:/image
-D-Ribulose 5-phosphate,kegg:C00199,"['D-ribulose 5-phosphate(aq)', 'D-Ribulose 5-phosphate']",,,chebi:17363,pubchem:3499,,https://rest.kegg.jp/get/:/image
-Formaldehyde,kegg:C00067,"['formaldehyde(aq)', 'Formaldehyde']",,,chebi:16842,pubchem:3367,,https://rest.kegg.jp/get/:/image
-D-arabino-Hex-3-ulose 6-phosphate,kegg:C06019,"['D-arabino-3-hexulose 6-phosphate(aq)', 'D-arabino-Hex-3-ulose 6-phosphate']",,,chebi:27973,pubchem:8291,,https://rest.kegg.jp/get/:/image
-D-Fructose 6-phosphate,kegg:C00085,"['D-fructose 6-phosphate(aq)', 'D-Fructose 6-phosphate']",,,chebi:15946,pubchem:3385,,https://rest.kegg.jp/get/:/image
-",-trehalose 6-phosphate(aq)",kegg:C00689,"[""alpha,alpha'-trehalose 6-phosphate"", ',-trehalose 6-phosphate(aq)']",,,chebi:18283,pubchem:3958,,https://rest.kegg.jp/get/:/image
+NAD+(aq),kegg:C00003,"['NAD(aq)', 'NAD', 'NAD(ox)(aq)', 'NAD(ox)', 'NAD+(aq)']",,,chebi:15846,pubchem:3305,,https://rest.kegg.jp/get/C00003/image
+THF(aq),kegg:C00101,"['5,6,7,8-tetrahydrofolate(aq)', 'tetrahydrofolate(aq)', 'THF(aq)', 'Tetrahydrofolate']",,,chebi:20506,pubchem:3401,,https://rest.kegg.jp/get/C00101/image
+"5,10-CH2-THF(aq)",kegg:C00143,"['5,10-methylenetetrahydrofolate(aq)', '5,10-CH2-THF(aq)']",,,chebi:1989,pubchem:3443,,https://rest.kegg.jp/get/C00143/image
+NH3(aq),kegg:C00014,"['ammonia(aq)', 'NH3(aq)']",,,chebi:16134,pubchem:3316,,https://rest.kegg.jp/get/C00014/image
+CO2(aq),kegg:C00288,"['carbon dioxide(aq)', 'CO2(aq)', 'CO2']",,,chebi:17544,pubchem:3583,,https://rest.kegg.jp/get/C00288/image
+Aminoimidazole ribotide,kegg:C03373,[],,,chebi:138560,pubchem:6208,,https://rest.kegg.jp/get/C03373/image
+CO2,kegg:C00288,"['carbon dioxide(aq)', 'CO2(aq)', 'CO2']",,,chebi:17544,pubchem:3583,,https://rest.kegg.jp/get/C00288/image
+1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate,kegg:C04751,[],,,chebi:28413,pubchem:7321,,https://rest.kegg.jp/get/C04751/image
+10-Formyltetrahydrofolate,kegg:C00234,"['10-formyltetrahydrofolate(aq)', '10-Formyltetrahydrofolate']",,,chebi:15637,pubchem:3533,,https://rest.kegg.jp/get/C00234/image
+Tetrahydrofolate,kegg:C00101,"['5,6,7,8-tetrahydrofolate(aq)', 'tetrahydrofolate(aq)', 'THF(aq)', 'Tetrahydrofolate']",,,chebi:20506,pubchem:3401,,https://rest.kegg.jp/get/C00101/image
+1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide,kegg:C04734,[],,,chebi:18381,pubchem:7305,,https://rest.kegg.jp/get/C04734/image
+D-Ribulose 5-phosphate,kegg:C00199,"['D-ribulose 5-phosphate(aq)', 'D-Ribulose 5-phosphate']",,,chebi:17363,pubchem:3499,,https://rest.kegg.jp/get/C00199/image
+Formaldehyde,kegg:C00067,"['formaldehyde(aq)', 'Formaldehyde']",,,chebi:16842,pubchem:3367,,https://rest.kegg.jp/get/C00067/image
+D-arabino-Hex-3-ulose 6-phosphate,kegg:C06019,"['D-arabino-3-hexulose 6-phosphate(aq)', 'D-arabino-Hex-3-ulose 6-phosphate']",,,chebi:27973,pubchem:8291,,https://rest.kegg.jp/get/C06019/image
+D-Fructose 6-phosphate,kegg:C00085,"['D-fructose 6-phosphate(aq)', 'D-Fructose 6-phosphate']",,,chebi:15946,pubchem:3385,,https://rest.kegg.jp/get/C00085/image
+",-trehalose 6-phosphate(aq)",kegg:C00689,"[""alpha,alpha'-trehalose 6-phosphate"", ',-trehalose 6-phosphate(aq)']",,,chebi:18283,pubchem:3958,,https://rest.kegg.jp/get/C00689/image
